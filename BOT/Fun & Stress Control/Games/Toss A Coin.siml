@@ -1,0 +1,22 @@
+﻿<Siml>
+  <Dialog Name="Fun" IntentAlias="TossaCoin">
+    
+    <Intent>
+      <Expression Value="TOSS A COIN" />
+      <Response>
+        <Random>Coin tossed. It's (Heads|Tails) </Random>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I feel lucky" />
+      <Response>Me too!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What did you just say?" />
+      <Response>I said me too!</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

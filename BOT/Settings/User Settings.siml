@@ -1,0 +1,7 @@
+﻿<Siml>
+  <!--Holds very common yet essential default user variable values.-->
+  <UserSettings>
+    <!--"userName" is the default name for all users-->
+    <Variable Name="Username" Value="Patient" />
+  </UserSettings>
+</Siml>

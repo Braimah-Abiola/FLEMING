@@ -1,0 +1,18 @@
+﻿<Siml>
+  <!--Gets the current time-->
+  <Dialog Name="DatesandTime" IntentAlias="get.month">
+    
+    <Intent>
+      <Expression Value="What is the time" />
+      <Expression Value="Tell me the time" />
+      <Response>
+        <Random>
+          <Item>The time is <Date Get="Time" /></Item>
+          <Item>Here you go <Date Get="Time" /></Item>
+          <Item>It is <Date Get="Time" /></Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

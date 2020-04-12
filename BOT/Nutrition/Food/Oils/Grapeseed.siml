@@ -1,0 +1,36 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="grapeseedoil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating grapeseed oil" />
+<Expression Value="What are the benefits of consuming grapeseed oil" />
+<Expression Value="What benefits are attributed to the consumption of grapeseed oil" />
+
+<Response>Grapeseed oil has a very delicate and pleasant flavor. Also when used for frying, it does not produce the irritant acrolein, although it
+is best not to heat it beyound  170 degrees celcius/338 degrees fahrenheit.
+</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming grapeseed oil" />
+<Expression Value="What essential nutrients are obtained from grapeseed oil" />
+
+<Response>It is very rich in linoleic acid which reduces cholesterol levels<!--Add what those nutrients and vitamins do--></Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with grapeseed oil" />
+<Expression Value="What are the drawbacks of consuming grapeseed oil" />
+<Expression Value="What are the negativess of consuming grapeseed oil" />
+<Expression Value="Are there any reasons why I should consume grapeseed oil" />
+
+<Response>Grapeseed oil cannot be extracted cold and requites a certain level of refining.</Response>
+</Intent>
+
+
+</Dialog>
+
+</Siml>

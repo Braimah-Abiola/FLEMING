@@ -1,0 +1,44 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="canolaorrapeseed">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating canola oil" />
+<Expression Value="Are there any benefits associated with eating rapeseed oil" />
+<Expression Value="What are the benefits of consuming canola oil" />
+<Expression Value="What are the benefits of consuming rapeseed oil" />
+<Expression Value="What benefits are attributed to the consumption of canola oil" />
+
+<Response>
+The composition of canola or rapeseed oil is similar to that of olive oil, but with somewhat more linoleic acid and less saturated fatty acids.
+This oil contains the fewest saturated fatty acids of any, and one of the richest in monounsaturated oleic acid, which protects against arteriosclerosis.
+A genetically selected variation of the rapeseed called canola has been developed in Canada that does not contain toxic erucic acid.
+</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming canola or rapeseed oil" />
+<Expression Value="What essential nutrients are obtained from canola oil" />
+
+<Response>Rapeseed oil or canola oil is the riches in linoleic acid omega-3<!--Add what those nutrients and vitamins do--></Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with canola or rapeseed oil" />
+<Expression Value="What are the drawbacks of consuming rapeseed oil" />
+<Expression Value="What are the negativess of consuming canola oil" />
+<Expression Value="Are there any reasons why I should consume canola oil" />
+
+<Response>
+This oil comes from the common rapeseed plant contains a long-chain fatty acid known as erucic acid that is toxic to the coronary system. The refining
+process eliminates virtually all fo it. Canola oil contains no eurcic acid. 
+It has almost no taste. Canola oil has a very bad reputation in Spain, due to the massive poisoning from the consumption of the canola oil destined 
+for industiral uses.
+</Response>
+</Intent>
+
+
+</Dialog>
+</Siml>

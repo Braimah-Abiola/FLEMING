@@ -1,0 +1,13 @@
+﻿<Siml>
+  <!--UserSettings: This element is used to store user related predicates. To use a variable as an array use <Value> tag within a Variable-->
+  <!--Note: The default values declared below are used to initialize variables for the "Main" user-->
+  <!--Note: Values declared below are also used to initialize variables for ALL users that interact with Syn Web Assistant-->
+  <!--Note: <User Get="Variable-Name"> is used to retrieve the first variable-->
+  <UserSettings>
+    <!--Emotion: Default user emotion when a new user is created-->
+    <Variable Name="Emotion" Value="pleased" />
+    <!--Undefined: Value that renders a variable 'Undefined'-->
+    <Variable Name="Undefined" Value="" />
+    <!--Default: Value that is returned if a Get function is called on an undefined variable-->
+  </UserSettings>
+</Siml>

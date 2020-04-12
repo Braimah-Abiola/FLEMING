@@ -1,0 +1,33 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="soybeanoil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating soybean oil" />
+<Expression Value="What are the benefits of consuming soybean oil" />
+<Expression Value="What benefits are attributed to the consumption of soybean oil" />
+
+<Response>Soybean oil contains above all, polysaturated fatty acids, that reduce cholesterol levels. It is recommended in cases of elevated cholesterol and those at risk for thrombosis, arteriosclerosis, and coronary disease.</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming soybean oil" />
+<Expression Value="What essential nutrients are obtained from soybean oil" />
+
+<Response> Soybean oil is one of the oils, together with canola and wheat germ, richest in linolenic acid, a polyunsaturated fatty acid of the omega-3 type, similar to that found in fish oil.<!--Add what those nutrients and vitamins do--></Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with soybean oil" />
+<Expression Value="What are the drawbacks of consuming soybean oil" />
+<Expression Value="What are the negativess of consuming soybean oil" />
+<Expression Value="Are there any reasons why I should consume soybean oil" />
+
+<Response>As is the case with all seed oils, soy oil is extracted with solvents. Since it is always used refined, it has lost its lecithin and other non-fat soluble components. Its flavor is quite insipid, which for some, is an advantage.</Response>
+</Intent>
+
+
+</Dialog>
+</Siml>

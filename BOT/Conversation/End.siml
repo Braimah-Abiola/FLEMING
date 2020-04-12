@@ -1,0 +1,45 @@
+﻿<Siml>
+  <Dialog Name="Conversation" IntentAlias="ender">
+    
+    <Intent>
+      <Expression Value="Goodbye" />
+      <Expression Value="Bye" />
+      <Response>
+        <Random>
+          <Item>Are you leaving already?</Item>
+          <Item>Bye!, Take Care!</Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Goodnight" />
+      <Expression Value="I am going to bed" />
+      <Expression Value="I am going to sleep" />
+      <Response>
+        <Random>
+          <Item>Okay, but make sure to have at least 8 hours of rest</Item>
+          <Item>Have a sound sleep</Item>
+          <Item>Night Night</Item>
+          <Item>Sweet dreams</Item>
+        </Random>
+      </Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="I am going to take a nap" />
+      <Response>
+        <Random>
+          <Item>Okay, but make sure not to sleep to much or it may affect your nightime sleep</Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+    <Intent>
+    <Expression Value="Im off" />
+    <Expression Value="I am off" />
+    <Response>Ok, bye then</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

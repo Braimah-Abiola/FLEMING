@@ -1,0 +1,13 @@
+﻿<Siml>
+  <!--Gets the timezone-->
+  <Dialog Name="DatesandTime" IntentAlias="get.month">
+    
+    <Intent>
+      <Expression Value="What is the timezone" />
+      <Expression Value="Which timezone am I" />
+      <Response>
+          We're in <Date Get="Timezone" /></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

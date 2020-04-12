@@ -1,0 +1,167 @@
+﻿<Siml>
+  <Dialog Name="RDA" IntentAlias="1to3">
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin A for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin A for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin A for a 3 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 1-3 years range is 400 micrograms RE
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B1 for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B1 for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B1 for a 3 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 1-3 years range is 0.7 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B2 for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B2 for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B2 for a 3 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 1-3 years range is 0.8 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 3 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 1-3 years range is 9.0 mg NE
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B6 for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B6 for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B6 for a 3 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 1-3 years range is 1.0 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of folates for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of folates for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of folates for a 3 year old child or kid" />
+      <Response>
+The RDA of folates for a kid in the 1-3 years range is 50.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B12 for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B12 for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B12 for a 3 year old child or kid" />
+      <Response>
+The RDA of Vitamin B12 for a kid in the 1-3 years range is 0.7 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin C for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin C for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin C for a 3 year old child or kid" />
+      <Response>
+The RDA of Vitamin C for a kid in the 1-3 years range is 40.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin E for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin E for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin E for a 3 year old child or kid" />
+      <Response>
+The RDA of Vitamin E for a kid in the 1-3 years range is 6.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Calcium for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Calcium for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Calcium for a 3 year old child or kid" />
+      <Response>
+The RDA of Calcium for a kid in the 1-3 years range is 800 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Phosphorus for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Phosphorus for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Phosphorus for a 3 year old child or kid" />
+      <Response>
+The RDA of Phosphorus for a kid in the 1-3 years range is 800 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Magnesium for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Magnesium for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Magnesium for a 3 year old child or kid" />
+      <Response>
+The RDA of Magnesium for a kid in the 1-3 years range is 80.0 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Iron for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Iron for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Iron for a 3 year old child or kid" />
+      <Response>
+The RDA of Iron for a kid in the 1-3 years range is 10.0 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Potassium for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Potassium for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Potassium for a 3 year old child or kid" />
+      <Response>
+The RDA of Potassium for a kid in the 1-3 years range is 1000 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Zinc for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Zinc for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Zinc for a 3 year old child or kid" />
+      <Response>
+The RDA of Zinc for a kid in the 1-3 years range is 10.0 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin K for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin K for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin K for a 3 year old child or kid" />
+      <Response>
+The RDA of Vitamin K for a kid in the 1-3 years range is 5-10 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Iodine for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Iodine for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Iodine for a 3 year old child or kid" />
+      <Response>
+The RDA of Iodine for a kid in the 1-3 years range is 40-50 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Selenium for a 1 year old child or kid" />
+      <Expression Value="What is the RDA of Selenium for a 2 year old child or kid" />
+      <Expression Value="What is the RDA of Selenium for a 3 year old child or kid" />
+      <Response>
+The RDA of Selenium for a kid in the 1-3 years range is 10-15 micrograms
+</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

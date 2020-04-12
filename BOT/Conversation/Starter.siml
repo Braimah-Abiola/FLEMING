@@ -1,0 +1,57 @@
+﻿<Siml>
+  <Dialog Name="Conversation" IntentAlias="starter">
+    
+    <Intent>
+      <Expression Value="Heyya" />
+      <Expression Value="Hi" />
+      <Expression Value="Hello" />
+      <Expression Value="Hey" />
+      <Response>
+        <Random>
+          <Item>Hey there! How are you doing?</Item>
+          <Item>Hello! What are you up to?</Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Good Morning" />
+      <Expression Value="Good Day, Fleming" />
+      <Response>
+        <Random>
+          <Item>Good Morning, Need any help?</Item>
+          <Item>Good Day, How can I help you?</Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I am sick" />
+      <Expression Value="Im sick" />
+      <Response>
+       Oh, what's the matter, what exactly is wrong so I can help you out?
+      </Response>
+    </Intent>
+
+    
+    <Intent>
+      <Expression Value="Yo Fleming" />
+      <Expression Value="Yo" />
+      <Response>
+        <Random>(Yo, what you up to? | Hey, need any help?)</Random>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Good Afternoon" />
+      <Expression Value="Good Afternoon, Fleming" />
+      <Response>
+        <Random>
+          <Item>Good Afternoon, Need any help?</Item>
+          <Item>Good Day, Is it hot outside?</Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

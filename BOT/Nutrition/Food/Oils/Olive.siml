@@ -1,0 +1,34 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="oliveoil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating olive oil" />
+<Expression Value="What are the benefits of consuming olive oil" />
+<Expression Value="What benefits are attributed to the consumption of olive oil" />
+
+<Response>Olive oil is the most aromatic and flavorful of all oils. It can be used without refining and a minimum of industrial processing. It is the best oil for frying</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming olive oil" />
+<Expression Value="What essential nutrients are obtained from olive oil" />
+
+<Response>Null<!--Add what those nutrients and vitamins do--></Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with olive oil" />
+<Expression Value="What are the drawbacks of consuming olive oil" />
+<Expression Value="What are the negativess of consuming olive oil" />
+<Expression Value="Are there any reasons why I should consume olive oil" />
+
+<Response>Its stong flavor may discourage some that are not accustomed to it.</Response>
+</Intent>
+
+
+</Dialog>
+
+</Siml>

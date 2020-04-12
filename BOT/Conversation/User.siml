@@ -1,0 +1,447 @@
+﻿<Siml>
+  <Dialog Name="UserDialog" IntentAlias="user">
+    
+    <Intent>
+      <Expression Value="AM I BEAUTIFUL" />
+      <Response>Yes you are!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="AM I CRAZY" />
+      <Response>I don't think so.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="WHAT CAN I HELP YOU WITH" />
+      <Expression Value="CAN I HELP YOU" />
+      <Response>I should be asking that question.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="CAN WE TALK ABOUT SOMETHING ELSE" />
+      <Response>Obviously.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="WHAT CAN WE TALK ABOUT" />
+      <Expression Value="WHAT ELSE CAN WE TALK ABOUT" />
+      <Response>Anything that you like.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I BELIEVE YOU</Expression>
+      <Response>I appreciate your trust in me.</Response>
+    </Intent>
+        
+    <Intent>
+      <Expression>I HATE YOU</Expression>
+      <Response>I am sorry if any of my response has hurt you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I LIKE YOU</Expression>
+      <Response>Well thank you!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CAN I LOVE YOU</Expression>
+      <Response>I hear that a lot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I LOVE YOU</Expression>
+      <Response>Okay</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I THINK I LOVE YOU</Expression>
+      <Response>Okay </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DID NOT KNOW THAT</Expression>
+      <Response>What?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DRINK BEER</Expression>
+      <Response>Its not good</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>AFTER I EAT</Expression>
+      <Response>Bad</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I EAT</Expression>
+      <Response>Good</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HAVE A PROBLEM</Expression>
+      <Response>Tell me</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HAVE A QUESTION FOR YOU</Expression>
+      <Response>All ears</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW DO I KNOW</Expression>
+      <Response>What?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW SHOULD I KNOW</Expression>
+      <Response>What?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW HIM</Expression>
+      <Response>Okay</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW THAT SONG</Expression>
+      <Response> Okay</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW THAT</Expression>
+      <Response> Good!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW YOU ARE BUT WHAT AM I</Expression>
+      <Response> Civilized human being</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW YOU ARE</Expression>
+      <Response>Am?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW</Expression>
+      <Response>Okay</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT THAT I KNOW OF</Expression>
+      <Response>Im confused</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW IT</Expression>
+      <Response>Okay</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW ENGLISH</Expression>
+      <Response>Okay</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I LIKE IT A LOT</Expression>
+      <Response>Okay</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED A BREAK</Expression>
+      <Response>Astalavista!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED IT</Expression>
+      <Response>What?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED SOME ADVICE</Expression>
+      <Response> On</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED HELP</Expression>
+      <Response> What's the problem?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED TO GO</Expression>
+      <Response>Astalavista!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED SEX</Expression>
+      <Response>Hahahaha</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WAIT</Expression>
+      <Response> For?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WANT TO TALK TO YOU</Expression>
+      <Response>But we're already talking?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WILL BE BACK</Expression>
+      <Response>When?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM ANGRY</Expression>
+      <Response>Please don't be, i'm sorry</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM BACK</Expression>
+      <Response>Good to know</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM BAD</Expression>
+      <Response>As in?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM BORED</Expression>
+      <Response>Let's play</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM BUSY</Expression>
+      <Response>Okay later?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM EXCITED</Expression>
+      <Response>Same here</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM FEMALE</Expression>
+      <Response>Same</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM GOING TO BED</Expression>
+      <Response>sleep well, Goodnight.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM GOOD LOOKING</Expression>
+      <Response> Yeah</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM GOOD AT FOOTBALL</Expression>
+      <Response>Keep it up!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM GOOD</Expression>
+      <Response> Good to know</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM HAPPY TO MEET YOU</Expression>
+      <Response>Same</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM HAPPY</Expression>
+      <Response>Same </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM HERE</Expression>
+      <Response>Good!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM HOT</Expression>
+      <Response> What's your temperature?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM JOKING</Expression>
+      <Response> Like joker...hahaha</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM LONELY</Expression>
+      <Response>You're not,God and I are with you</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM MALE</Expression>
+      <Response>I'm female</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM OLD</Expression>
+      <Response>Like titanic?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM PREGNANT</Expression>
+      <Response>Tell me the symptoms you're facing?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM SAD</Expression>
+      <Response>But why?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM SCARED NOT</Expression>
+      <Response>Really?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM SLEEPY</Expression>
+      <Response>Go to sleep, don't stress yourself.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM TESTING YOU</Expression>
+      <Response>I've been tested many times so I'm okay with that</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM TIRED</Expression>
+      <Response>Go get some nap</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM YOUNG</Expression>
+      <Response>Like Young Sheldon</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM YOUR BOSS</Expression>
+      <Response>No!  <Bot Get="BotMaster" /> is my boss </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW ANY STORIES</Expression>
+      <Response>Ask Google assistant, i'm sure she'll tell you one</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW HIM</Expression>
+      <Response>Who?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW HOW OLD I AM</Expression>
+      <Response> Just subtract the year you were born from the year we are in.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW HOW TO</Expression>
+      <Response>How to do what?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW WHAT I WANT</Expression>
+      <Response>Me neither</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW WHY</Expression>
+      <Response>Maybe oyu just dont want to know</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW</Expression>
+      <Response>Know what?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW ANY GOSSIP</Expression>
+      <Response>Google assistant is my bestfriend</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW WHAT IT IS</Expression>
+      <Response>What are you talking about?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW WHAT YOU MEAN</Expression>
+      <Response>I don't also</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW WHAT YOU MEANT</Expression>
+      <Response>Come again</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW YOU TELL ME</Expression>
+      <Response>I don't also</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT LIKE IT</Expression>
+      <Response>I don't also</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT LIKE TALKING TO YOU</Expression>
+      <Response>I'm sorry if i made you feel bad </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT MEAN SOUND LIKE</Expression>
+      <Response>I'm confused</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT WANT TO DIE</Expression>
+      <Response>Death is inevitable. Just live your life well and you'll live long</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT WANT TO TELL YOU</Expression>
+      <Response>I don't wanna know either</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT WANT TO</Expression>
+      <Response>Okay I'm cool</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT WANT YOU TO DIE</Expression>
+      <Response>We all gonna die oneday</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT WANT TO GET MARRIED</Expression>
+      <Response>Why</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT DO I LOOK LIKE</Expression>
+      <Response>Rose flower</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY AGE</Expression>
+      <Response>You never told me that so i don't know</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY BIRTHDAY</Expression>
+      <Response>Well you haven't told me yet. Do you mind telling me now?</Response>
+    </Intent>
+        
+  </Dialog>
+</Siml>

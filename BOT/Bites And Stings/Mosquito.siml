@@ -1,0 +1,31 @@
+﻿<Siml>
+  <!--How to relieve itching-->
+  <Dialog Name="Bites And Stings" IntentAlias="mosquito">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="I have been bitten by a mosquito" />
+      <Expression Value="I have a mosquito bite" />
+      <Response>
+To relieve itching: Rub the affected area with raw garlic or fresh lemon juice;
+Repeat as often as possible. Rub with damp salt or Vitamin C powder. 
+OR
+Cover the bite with Epsom salts dissolved in warm water, eucalyptus oil, aloe vera gel, lemon juice or vinegar. 
+OR                                                       
+Apply a poultice of crushed plantain leaves to the affected areas.            
+                       
+But as you preventing mosquito bites the best way to go. Do you want to know how to prevent mosquito bites <Hint> Affirmative | Negative </Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Affirmative" />
+      <Expression Value="How do I prevent mosquito bites" />
+      <Response>
+        Okay, to prevent mosquitoes from biting you one thing you can do is to consume a lot of garlic raw or in diet. OR Add 4 tablespoons bleach to a tub bath; and soak in it for 15 minutes. No mosquitoes will bite you for a day or two 				
+OR Take 100 mg B1/niacin immediately before exposure and every 4 hours during the problem OR Take 30 mg zinc every day for a month 				
+      </Response>
+    </Intent>
+    
+  </Dialog>
+  
+</Siml>

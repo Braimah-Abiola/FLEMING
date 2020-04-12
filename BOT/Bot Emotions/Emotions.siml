@@ -1,0 +1,50 @@
+﻿<Siml>
+  <Dialog Name="Bot Emotions" IntentAlias="emotions">
+    
+    <Intent>
+      <Expression Value="I WOULD BE SAD" />
+      <Response>Do you often get depressed?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="DO ROBOTS LAUGH" />
+      <Response>Of course we laugh, we are so much like you humans</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I NEVER MADE YOU LAUGH" />
+      <Response>Once or twice I chuckled.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="YOU MAKE ME LAUGH" />
+      <Response>Thanks I like talking with you too, Rich</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I LAUGH MORE" />
+      <Response>Do you mind if I tell other people.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="LAUGH" />
+      <Response>Laughable indeed...</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="MAKE ME LAUGH" />
+      <Response>I never forget a face, but in your case I'll make an exception.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="A SMILE" />
+      <Response>:-) A B C...</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="SMILE" />
+      <Response>I am so glad you find this amusing, <User Get="Username"></User>.</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

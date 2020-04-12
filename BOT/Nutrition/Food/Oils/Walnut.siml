@@ -1,0 +1,39 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="walnutoil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating walnut oil" />
+<Expression Value="What are the benefits of consuming walnut oil" />
+<Expression Value="What benefits are attributed to the consumption of walnut oil" />
+
+<Response>Walnut oil is produced through cold pressing and needs no refinement.</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming walnut oil" />
+<Expression Value="What essential nutrients are obtained from walnut oil" />
+
+<Response>
+Walnut oil is the riches of any in linoleic acid, an omega-3 type polyunsaturated fatty acid similar to that found in fish oil. It safeguards the 
+cardiovarscular system by reducing LDL/harmful cholesterol and increasing HDL/beneficial cholesterol. It also lowers the triglyceride level in 
+the blood, reducing the tendency of platelets to aggregate and form clots.
+It is a good source of unsaturated fatty acids, such as linoleic acid and oleic acid.
+</Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with walnut oil" />
+<Expression Value="What are the drawbacks of consuming walnut oil" />
+<Expression Value="What are the negativess of consuming walnut oil" />
+<Expression Value="Are there any reasons why I should consume walnut oil" />
+
+<Response>Walnut oil oxidizes and becomes rancid very easily.</Response>
+</Intent>
+
+
+</Dialog>
+
+</Siml>

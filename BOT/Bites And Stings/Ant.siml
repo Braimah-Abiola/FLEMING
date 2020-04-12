@@ -1,0 +1,23 @@
+﻿<Siml>
+  <Dialog Name="BitesAndStings" IntentAlias="ant-bite">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="I have been bitten by an ant" />
+      <Expression Value="I have ant bites" />
+      <Response>
+        <Random>
+          <Item>
+Apply a poultice of crushed plantain leaves.
+		  </Item>
+          <Item>
+To reduce itching and swelling, apply baking soda to the area.
+Only add enough water to make a paste.
+An ice pack or cool compress will also help.
+		  </Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

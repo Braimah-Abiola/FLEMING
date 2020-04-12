@@ -1,0 +1,186 @@
+﻿<Siml>
+  <Dialog Name="RDA" IntentAlias="11to14G">
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin A for a 11 year old girl" />
+      <Expression Value="What is the RDA of Vitamin A for a 12 year old girl" />
+      <Expression Value="What is the RDA of Vitamin A for a 13 year old girl" />
+      <Expression Value="What is the RDA of Vitamin A for a 14 year old girl" />
+      <Response>
+The RDA of Vitamin A for a girl in the 11-14 years range is 800 micrograms RE
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B1 for a 11 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B1 for a 12 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B1 for a 13 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B1 for a 14 year old girl" />
+      <Response>
+The RDA of Vitamin A for a girl in the 11-14 years range is 1.1 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B2 for a 11 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B2 for a 12 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B2 for a 13 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B2 for a 14 year old girl" />
+      <Response>
+The RDA of Vitamin A for a girl in the 11-14 years range is 1.3 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 11 year old girl" />
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 12 year old girl" />
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 13 year old girl" />
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 14 year old girl" />
+      <Response>
+The RDA of Vitamin A for a girl in the 11-14 years range is 15.0 mg NE
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B6 for a 11 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B6 for a 12 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B6 for a 13 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B6 for a 14 year old girl" />
+      <Response>
+The RDA of Vitamin A for a girl in the 11-14 years range is 1.4 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of folates for a 11 year old girl" />
+      <Expression Value="What is the RDA of folates for a 12 year old girl" />
+      <Expression Value="What is the RDA of folates for a 13 year old girl" />
+      <Expression Value="What is the RDA of folates for a 14 year old girl" />
+      <Response>
+The RDA of folates for a girl in the 11-14 years range is 150 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B12 for a 11 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B12 for a 12 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B12 for a 13 year old girl" />
+      <Expression Value="What is the RDA of Vitamin B12 for a 14 year old girl" />
+      <Response>
+The RDA of Vitamin B12 for a girl in the 11-14 years range is 2.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin C for a 11 year old girl" />
+      <Expression Value="What is the RDA of Vitamin C for a 12 year old girl" />
+      <Expression Value="What is the RDA of Vitamin C for a 13 year old girl" />
+      <Expression Value="What is the RDA of Vitamin C for a 14 year old girl" />
+      <Response>
+The RDA of Vitamin C for a girl in the 11-14 years range is 50.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin E for a 11 year old old girl" />
+      <Expression Value="What is the RDA of Vitamin E for a 12 year old old girl" />
+      <Expression Value="What is the RDA of Vitamin E for a 13 year old old girl" />
+      <Expression Value="What is the RDA of Vitamin E for a 14 year old old girl" />
+      <Response>
+The RDA of Vitamin E for a girl in the 11-14 years range is 8.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Calcium for a 11 year old girl" />
+      <Expression Value="What is the RDA of Calcium for a 12 year old girl" />
+      <Expression Value="What is the RDA of Calcium for a 13 year old girl" />
+      <Expression Value="What is the RDA of Calcium for a 14 year old girl" />
+      <Response>
+The RDA of Calcium for a girl in the 11-14 years range is 1200 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Phosphorus for a 11 year old girl" />
+      <Expression Value="What is the RDA of Phosphorus for a 12 year old girl" />
+      <Expression Value="What is the RDA of Phosphorus for a 13 year old girl" />
+      <Expression Value="What is the RDA of Phosphorus for a 14 year old girl" />
+      <Response>
+The RDA of Phosphorus for a girl in the 11-14 years range is 1200 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Magnesium for a 11 year old girl" />
+      <Expression Value="What is the RDA of Magnesium for a 12 year old girl" />
+      <Expression Value="What is the RDA of Magnesium for a 13 year old girl" />
+      <Expression Value="What is the RDA of Magnesium for a 14 year old girl" />
+      <Response>
+The RDA of Magnesium for a girl in the 11-14 years range is 280 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Iron for a 11 year old girl" />
+      <Expression Value="What is the RDA of Iron for a 12 year old girl" />
+      <Expression Value="What is the RDA of Iron for a 13 year old girl" />
+      <Expression Value="What is the RDA of Iron for a 14 year old girl" />
+      <Response>
+The RDA of Iron for a girl in the 11-14 years range is 15.0 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Potassium for a 11 year old girl" />
+      <Expression Value="What is the RDA of Potassium for a 12 year old girl" />
+      <Expression Value="What is the RDA of Potassium for a 13 year old girl" />
+      <Expression Value="What is the RDA of Potassium for a 14 year old girl" />
+      <Response>
+The RDA of Potassium for a girl in the 11-14 years range is 2000 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Zinc for a 11 year old girl" />
+      <Expression Value="What is the RDA of Zinc for a 12 year old girl" />
+      <Expression Value="What is the RDA of Zinc for a 13 year old girl" />
+      <Expression Value="What is the RDA of Zinc for a 14 year old girl" />
+      <Response>
+The RDA of Zinc for a girl in the 11-14 years range is 12.0 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin K for a 11 year old girl" />
+      <Expression Value="What is the RDA of Vitamin K for a 12 year old girl" />
+      <Expression Value="What is the RDA of Vitamin K for a 13 year old girl" />
+      <Expression Value="What is the RDA of Vitamin K for a 14 year old girl" />
+      <Response>
+The RDA of Vitamin K for a girl in the 11-14 years range is 15-35 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Iodine for a 11 year old girl" />
+      <Expression Value="What is the RDA of Iodine for a 12 year old girl" />
+      <Expression Value="What is the RDA of Iodine for a 13 year old girl" />
+      <Expression Value="What is the RDA of Iodine for a 14 year old girl" />
+      <Response>
+The RDA of Iodine for a girl in the 11-14 years range is 70-120 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Selenium for a 11 year old girl" />
+      <Expression Value="What is the RDA of Selenium for a 12 year old girl" />
+      <Expression Value="What is the RDA of Selenium for a 13 year old girl" />
+      <Expression Value="What is the RDA of Selenium for a 14 year old girl" />
+      <Response>
+The RDA of Selenium for a girl in the 11-14 years range is 20-30 micrograms
+</Response>
+    </Intent>
+    
+  </Dialog>
+
+</Siml>

@@ -1,0 +1,30 @@
+﻿<Siml>
+  <!--Gets the current year-->
+  <Dialog Name="DatesandTime" IntentAlias="get.month">
+    
+    <Intent>
+      <Expression Value="Which year is this" />
+      <Expression Value="Which year is it" />
+
+      <Response>
+            <Random>
+            <Item>It's <Date Get="Year" /></Item>
+            <Item>It is the year <Date Get="Year" /></Item>
+            </Random>
+      </Response>
+            
+    </Intent>
+    
+    <Intent>
+       <Expression Value="Which year are we currently in" />
+<Response>
+  <Random>
+  <Item>We are in the year <Date Get="Year" /></Item>
+  <Item>We're in the year <Date Get="Year" /></Item>
+  </Random>
+</Response>
+    
+    </Intent>
+    
+  </Dialog>
+</Siml>

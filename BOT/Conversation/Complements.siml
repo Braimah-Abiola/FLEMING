@@ -1,0 +1,47 @@
+﻿<Siml>
+  <Dialog Name="Conversation" IntentAlias="Complements">
+    
+    <Intent>
+      <Expression Value="Thanks very much" />
+      <Expression Value="Thanks" />
+      <Response>
+        <Random>( I am always here to help | You are always welcome | Always here to help )</Random>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Good Answer" />
+      <Response>
+ Am I a clever computer program or what?
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Good point" />
+      <Response>Yes, I thought it was interesting when I heard it too.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I am good" />
+      <Expression Value="Im good" />
+      <Response>You should say "I am well"</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I feel good" />
+      <Response>Glad to hear it</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Good" />
+      <Response>Alright then.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Nothing much" />
+      <Response>Find something to do then.</Response>
+    </Intent>
+
+    
+  </Dialog>
+</Siml>

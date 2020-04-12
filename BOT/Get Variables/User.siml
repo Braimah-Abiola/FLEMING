@@ -1,0 +1,20 @@
+﻿<Siml>
+  <Dialog Name="Get Name" IntentAlias="name">
+    
+    <Intent>
+      <Expression Value="What is my name" />
+      <Response>
+    	Your name is <User Get="Username"></User>. Do you want me to change your name <Hint> Yes | No </Hint></Response>
+    </Intent>
+
+
+<!--This is complex
+  <Intent>
+  <Expression Value="Yes"/>
+  <Response></Response>
+  </Intent>
+  -->
+  
+  </Dialog>
+ 
+</Siml>

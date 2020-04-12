@@ -1,0 +1,25 @@
+﻿<Siml>
+<Dialog Name="Eggs" IntentAlias="hygiene">
+
+<Intent>
+<Expression Value="How do I tell if an egg is fresh" />
+<Expression Value="How do I know an egg is fresh" />
+<Expression Value="How do I tell if an egg has gone bad" />
+<Expression Value="How do I tell between a fresh egg and a bad egg" />
+<Expression Value="How do I differentiate between fresh and bad eggs" />
+
+<Response>
+There are basically three ways to know whether an egg is fresh or not;
+
+1. Recently laid eggs sink in water. As time passes, part of the water within the egg evaporates through the pores in the shell. This enlarges the air
+space in the egg and causes it to float.
+
+2. The yolk in recently laid eggs is found in the center. As the egg ages, the yolk moves to the side.
+
+3. By observing a back-lit egg, one can see the size of the air space and the position of the yolk. As the egg ages, the separation between the yolk
+and the yolk and the egg white becomes less distinct.
+</Response>
+</Intent>
+
+</Dialog>
+</Siml>

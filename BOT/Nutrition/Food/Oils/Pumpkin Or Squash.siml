@@ -1,0 +1,36 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="pumpkinorsquash">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating pumpkin or squash oil" />
+<Expression Value="What are the benefits of consuming pumpkin or squash oil" />
+<Expression Value="What benefits are attributed to the consumption of pumpkin or squash oil" />
+
+<Response>Pumpkin or squash oil soothes prostate and urinary bladder. It also expels intestinal worms when taken on an empty stomach</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming pumpkin or squash oil" />
+<Expression Value="What essential nutrients are obtained from pumpkin or squash oil" />
+
+<Response>
+Pumkin oil is rich in vitamin E, linoleic acid, zinc and iron.
+</Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with pumpkin or squash oil" />
+<Expression Value="What are the drawbacks of consuming pumpkin or squash oil" />
+<Expression Value="What are the negativess of consuming pumpkin or squash oil" />
+<Expression Value="Are there any reasons why I should consume pumpkin or squash oil" />
+
+<Response>Not suitable for cooking, because it breaks down with heat. It must be used only raw.</Response>
+</Intent>
+
+
+</Dialog>
+
+</Siml>

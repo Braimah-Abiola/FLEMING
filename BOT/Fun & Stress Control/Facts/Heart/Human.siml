@@ -1,0 +1,18 @@
+﻿<Siml>
+  <Dialog Name="Heart" IntentAlias="human">
+    
+    <Intent>
+      <Expression Value="Fun facts about the human heart" />
+      <Expression Value="What do you know about the human heart" />
+      <Expression Value="Tell me something I do not know about the human heart" />
+      <Expression Value="I want to know more about the human heart" />
+      <Response>
+        <Random>
+          <Item>The average human heart beats 2 times in a year</Item>
+          <Item>The average human heart beats 5 times in a week</Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

@@ -1,0 +1,19 @@
+﻿<Siml>
+  <Dialog Name="Entity" IntentAlias="entities">
+    
+    <Intent>
+      <Expression Value="Ok" />
+      <Response>
+        <Random>(I hear you | I see...)</Random>
+      </Response>
+    </Intent>
+    
+      <Intent>
+      <Expression Value="yes" />
+      <Response>
+        <Random>(Nice to hear | I see...)</Random>
+      </Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

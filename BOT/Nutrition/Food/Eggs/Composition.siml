@@ -1,0 +1,22 @@
+﻿<Siml>
+<Dialog Name="Eggs" IntentAlias="composition">
+
+<Intent>
+
+<Expression Value="What is the structural composition of an egg" />
+
+<Response>
+Composition of a 65 g egg: 
+
+Water: Eggshell - 0.07 g; Egg white - 34.27 g; Yolk - 9.95 g;
+Protein: Eggshell - 0.26 g; Egg white - 4.2 g; Yolk - 3.1 g;
+Fats: Eggshell - 0 g; Egg white - traces; Yolk - 5.58 g;
+Sugars: Eggshell - 0 g; Egg white - 0.6 g; Yolk - 0.2 g;
+Minerals: Eggshell - 6.2 g; Egg white - traces; Yolk - 0.298 g;
+Vitamins: Eggshell - 0 g; Egg white - 0 g; Yolk - 0.002 g;
+Total: Eggshell - 6.53 g; Egg white - 39.07 g; Yolk - 19.4 g;
+</Response>
+</Intent>
+
+</Dialog>
+</Siml>

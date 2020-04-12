@@ -1,0 +1,33 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="coconutoil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating coconut oil" />
+<Expression Value="What are the benefits of consuming coconut oil" />
+<Expression Value="What benefits are attributed to the consumption of coconut oil" />
+
+<Response>This oil is very stable at high temperatures. Its high content of medium-chain saturated fatty acids, such as lauric, myristic, and palmitic, makes it easily digestible, and highly recommended for pancreatic and intestinal disease.</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming coconut oil" />
+<Expression Value="What essential nutrients are obtained from coconut oil" />
+
+<Response>Blank<!--Add what those nutrients and vitamins do--></Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with coconut oil" />
+<Expression Value="What are the drawbacks of consuming coconut oil" />
+<Expression Value="What are the negativess of consuming coconut oil" />
+<Expression Value="Are there any reasons why I should consume coconut oil" />
+
+<Response>Coconut oil contains the most saturated fats of all vegetable oils, resulting in a semisolid oil at room temperature. In spite of its elevated saturated fatty acid content, it does not increase cholestrol levels as much as one might expect if these were of animal origin.</Response>
+</Intent>
+
+
+</Dialog>
+</Siml>

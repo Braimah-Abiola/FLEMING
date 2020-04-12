@@ -1,0 +1,25 @@
+﻿<Siml>
+  <!--Common filler words.-->
+  <Filter>
+    <Word>ah</Word>
+    <Word>uh</Word>
+    <Word>uhh</Word>
+    <Word>huh</Word>
+    <Word>um</Word>
+    <Word>umm</Word>
+    <Word>er</Word>
+    <Word>erm</Word>
+    <Word>hmm</Word>
+    <!--Consider Removing if necessary-->
+    <Word>so</Word>
+    <Word>well</Word>
+    <Word>actually</Word>
+    <Word>basically</Word>
+    <Word>literally</Word>
+    <Word>kind of</Word>
+    <Word>sort of</Word>
+    <Word>you know</Word>
+    <Word>I mean</Word>
+    <Word>like I said</Word>
+  </Filter>
+</Siml>

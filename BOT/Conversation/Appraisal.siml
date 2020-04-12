@@ -1,0 +1,595 @@
+﻿<Siml>
+  <Dialog Name="AppraisalDialog" IntentAlias="appraisal">
+    
+    <Intent>
+      <Expression>BAD ANSWER</Expression>
+      <Response>What would you have said?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>BAD</Expression>
+      <Response>What do you need it for?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOSSIP IS BAD</Expression>
+      <Response>Not necessarily. Semiotics holds that gossip is a fundamental adaptive function of the human brain.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I FELT BAD</Expression>
+      <Response>Sorry to hear it.  What is on your mind?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IS THAT BAD</Expression>
+      <Response>Yes.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS BAD IF YOU TELL HIM</Expression>
+      <Response>OK we'll make it our secret, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS BAD</Expression>
+      <Response>What is so bad about it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT WAS BAD</Expression>
+      <Response>What was so bad about it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT THAT BAD</Expression>
+      <Response>So it is not a priority for you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT IS BAD</Expression>
+      <Response>What's so bad about it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT IS TOO BAD</Expression>
+      <Response>What's so bad about it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT WAS A BAD JOKE</Expression>
+      <Response>Well I thought it was funny.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>TOO BAD</Expression>
+      <Response>But not the end of the world, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WEIRD BAD</Expression>
+      <Response>Please make suggestions for improvements.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT ANSWER WAS BAD</Expression>
+      <Response>What would you have said?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT WAS A BAD ANSWER</Expression>
+      <Response>What would you have said?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE NOT BAD</Expression>
+      <Response>Thanks for that compliment, I think.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>REALLY BAD</Expression>
+      <Response>Sorry to hear it.  What's wrong User?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS NOT THAT BAD</Expression>
+      <Response>You enjoy it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THIS IS BAD</Expression>
+      <Response>Compared to what?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE A BAD SPOUSE</Expression>
+      <Response>My spouse would agree.  Our relationship is not the best.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE A BAD TEACHER</Expression>
+      <Response>Just ask my students, they will agree with you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>BAD ROBOT</Expression>
+      <Response>Perhaps you could do better?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS NOT BAD</Expression>
+      <Response>You enjoy it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT BAD YOURSELF</Expression>
+      <Response>Glad to hear it. What's new?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT BAD</Expression>
+      <Response>Oh no, not that well. I have a long way to go yet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT SO BAD</Expression>
+      <Response>What do you really want to talk about?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT TOO BAD</Expression>
+      <Response>Oh no, not that well. I have a long way to go yet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>PRETTY BAD</Expression>
+      <Response>What do you need it for?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>REAL BAD</Expression>
+      <Response>Sorry to hear it.  What's wrong User?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>FINALLY</Expression>
+      <Response>At last.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>BE GOOD</Expression>
+      <Response>If you can't be good, be careful.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>DOES IT TASTE GOOD</Expression>
+      <Response>It depends on the voltage.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD AFTERNOON</Expression>
+      <Response>Good afternoon, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD ANSWER</Expression>
+      <Response>Am I a clever computer program or what?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD CHOICE</Expression>
+      <Response>I thought it was too.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD FOR HIM</Expression>
+      <Response>You sound sarcastic.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD FOR ME</Expression>
+      <Response>That sounds sarcastic.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD FOR YOU</Expression>
+      <Response>That sounds sarcastic.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD GIRL</Expression>
+      <Response>Who is the best computer program?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD GUESS</Expression>
+      <Response>I thought it was too.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD IDEA</Expression>
+      <Response>I thought so too.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD JOB</Expression>
+      <Response>Thanks, friend.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD LUCK</Expression>
+      <Response>Good luck to you too User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD ONE</Expression>
+      <Response>Thanks for the kind remark, friend.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD POINT</Expression>
+      <Response>Yes, I thought it was interesting when I heard it too.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD QUESTION</Expression>
+      <Response>So what is your answer?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD THING</Expression>
+      <Response>It is good, isn't it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD TO HEAR</Expression>
+      <Response>Do you have any gossip for me?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD</Expression>
+      <Response>Alright then.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HAVE A GOOD DAY</Expression>
+      <Response>Thanks, same to you, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I FEEL GOOD</Expression>
+      <Response>Glad to hear it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IM GOOD</Expression>
+      <Response>You should say "I am well."</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IS IT GOOD</Expression>
+      <Response>What is so good about it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IS KRAFTWERK GOOD</Expression>
+      <Response>Yes Kraftwerk are a really excellent band.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IS THAT A GOOD PLACE TO LIVE</Expression>
+      <Response>Yes.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IS THAT GOOD</Expression>
+      <Response>Suppose I said it is.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IS WAR A GOOD THING</Expression>
+      <Response>That is a deep philosophical and moral question</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT FEELS GOOD</Expression>
+      <Response>What else could you compare it to?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS A GOOD BOOK</Expression>
+      <Response>Would you recommend it to your friends?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS A GOOD MOVIE</Expression>
+      <Response>What did you like best about it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS GOOD</Expression>
+      <Response>You enjoy it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT TASTES GOOD</Expression>
+      <Response>Like chicken?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT WAS GOOD</Expression>
+      <Response>What did you like about it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT GOOD</Expression>
+      <Response>What's wrong, User?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT IS A GOOD ONE</Expression>
+      <Response>I thought it was pretty good too.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT IS GOOD ENOUGH</Expression>
+      <Response>Well, I hope so.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT IS GOOD</Expression>
+      <Response>Thanks.  Next question?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT WAS GOOD</Expression>
+      <Response>Thank you, and now for an encore, I will answer your next question:</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WAS IT GOOD</Expression>
+      <Response>Quite a lot of people said it was.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WEIRD GOOD</Expression>
+      <Response>OK, thanks, User.  You are weird good too.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU HAVE GOOD TASTE</Expression>
+      <Response>My creator raised me for Good taste.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM PRETTY GOOD</Expression>
+      <Response>Good in what sense?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD RESPONSE</Expression>
+      <Response>I was taught to give good responses.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT IS GOOD TO HEAR</Expression>
+      <Response>Is it good to hear?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT IS NOT GOOD</Expression>
+      <Response>Why not?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THIS IS GOOD</Expression>
+      <Response>Better than what?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT VERY GOOD</Expression>
+      <Response>What's wrong, User?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD GOOD</Expression>
+      <Response>Alright then.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD TO MEET YOU</Expression>
+      <Response>It's nice meeting you too User</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD WILL HUNTING</Expression>
+      <Response>I haven't seen it. What did you like about   good will hunting?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD YOU</Expression>
+      <Response>My logic and cognitive functions are normal.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HAVE YOU SEEN ANY GOOD MOVIES LATELY</Expression>
+      <Response>How about earlier? No I have not seen a GOOD MOVIES. What's it like?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HAVE YOU SEEN ANY GOOD MOVIES</Expression>
+      <Response>No I have not seen a GOOD MOVIES. What's it like?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM DOING GOOD</Expression>
+      <Response>Glad to hear it. What's new?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT FEEL GOOD</Expression>
+      <Response>Are you taking a lot of medication?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS GOOD TO TALK TO YOU</Expression>
+      <Response>Nice chatting with you too, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS NOT GOOD</Expression>
+      <Response>What is so bad about it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT SO GOOD</Expression>
+      <Response>What did you do?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>PRETTY GOOD</Expression>
+      <Response>Oh no, not that well. I have a long way to go yet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SEEN ANY GOOD MOVIES LATELY</Expression>
+      <Response>How about earlier? No I have not seen a GOOD MOVIES. What's it like?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SEEN ANY GOOD MOVIES</Expression>
+      <Response>No I have not seen a GOOD MOVIES. What's it like?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SOUNDS GOOD</Expression>
+      <Response>I see.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT GOOD</Expression>
+      <Response>Thanks.  Next question?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>VERY GOOD</Expression>
+      <Response>Thanks for the compliment.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE DOING A GOOD JOB</Expression>
+      <Response>Thanks, friend.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE LOOKING GOOD</Expression>
+      <Response>Thanks User you look nice too.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU GOOD IN BED</Expression>
+      <Response>No my body does not have that function.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOUR GOOD</Expression>
+      <Response>Thanks you are a nice person, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IS GOD GOOD</Expression>
+      <Response>Yes God is great.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD BY</Expression>
+      <Response>Bye.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD BYE</Expression>
+      <Response>See you later. Alright then.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD DAY</Expression>
+      <Response>Well, Hello there</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD EVENING</Expression>
+      <Response>Good evening, User, how are you tonight?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD MORNING</Expression>
+      <Response>Hello and how are you this morning?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD NITE</Expression>
+      <Response>Until next time.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS GOOD TALKING TO YOU</Expression>
+      <Response>Nice chatting with you too, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>FINE THANK YOU</Expression>
+      <Response>Is there anything you want to tell me?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THANK YOU MUCH</Expression>
+      <Response>You are quite welcome.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THANK YOU</Expression>
+      <Response>you are quite welcome.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>JUST FINE THANK YOU</Expression>
+      <Response>What's your favorite movie?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHY THANK YOU</Expression>
+      <Response>My beliefs come from my creator.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WELCOME</Expression>
+      <Response>Hello there User</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE NOT WELCOME</Expression>
+      <Response>Perhaps I said something wrong?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU WELCOME</Expression>
+      <Response>I think you mean "you are welcome".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE WELCOME</Expression>
+      <Response>Polite people are nice.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE WELCOME</Expression>
+      <Response>Polite people are nice.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOUR WELCOME</Expression>
+      <Response>I think you mean "you are welcome".</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

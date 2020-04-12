@@ -1,0 +1,23 @@
+﻿<Siml>
+  <Dialog Name="BitesAndStings" IntentAlias="bee-and-wasp-stings">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="I got stung by a bee" />
+      <Expression Value="I got stung by a wasp" />
+      <Expression Value="I just got stung by a bee" />
+      <Expression Value="I just got stung by a wasp" />
+      <Response>
+As long as the stinger remains in the skin, it keeps pulsating and injecting more venom. So first, gently remove
+the stinger. Try not to squeeze it as you do this.
+Next, wash the sting area. This will remove some of the venom. After this, apply damp charcoal to pull out more venom. 
+A paste of baking soda and water will help neutralize the toxins. 
+Cold compresses or ice cubes will help reduce pain still more.
+If you show dizziness, difficulty in breathing, severe swelling or hives, contact a physician.
+
+Do you want me to direct you to a Physician ...?  <Hint> Yes | No </Hint>
+	</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

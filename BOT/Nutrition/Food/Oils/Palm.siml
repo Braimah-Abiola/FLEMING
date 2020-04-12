@@ -1,0 +1,33 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="palmoil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with palm oil" />
+<Expression Value="What are the benefits of consuming palm oil" />
+<Expression Value="What benefits are attributed to the consumption of palm oil" />
+
+<Response>Unrefined palm oil contains beta-carotene or provitamin A, but this almost completely disappears during the refining process.</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming palm oil" />
+<Expression Value="What essential nutrients are obtained from palm oil" />
+
+<Response>Palm oil contains beta-carotene / Provitamin A <!--Add what those nutrients and vitamins do--></Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with palm oil" />
+<Expression Value="What are the drawbacks of consuming palm oil" />
+<Expression Value="What are the negativess of consuming palm oil" />
+<Expression Value="Are there any reasons why I should consume palm oil" />
+
+<Response>This vegetable oil or fat is second only to coconut oil in saturated fatty acids. Those with elevated cholesterol levels should avoid its regular use.</Response>
+</Intent>
+
+
+</Dialog>
+</Siml>

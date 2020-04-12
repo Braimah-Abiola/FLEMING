@@ -1,0 +1,185 @@
+﻿<Siml>
+  <Dialog Name="RDA" IntentAlias="7to10">
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin A for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin A for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin A for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin A for a 10 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 7-10 years range is 700 micrograms RE
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B1 for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B1 for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B1 for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B1 for a 10 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 7-10 years range is 1.0 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B2 for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B2 for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B2 for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B2 for a 10 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 7-10 years range is 1.2 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 10 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 7-10 years range is 13.0 mg NE
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B6 for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B6 for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B6 for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B6 for a 10 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 7-10 years range is 1.4 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of folates for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of folates for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of folates for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of folates for a 10 year old child or kid" />
+      <Response>
+The RDA of folates for a kid in the 7-10 years range is 100 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B12 for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B12 for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B12 for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B12 for a 10 year old child or kid" />
+      <Response>
+The RDA of Vitamin B12 for a kid in the 7-10 years range is 1.4 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin C for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin C for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin C for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin C for a 10 year old child or kid" />
+      <Response>
+The RDA of Vitamin C for a kid in the 7-10 years range is 45.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin E for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin E for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin E for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin E for a 10 year old child or kid" />
+      <Response>
+The RDA of Vitamin E for a kid in the 7-10 years range is 7.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Calcium for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Calcium for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Calcium for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Calcium for a 10 year old child or kid" />
+      <Response>
+The RDA of Calcium for a kid in the 7-10 years range is 800 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Phosphorus for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Phosphorus for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Phosphorus for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Phosphorus for a 10 year old child or kid" />
+      <Response>
+The RDA of Phosphorus for a kid in the 7-10 years range is 800 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Magnesium for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Magnesium for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Magnesium for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Magnesium for a 10 year old child or kid" />
+      <Response>
+The RDA of Magnesium for a kid in the 7-10 years range is 170 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Iron for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Iron for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Iron for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Iron for a 10 year old child or kid" />
+      <Response>
+The RDA of Iron for a kid in the 7-10 years range is 10.0 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Potassium for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Potassium for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Potassium for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Potassium for a 10 year old child or kid" />
+      <Response>
+The RDA of Potassium for a kid in the 7-10 years range is 1600 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Zinc for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Zinc for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Zinc for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Zinc for a 10 year old child or kid" />
+      <Response>
+The RDA of Zinc for a kid in the 7-10 years range is 10.0 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin K for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin K for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin K for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin K for a 10 year old child or kid" />
+      <Response>
+The RDA of Vitamin K for a kid in the 7-10 years range is 15-30 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Iodine for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Iodine for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Iodine for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Iodine for a 10 year old child or kid" />
+      <Response>
+The RDA of Iodine for a kid in the 7-10 years range is 70-120 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Selenium for a 7 year old child or kid" />
+      <Expression Value="What is the RDA of Selenium for a 8 year old child or kid" />
+      <Expression Value="What is the RDA of Selenium for a 9 year old child or kid" />
+      <Expression Value="What is the RDA of Selenium for a 10 year old child or kid" />
+      <Response>
+The RDA of Selenium for a kid in the 7-10 years range is 20-30 micrograms
+</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

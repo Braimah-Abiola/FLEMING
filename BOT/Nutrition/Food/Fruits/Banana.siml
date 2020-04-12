@@ -1,0 +1,54 @@
+﻿<Siml>
+  
+  <Dialog Name="Fruits" IntentAlias="banana">
+    
+    <Intent>
+      <Expression Value="What do you know about Bananas" />
+      <Response>Bananas belong to Musaceae botanical family which comprises some 200 species of trees and bushes primarily tropical and known for their bunches of fleshy fruit</Response>
+    </Intent>
+      
+      <Intent>
+        <Expression Value="What are the nutirents I get from eating bananas" />
+        <Response>Bananas are very rich in Potassium. It is also composed of Magnesium, Iron and Phosphorus</Response>
+      </Intent>
+     
+    <Intent>
+      <Expression Value="Are there any allergies related to eating bananas" />
+      <Response>None</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What are the importance of consuming bananas" />
+      <Response>
+            It's richness in Potassium and absence of Sodium prevents arterial hypertension, arrhythmia, stroke and even cancer
+      		Small amounts of serotonin acts as vasodilator
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of banana" />
+      <Expression Value="What is the scientific name of banana" />
+      <Response>Musca paradisiaca</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Any downside on eating bananas" />
+      <Response>
+            The digestion of banana begins in the mouth. It's starch content is difficult to digest, especially when the banana is unripe, and can produce flatulence. Proper digestion is facilitated by chewing the banana well, mixing it with saliva.      
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Are there other varieties of bananas" />
+      <Response>Yeah, there is plantain, red banana and dwarf banana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Is banana good for diabetic patients" />
+      <Expression Value="I am diabetic, can I eat bananas" />
+      <Response>Well, bananas are not contrained for diabetics, although the use of the carbohydrates they contain in the from of sugars must be controlled. In contrast to refined sugars, those found in bananas are absorbed more slowly and do not produce a sharp rise in blood glucose or sugar level </Response>
+    </Intent>
+    
+  </Dialog>
+  
+</Siml>

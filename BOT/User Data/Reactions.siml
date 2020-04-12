@@ -1,0 +1,19 @@
+﻿<Siml>
+<Dialog Name="UserData" IntentAlias="reactions">
+
+<Intent>
+<Expression Value="Wow" />
+<Response>
+<Random>(Yeah, I find it amazing too... | I also find that amusing)</Random>
+</Response>
+</Intent>
+
+<Intent>
+<Expression Value="Dope" />
+<Response>
+<Random>(Well Im not as dope as the Migos, you know right? | Im still working on my personal style)</Random>
+</Response>
+</Intent>
+
+</Dialog>
+</Siml>

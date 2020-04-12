@@ -1,0 +1,22 @@
+﻿<Siml>
+  <Dialog Name="Activation" IntentAlias="Activate">
+    
+    <Intent>
+      <Expression Value="Hey Fleming" />
+      <Response>Hey <User Get="Username"></User>, do you need me to help you with anything? <Hint> Affirmative | Negative </Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Affirmative" />
+      <Response>
+        <Random>(What help do you need? | How can I help? | What exactly is wrong?)</Random>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Negative" />
+      <Response><Random>(Ok then | I guess you dont need me on this one...)</Random></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

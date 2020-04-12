@@ -1,0 +1,17 @@
+﻿<Siml>
+  <Dialog Name="DatesandTime" IntentAlias="get.month">
+    
+    <Intent>
+      <Expression Value="What month is it" />
+      <Expression Value="Which month are we" />
+      <Response>
+        <Random>
+          <Item>We're in <Date Get="Month" /></Item>
+          <Item>It's <Date Get="Month" /></Item>
+          <Item>We are in the month of <Date Get="Month" /></Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

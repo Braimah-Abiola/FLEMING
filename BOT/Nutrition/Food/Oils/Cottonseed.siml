@@ -1,0 +1,37 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="cottonseedoil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating cottonseed oil" />
+<Expression Value="What are the benefits of consuming cottonseed oil" />
+<Expression Value="What benefits are attributed to the consumption of cottonseed oil" />
+
+<Response>Cottonseed oil is a good source of essential polyunsaturated fatty acids, such as linoleic acid</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming cottonseed oil" />
+<Expression Value="What essential nutrients are obtained from cottonseed oil" />
+
+<Response>Cottonseed oil is a very good source of vitamin E. Two tablespoons of this oil meets the RDA<!--Add what those nutrients and vitamins do--></Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with cottonseed oil" />
+<Expression Value="What are the drawbacks of consuming cottonseed oil" />
+<Expression Value="What are the negativess of consuming cottonseed oil" />
+<Expression Value="Are there any reasons why I should consume cottonseed oil" />
+
+<Response>
+Cottonseed oil contains a toxic yellow pigment called gosipol, which gives it a strong sharp taste. Due to the intensity of the refining process, 
+cottonseed oil is virtually colorless, odourless, and tasteless. It is one of the oils with the lowest levels of monounsaturated fatty acids, such
+as oleic which safe-guards the cardiovascular system
+</Response>
+</Intent>
+
+
+</Dialog>
+</Siml>

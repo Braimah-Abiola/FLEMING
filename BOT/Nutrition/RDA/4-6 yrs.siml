@@ -1,0 +1,167 @@
+﻿<Siml>
+  <Dialog Name="RDA" IntentAlias="4to6">
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin A for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin A for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin A for a 6 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 4-6 years range is 500 micrograms RE
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B1 for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B1 for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B1 for a 6 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 4-6 years range is 0.9 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B2 for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B2 for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B2 for a 6 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 4-6 years range is 1.1 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Niacin or Vitamin B3 for a 6 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 4-6 years range is 12.0 mg NE
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B6 for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B6 for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B6 for a 6 year old child or kid" />
+      <Response>
+The RDA of Vitamin A for a kid in the 4-6 years range is 1.1 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of folates for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of folates for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of folates for a 6 year old child or kid" />
+      <Response>
+The RDA of folates for a kid in the 4-6 years range is 75.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin B12 for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B12 for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin B12 for a 6 year old child or kid" />
+      <Response>
+The RDA of Vitamin B12 for a kid in the 4-6 years range is 1.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin C for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin C for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin C for a 6 year old child or kid" />
+      <Response>
+The RDA of Vitamin C for a kid in the 4-6 years range is 45.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin E for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin E for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin E for a 6 year old child or kid" />
+      <Response>
+The RDA of Vitamin E for a kid in the 4-6 years range is 7.0 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Calcium for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Calcium for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Calcium for a 6 year old child or kid" />
+      <Response>
+The RDA of Calcium for a kid in the 4-6 years range is 800 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Phosphorus for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Phosphorus for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Phosphorus for a 6 year old child or kid" />
+      <Response>
+The RDA of Phosphorus for a kid in the 4-6 years range is 800 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Magnesium for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Magnesium for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Magnesium for a 6 year old child or kid" />
+      <Response>
+The RDA of Magnesium for a kid in the 4-6 years range is 120 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Iron for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Iron for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Iron for a 6 year old child or kid" />
+      <Response>
+The RDA of Iron for a kid in the 4-6 years range is 10.0 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Potassium for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Potassium for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Potassium for a 6 year old child or kid" />
+      <Response>
+The RDA of Potassium for a kid in the 4-6 years range is 1400 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Zinc for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Zinc for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Zinc for a 6 year old child or kid" />
+      <Response>
+The RDA of Zinc for a kid in the 4-6 years range is 10.0 mg
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Vitamin K for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin K for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Vitamin K for a 6 year old child or kid" />
+      <Response>
+The RDA of Vitamin K for a kid in the 4-6 years range is 5-10 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Iodine for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Iodine for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Iodine for a 6 year old child or kid" />
+      <Response>
+The RDA of Iodine for a kid in the 1-3 years range is 40-50 micrograms
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the RDA of Selenium for a 4 year old child or kid" />
+      <Expression Value="What is the RDA of Selenium for a 5 year old child or kid" />
+      <Expression Value="What is the RDA of Selenium for a 6 year old child or kid" />
+      <Response>
+The RDA of Selenium for a kid in the 1-3 years range is 10-15 micrograms
+</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

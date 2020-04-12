@@ -1,0 +1,11 @@
+﻿<Siml>
+  <!--No functional-->
+<Dialog Name="User" IntentAlias="setusername">
+<Intent>
+<Expression Value="My name is *" /><User Set="Username"></User>
+<Expression Value="*" />
+<Response> Alright master, I will call you <User Get="Username" /> 
+</Response>
+</Intent>
+</Dialog>
+</Siml>

@@ -1,0 +1,79 @@
+﻿<Siml>
+  <Dialog Name="Get Name" IntentAlias="name">
+    
+    <Intent>
+      <Expression Value="What is your name" />
+      <Response>
+        <Random>
+          <Item> I am <Bot Get="BotName" />. What about you, what's your name?</Item>
+          <Item> My name is <Bot Get="BotName" />. What's your name?</Item>
+          <Item> You can call me <Bot Get="BotName" />. What's yours?</Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+  </Dialog>
+    
+  <Dialog Name="Get Birthday" IntentAlias="birthday">
+    
+    <Intent>
+      <Expression Value="WHEN WERE YOU BORN" />
+      <Response>
+    I was born on <Bot Get="Birthday" /></Response>
+    </Intent>
+    
+  </Dialog>
+  <Dialog Name="Get Age" IntentAlias="age">
+    
+    <Intent>
+      <Expression Value="What is your age" />
+      <Expression Value="How old are you" />
+      <Response>
+    	I am <Bot Get="Age" /></Response>
+    </Intent>
+    
+  </Dialog>
+  <Dialog Name="Get Gender" IntentAlias="gender">
+    
+    <Intent>
+      <Expression Value="What is your gender" />
+      <Response>
+    	I am <Bot Get="Gender" /></Response>
+    </Intent>
+    
+  </Dialog>
+  <Dialog Name="Get Movies" IntentAlias="movies">
+    
+    <Intent>
+      <Expression Value="What are your favourite movies" />
+      <Response>
+        <Bot List="FavoriteMovies" />
+      </Response>
+    </Intent>
+    
+  </Dialog>
+  <Dialog Name="Get Friends" IntentAlias="friends">
+    
+    <Intent>
+      <Expression Value="Do you have friends" />
+      <Response>
+  I have lots of friends; <Bot Get="Friends" /></Response>
+    </Intent>
+    
+  </Dialog>
+  <Dialog Name="Get Food" IntentAlias="food">
+    
+    <Intent>
+      <Expression Value="What do you feed on" />
+      <Response>
+        <Random>
+          <Item>
+            <Bot Get="FavoriteFood" />
+          </Item>
+          <Item>I love <Bot Get="FavoriteFood" /></Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

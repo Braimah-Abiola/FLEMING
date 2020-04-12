@@ -1,0 +1,40 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="saffloweroil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating safflower oil" />
+<Expression Value="What are the benefits of consuming safflower oil" />
+<Expression Value="What benefits are attributed to the consumption of safflower oil" />
+
+<Response>
+Safflower oil contains one of the lowest levels of saturated fats, second only to canola oil. It is the riches in essential fatty linoleic acid.
+It is of value in cases of: Prostate hypertrophy, in cholesterol reduction diets, as a laxative, and rheumatic disease.
+</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming safflower oil" />
+<Expression Value="What essential nutrients are obtained from safflower oil" />
+
+<Response>Safflower oil provides a significant ammount of phytosterols which combat cholesterol and Vitamin E<!--Add what those nutrients and vitamins do--></Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with safflower oil" />
+<Expression Value="What are the drawbacks of consuming safflower oil" />
+<Expression Value="What are the negativess of consuming safflower oil" />
+<Expression Value="Are there any reasons why I should consume safflower oil" />
+
+<Response>
+Safflower oil must always be refined. It becomes rancid very easily, and must be protected from contact with the air. It contains little monounsaturated
+oleic acid with its cardiac safe-guarding action.
+</Response>
+</Intent>
+
+
+</Dialog>
+
+</Siml>

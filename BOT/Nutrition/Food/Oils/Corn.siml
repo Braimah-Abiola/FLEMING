@@ -1,0 +1,37 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="cornoil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating corn oil" />
+<Expression Value="What are the benefits of consuming corn oil" />
+<Expression Value="What benefits are attributed to the consumption of corn oil" />
+
+<Response>One hundred grams of corn oil provides more than double the Vitamin E RDA </Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming corn oil" />
+<Expression Value="What essential nutrients are obtained from corn oil" />
+
+<Response>
+Corn oil is one of the vegetable oils richest in phytosterols, particularly beta-sitosterol, which prevent the absorption of cholesterol in the 
+intestine. It also contains Vitamin E, linoleic acid and oleic acid which reduce cholesterol levels.
+</Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with corn oil" />
+<Expression Value="What are the drawbacks of consuming corn oil" />
+<Expression Value="What are the negativess of consuming corn oil" />
+<Expression Value="Are there any reasons why I should consume corn oil" />
+
+<Response>Corn oil is quite unstable and decomposes easily at high temperatures.</Response>
+</Intent>
+
+
+</Dialog>
+
+</Siml>

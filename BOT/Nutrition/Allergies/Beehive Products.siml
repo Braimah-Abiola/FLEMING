@@ -1,0 +1,21 @@
+﻿<Siml>
+<Dialog Name="allergies" IntentAlias="beehiveprods">
+
+<Intent>
+  
+<Expression Value="What are the allergies related to products of the beehive" />
+<Expression Value="What are the allergies related to honey" />
+<Expression Value="What are the allergies related to propolis" />
+<Expression Value="What are the allergies related to Royal Jelly" />
+<Expression Value="What are the allergies related to pollen" />
+
+<Response>
+Products of the beehive which are pollen, royal jelly and propolis can cause allergic reaction in sensitized individuals, particularly children.
+Consequently, they must be used caustiously with children, and never with infants under one year of age.
+
+Allergies include ....?
+</Response>
+</Intent>
+
+</Dialog>
+</Siml>

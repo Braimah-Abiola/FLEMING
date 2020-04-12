@@ -1,0 +1,19 @@
+﻿<Siml>
+
+  <Dialog Name="Terms" IntentAlias="Bot Vocabulary">
+    
+    <Intent>
+      <Expression Value="What is a poultice" />
+      <Expression Value="What is the meaning of poultice" />
+      <Response>
+ A soft substance spread on a cloth sometimes heated and put on the skin to reduce pain or swelling
+</Response>
+    </Intent>
+    
+    <Intent>
+    <Expression Value="What is a nap" />
+    <Response>A nap is a short sleep</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

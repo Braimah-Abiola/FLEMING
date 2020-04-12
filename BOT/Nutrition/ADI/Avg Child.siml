@@ -1,0 +1,27 @@
+﻿<Siml>
+<Dialog Name="ADI" IntentAlias="avgchild">
+<Intent>
+<Expression Value="What is the daily value of proteins for a child" />
+<Expression Value="What is the recommended dietary allowance of proteins for children" />
+
+<Response>
+There are two ways to calculate protein need precisely: 
+Based on body weight: For children, 1 to 2 g per kilo of weight.
+Based on caloric intake: 10% to 15% should come from proteins. For a 2000 calorie diet, this amounts to 50 grams of protein
+</Response>
+</Intent>
+
+<Intent>
+<Expression Value="What is the recommended daily intake of fibre for a child" />
+<Expression Value="What is the daily value of fibre for children" />
+<Expression Value="What is the daily value of fibre for a kid" />
+<Expression Value="What is the recommended dietary allowance of fibre for kids or children" />
+
+<Response>
+For children older than three years the minimum daily amount may be determined by adding five to the child's age in years.
+As an example, a ten-year-old child would need 10 + 5 grams of fiber daily which is 15 g.
+</Response>
+</Intent>
+
+</Dialog>
+</Siml>

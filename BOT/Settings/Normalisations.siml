@@ -1,0 +1,60 @@
+﻿<Siml>
+  <!--Splitter: This splitter element is used split sentences into different Input values for processing.-->
+  <!--Text: Splits the user input wherever the given character or sequence of characters are found. -->
+  <!--Word: Splits the user input wherever the given word ( separated by SPACE ) is found.-->
+  <!--Regex: Splits the user input wherever the given Regular Expression matches.-->
+  <!--Note: The order/priority of splitting the user input is proportional to the order of elements within this Splitter element-->
+  <Splitter>
+    <Text>.</Text>
+    <Text>?</Text>
+    <Text>!</Text>
+    <Text>;</Text>
+  </Splitter>
+  <!--Filter: Filters here are used to filter user input BEFORE its processed. You may use <Text>, <Word> and <Regex> tags.-->
+  <!--Text: Text element is used to filter all occurance of a the specified text within the input-->
+  <!--Word: Word element is used to filter individual words that may be separated by a SPACE character-->
+  <!--Regex: Regular Expression that is used to replace textual strings wherever a pattern is matched-->
+  <!--Note: Depending on your requirement ( considering defined Regular Expressions ) you should make sure certain characters/words are NOT filtered-->
+  <!--Note: Your filters should not conflict with Pattern Reductions. If you filter out important words you may render a pattern reduction useless-->
+  <Filter Value="">
+    <Text>,</Text>
+  </Filter>
+  <Filter Value="because">
+    <Word>becaus</Word>
+    <Word>becasue</Word>
+    <Word>becuase</Word>
+    <Word>becouse</Word>
+    <Word>becoz</Word>
+    <Word>bcoz</Word>
+    <Word>coz</Word>
+  </Filter>
+  <Filter Value="i am">
+    <Word>iam</Word>
+    <Word>i'm</Word>
+    <Word>i m</Word>
+  </Filter>
+ 
+  <Filter Value="do not">
+    <Word>don't</Word>
+    <Word>don t</Word>
+    <Word>dont</Word>
+    <Word>do nt</Word>
+    <Word>do'nt</Word>
+  </Filter>
+  <Filter Value="Cannot">
+    <Word>can't</Word>
+  </Filter>
+  <Filter Text=".edu" Value="dot edu" />
+  <Filter Text=".uk" Value="dot uk" />
+  <Filter Text=".jp" Value="dot jp" />
+  <Filter Text=".au" Value="dot au" />
+  <Filter Text=".co" Value="dot co" />
+  <Filter Text=".ac" Value="dot ac" />
+  <Filter Value="Did not">
+    <Word>Didn't</Word>
+    <Word>don t</Word>
+    <Word>dont</Word>
+    <Word>do nt</Word>
+    <Word>do'nt</Word>
+  </Filter>
+</Siml>

@@ -1,0 +1,16 @@
+﻿<Siml>
+  <Dialog Name="Random" IntentAlias="one">
+    
+    <Intent>
+      <Expression Value="ASK ME SOMETHING" />
+      <Response>What is your favourite sport?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="*" />
+      <Previous>WHAT IS YOUR FAVOURITE *</Previous>
+      <Response>I see, so your favourite <PreviousMatch /> is <Match /></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

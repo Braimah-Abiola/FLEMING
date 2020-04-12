@@ -1,0 +1,19 @@
+﻿<Siml>
+  <Dialog Name="Vocabulary" IntentAlias="nutritionvocabulary">
+    
+    <Intent>
+      <Expression Value="What is interferon" />
+      <Expression Value="What is an interferon" />
+      <Expression Value="Tell me about interferon" />
+      <Response>Interferon is a protein that inhibits the proliferation of viruses and stimulates the immune system and halts the growth of tumoral cells.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What are polysaccharides" />
+      <Expression Value="What is a polysaccharide" />
+      <Expression Value="Tell me about polysaccharides" />
+      <Response>Polysaccharides are complex sugars.</Response>
+    </Intent>
+
+  </Dialog>
+</Siml>

@@ -1,0 +1,42 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="wheatgermoil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating wheat germ oil" />
+<Expression Value="What are the benefits of consuming wheat germ oil" />
+<Expression Value="What benefits are attributed to the consumption of wheat germ oil" />
+
+<Response>
+Wheat germ oil possesses preventive and healing properites involving arteriosclerosis, thrombosis, and cardiovascular disease.
+</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming wheat germ oil" />
+<Expression Value="What essential nutrients are obtained from wheat germ oil" />
+
+<Response> 
+Wheat germ oil contains the highest concentration of vitamin E. One tablespoon contains three times the RDA for this potent antioxidant.
+It is also a goo source of linolenic acid.
+</Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with wheat germ oil" />
+<Expression Value="What are the drawbacks of consuming wheat germ oil" />
+<Expression Value="What are the negativess of consuming wheat germ oil" />
+<Expression Value="Are there any reasons why I should consume wheat germ oil" />
+
+<Response>
+Technically, it is difficult to extact wheat germ oil using a cold process; therefore most of what is available on the market is refined.
+This results in the expected loss of healing properites.
+</Response>
+</Intent>
+
+
+</Dialog>
+
+</Siml>

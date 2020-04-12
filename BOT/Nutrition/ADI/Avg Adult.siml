@@ -1,0 +1,102 @@
+﻿<Siml>
+<Dialog Name="ADI" IntentAlias="avgadult">
+
+<Intent>
+<Expression Value="What is the daily energy needs of an adult" />
+<Expression Value="What is the daily energy needs of an adult woman" />
+<Expression Value="What is the daily energy needs of an adult man" />
+<Expression Value="What is the ADI of energy for an adult woman" />
+<Expression Value="What is the ADI of energy for an adult man" />
+<Expression Value="What is the amount of energy an adult man or woman needs in a day" />
+
+<Response>
+The average daily energy needs for an adult is 2000 calories. Remember that, the needs of the individual vary based on physical makeup and physical activity
+</Response>
+</Intent>
+
+<Intent>
+<Expression Value="What is the recommended dietary allowance of proteins" />
+<Expression Value="What is the daily value of proteins" />
+<Expression Value="What is the daily value of proteins for an adult" />
+<Expression Value="What is the recommended dietary allowance of proteins for adults" />
+
+<Response>
+The average amount of protein an adult should consume daily is 50 g. There are two ways to calculate protein need precisely: 
+Based on body weight: For an adult, 0.75 g per kilo of weight.
+Based on caloric intake: 10% to 15% should come from proteins. For a 2000 calorie diet, this amounts to 50 grams of protein
+</Response>
+</Intent>
+
+<Intent>
+<Expression Value="What is the recommended daily intake of fibre for an adult" />
+<Expression Value="What is the daily value of fibre for adults or grown ups" />
+<Expression Value="What is the daily value of fibre for an adult" />
+<Expression Value="What is the recommended dietary allowance of fibre for adults" />
+
+<Response>
+The average for an adult is between 25 and 35 grams daily according to the American Dietetic Association. To achieve this amount is not a problem
+with a plant-based diet. However this is not the case in diets primarily based on animal products
+</Response>
+</Intent>
+
+<Intent>
+<Expression Value="What is the recommended dietary intake of carbohydrates" />
+<Expression Value="What is the daily value of carbohydrate" />
+<Expression Value="What is the daily value of carbohydrate for an adult" />
+<Expression Value="What is the recommended dietary allowance of carbohydrates for adults" />
+
+<Response>
+Average for an adult: 300 grams a day, for a 2000 calorie diet or 375 grams for a 2500 calorie diet. 
+This supposes that 60% of daily caloric intake must come from carbohydrates.
+Most of these carbohydrates must be complex/polysaccharides. Refined sugars must not make up more than 10% of total calories/50 g of sugar a day max.
+</Response>
+</Intent>
+
+<Intent>
+<Expression Value="What is the acceptable daily intake of total fat" />
+<Expression Value="What is the daily value of total fat" />
+<Expression Value="What is the daily value of total fats for an adult" />
+
+<Response>
+For an adult: An amount of fat that supplies less than 30% of total calorie intake. Excess fats of any kind, including vegetable fats, is harmful to health.
+For a 2000 calorie diet, this represents about 65 g of fats daily. A typical omnivorous diet usually provides about 40% of calories form fats/from 85 to 100 g daily,
+which represents a serious health risk.
+</Response>
+</Intent>
+
+<Intent>
+<Expression Value="What is the acceptable daily intake of saturated fat" />
+<Expression Value="What is the daily value of saturated fat" />
+<Expression Value="What is the daily value of saturated fat for an adult" />
+
+<Response>
+Ideal: 0 mg
+For an adult it should not represent more than 10% of total calorie intake. For a 2000 calorie diet, this represents about 20 g of saturated fat daily.
+A typical omnivorous diet usually provides about 30 g to 60 g of saturated fat daily. A much more healthful diet fromed of plant-based food provides between 5 g and 10 g.
+</Response>
+</Intent>
+
+<Intent>
+<Expression Value="What is the acceptable daily intake of cholesterol" />
+<Expression Value="What is the daily value of cholesterol" />
+<Expression Value="What is the daily value of cholesterol for adults" />
+
+<Response>
+Ideal: 0 mg daily
+Acceptable daily intake for an adult is 300 mg
+</Response>
+</Intent>
+
+<Intent>
+<Expression Value="What is the acceptable daily intake of sodium" />
+<Expression Value="What is the daily value of sodium" />
+<Expression Value="What is the daily value of sodium for adults" />
+
+<Response>
+Minimum: 500 mg a day, equivalent to 1.25 g of common table salt.
+Acceptable Daily Intake: 2400 mg a day, equivalent to 6 g of common table salt.
+</Response>
+</Intent>
+
+</Dialog>
+</Siml>

@@ -1,0 +1,34 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="sesameoil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating sesame oil" />
+<Expression Value="What are the benefits of consuming sesame oil" />
+<Expression Value="What benefits are attributed to the consumption of sesame oil" />
+
+<Response>Sesame oil can be used unrefined, also its composition is very well balanced.</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming sesame oil" />
+<Expression Value="What essential nutrients are obtained from sesame oil" />
+
+<Response>Sesame oil is very rich in phytosterols, oleic acid and linoleic acid. It also contains a natural antioxidant, known as sesamol, which makes it very stable and resistant to oxidation<!--Add what those nutrients and vitamins do--></Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with sesame oil" />
+<Expression Value="What are the drawbacks of consuming sesame oil" />
+<Expression Value="What are the negativess of consuming sesame oil" />
+<Expression Value="Are there any reasons why I should consume sesame oil" />
+
+<Response>Null</Response>
+</Intent>
+
+
+</Dialog>
+
+</Siml>

@@ -1,0 +1,33 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="peanutoil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with peanut oil" />
+<Expression Value="What are the benefits of consuming peanut oil" />
+<Expression Value="What benefits are attributed to the consumption of peanut oil" />
+
+<Response>Following only olive and rapeseed oils, this is the richest in monounsaturated oleic acid, thus it is quite stable for frying and is heart healthy.</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming peanut oil" />
+<Expression Value="What essential nutrients are obtained from peanut oil" />
+
+<Response>Peanut oil provides vitamin E and phytosterols<!--Add what those nutrients and vitamins do--></Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with peanut oil" />
+<Expression Value="What are the drawbacks of consuming peanut oil" />
+<Expression Value="What are the negativess of consuming peanut oil" />
+<Expression Value="Are there any reasons why I should consume peanut oil" />
+
+<Response> Virtually all peanut oil available commercially has been refined. Also it becomes cloudy at low temperatures</Response>
+</Intent>
+
+
+</Dialog>
+</Siml>

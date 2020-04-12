@@ -1,0 +1,19 @@
+﻿<Siml>
+  
+  <!--Gets the day of the week-->
+  
+  <Dialog Name="DatesandTime" IntentAlias="get.weekday">
+    
+    <Intent>
+      <Expression Value="What day is it" />
+      <Expression Value="What day is today" />
+      <Response>
+        <Random>
+          <Item>Today is <Date Get="Weekday" /></Item>
+          <Item>It's <Date Get="Weekday" /></Item>
+        </Random>
+      </Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

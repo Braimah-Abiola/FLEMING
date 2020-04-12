@@ -1,0 +1,33 @@
+﻿<Siml>
+<Dialog Name="Oils" IntentAlias="sunfloweroil">
+
+<!--Benefits-->
+<Intent>
+<Expression Value="Are there any benefits associated with eating sunflower oil" />
+<Expression Value="What are the benefits of consuming sunflower oil" />
+<Expression Value="What benefits are attributed to the consumption of sunflower oil" />
+
+<Response>This oil contains very few saturated fatty acids. It is second only to safflower oil in linolenic acid, an essential polyunsaturated fatty acid that lowers cholesterol level.</Response>
+</Intent>
+
+<!--Nutritional Content-->
+<Intent>
+<Expression Value="What nutrients do I get from consuming sunflower oil" />
+<Expression Value="What essential nutrients are obtained from sunflower oil" />
+
+<Response>Sunflower oil is rich in Vitamin E. One tablespoon of sunflower seed oil provides the RDA<!--Add what those nutrients and vitamins do--></Response>
+</Intent>
+
+<!--Drawbacks-->
+<Intent>
+<Expression Value="Are there any negatives associated with sunflower oil" />
+<Expression Value="What are the drawbacks of consuming sunflower oil" />
+<Expression Value="What are the negativess of consuming sunflower oil" />
+<Expression Value="Are there any reasons why I should consume sunflower oil" />
+
+<Response>Most commmercial sunflower oil has been extracted using solvents and refined. It contains little monounsaturated oleic acid, which safeguards the cardiovascular system.</Response>
+</Intent>
+
+
+</Dialog>
+</Siml>

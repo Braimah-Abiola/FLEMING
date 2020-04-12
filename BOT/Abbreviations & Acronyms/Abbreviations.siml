@@ -1,0 +1,133 @@
+﻿<Siml>
+  <Dialog Name="AbandAc" IntentAlias="abbreviations">
+   
+    <Intent>
+      <Expression Value="What is cl" />
+      <Expression Value="What is the meaning of cl" />
+      <Expression Value="What does cl mean" />
+      <Expression Value="What does cl stand for" />
+      <Response>Centiliter, one-hundredth of a liter. 1 cl = 0.01 l; 1 l = 100 cl</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is dl" />
+      <Expression Value="What is the meaning of dl" />
+      <Expression Value="What does dl mean" />
+      <Expression Value="What does dl stand for" />
+      <Response>Deciliter, one-tenth of a liter. 1 dl = 0.1 l; 1 l = 10 dl</Response>
+    </Intent>
+       
+    <Intent>
+      <Expression Value="What is cm" />
+      <Expression Value="What is the meaning of cm" />
+      <Expression Value="What does cm mean" />
+      <Expression Value="What does cm stand for" />
+      <Response>Centimeter, one-hundredth of a meter. 1 cm = 0.01 m; 1 m = 100 cm</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is kcal" />
+      <Expression Value="What is the meaning of kcal" />
+      <Expression Value="What does kcal mean" />
+      <Expression Value="What does kcal stand for" />
+      <Response>Kilocalorie or large calorie, usually refered as "calorie". It is defined as the amount of heat required to raise the temperature of 1 kilogram of water by 1 degree celcius at 1 atmosphere pressure. 1 kcal = 4.18 kJ</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is kg" />
+      <Expression Value="What is the meaning of kg" />
+      <Expression Value="What does kg mean" />
+      <Expression Value="What does kg stand for" />
+      <Response>Kilogram, the basic unit of mass in the International System. 1 kg = 1000 g; 1 kg = 2.2046 pounds</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is kGy" />
+      <Expression Value="What is the meaning of kGy" />
+      <Expression Value="What does kGy mean" />
+      <Expression Value="What does kGy stand for" />
+      <Response>KiloGray, a unit of measure of the amount of radiation absorbed by a body. 1 kGy = 1000 Grays</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is kJ" />
+      <Expression Value="What is the meaning of kJ" />
+      <Expression Value="What does kJ mean" />
+      <Expression Value="What does kJ stand for" />
+      <Response>KiloJoule. The "Joule" is the International System unity of energy. 1 kJ = 1000 Joules; 1 kJ = 0.24 kcal</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is l" />
+      <Expression Value="What is the meaning of l" />
+      <Expression Value="What does l mean" />
+      <Expression Value="What does l stand for" />
+      <Response>Liter, the metric unit of volume. One liter of water weights one kilogram. 1 l = 10 dl = 1000 ml; 1 l = 0.2642 gallon</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is lb" />
+      <Expression Value="What is the meaning of lb" />
+      <Expression Value="What does lb mean" />
+      <Expression Value="What does lb stand for" />
+      <Response>Pound</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is m" />
+      <Expression Value="What is the meaning of m" />
+      <Expression Value="What does m mean" />
+      <Expression Value="What does m stand for" />
+      <Response>Meter, the International Standard unit of length: 1 m = 10 dm = 100 cm = 1000 mm; 1 m = 39.37 inches</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is ml" />
+      <Expression Value="What is the meaning of ml" />
+      <Expression Value="What does ml mean" />
+      <Expression Value="What does ml stand for" />
+      <Response>Mililiter, one-thousand of a liter. 1 ml = 0.001 l; 1 l = 1000 ml</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is mmol/l" />
+      <Expression Value="What is the meaning of mmol/l" />
+      <Expression Value="What does mmol/l mean" />
+      <Expression Value="What does mmol/l stand for" />
+      <Response>Milimoles per liter, a way to measure the amount of a substance generally used in blood tests.</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is oz" />
+      <Expression Value="What is the meaning of oz" />
+      <Expression Value="What does oz mean" />
+      <Expression Value="What does oz stand for" />
+      <Response>Ounze</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is pH" />
+      <Expression Value="What is the meaning of pH" />
+      <Expression Value="What does pH mean" />
+      <Expression Value="What does pH stand for" />
+      <Response>A measure of the acidity or alkalinity of a solution. The pH scale commonly in use ranges from 0 to 14. A pH of 7 is neutral, higher than 7 is alkaline, and lower than 7 is acidic</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is ppm" />
+      <Expression Value="What is the meaning of ppm" />
+      <Expression Value="What does ppm mean" />
+      <Expression Value="What does ppm stand for" />
+      <Response>Parts per million, a unit intended to measure the concentration of a substance. 1 ppm = 1 mg/kg = 0.1 mg/100 g</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is ssp" />
+      <Expression Value="What is the meaning of ssp" />
+      <Expression Value="What does ssp mean" />
+      <Expression Value="What does ssp stand for" />
+      <Response>Subspecies</Response>
+    </Intent>
+
+  </Dialog>
+</Siml>

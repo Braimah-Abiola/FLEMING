@@ -1,0 +1,89 @@
+﻿<Siml>
+  <Dialog Name="AbandAc" IntentAlias="acronyms">
+    
+    <Intent>
+      <Expression Value="What is RDA" />
+      <Expression Value="What is the meaning of RDA" />
+      <Expression Value="What does RDA mean" />
+      <Expression Value="What does RDA stand for" />
+      <Response>RDA is the Recommended Dietary Allowance. For instance mango provides the RDA of provitamin A</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is DV" />
+      <Expression Value="What is the meaning of DV" />
+      <Expression Value="What does DV mean" />
+      <Expression Value="What does DV stand for" />
+      <Response>DV is the Daily Value of a nutrient.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is ADI" />
+      <Expression Value="What is the meaning of ADI" />
+      <Expression Value="What does ADI mean" />
+      <Expression Value="What does ADI stand for" />
+      <Response>ADI is the Acceptable Daily Intake. For instance the maximum ADI of cholesterol is 300mg</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is HDL" />
+      <Expression Value="What is the meaning of HDL" />
+      <Expression Value="What does HDL mean" />
+      <Expression Value="What does HDL stand for" />
+      <Response>HDL means High Density Lipoproteins and commonly referred to as beneficial cholesterol. HDL protects the body against arteriosclerosis.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is IU" />
+      <Expression Value="What is the meaning of IU" />
+      <Expression Value="What does IU mean" />
+      <Expression Value="What does IU stand for" />
+      <Response>IU stands for International Unit. It is the quantity of a biologically active substance, such as hormone or vitamin, required to produce a specific response. It is used as a measure of the potency of a substance. Presently the microgram is prefered; for instance, 1 microgram of vitamin A = 3.33 IU</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is LDL" />
+      <Expression Value="What is the meaning of LDL" />
+      <Expression Value="What does LDL mean" />
+      <Expression Value="What does LDL stand for" />
+      <Response>LDL means Low Density Lipoproteins or harmful cholesterol.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is LTI" />
+      <Expression Value="What is the meaning of LTI" />
+      <Expression Value="What does LTI mean" />
+      <Expression Value="What does LTI stand for" />
+      <Response>LTI means Less Tolerable Ingestion of a nutrient.</Response>
+      <!--More info vol 1 p 384-->
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is RE" />
+      <Expression Value="What is the meaning of RE" />
+      <Expression Value="What does RE mean" />
+      <Expression Value="What does RE stand for" />
+      <Response>RE means Retinol Equivalent.</Response>
+      <!--More info vol 1 p 389-->
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is MR" />
+      <Expression Value="What is the meaning of MR" />
+      <Expression Value="What does MR mean" />
+      <Expression Value="What does MR stand for" />
+      <Response>MR means Mean Requisite of a nutrient.</Response>     
+      <!--More info vol 1 p 384-->
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is NE" />
+      <Expression Value="What is the meaning of NE" />
+      <Expression Value="What does NE mean" />
+      <Expression Value="What does NE stand for" />
+      <Response>MR meansNiacin equivalent.</Response>     
+      <!--More info vol 1 p 392-->
+    </Intent>
+
+  </Dialog>
+</Siml>
