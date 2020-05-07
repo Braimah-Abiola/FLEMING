@@ -1,0 +1,21 @@
+﻿<Siml>
+<Dialog Name="Juice" IntentAlias="drawbacks">
+
+<Intent>
+<Expression Value="What are the drawbacks to fruit juice" />
+
+<Response>
+  They are not a substitute for fruit as they always contain less fiber/pectin and, if they are not freshly prepared, fewer vitamins.
+  
+  Industrial juices, particularly apple juice, may produce diarrhea and indigestion.
+  
+  Preschool-aged children that drink more than 360 ml a day of industrially prepared juices have a greater tendency toward obesity and slower
+  growth rate, possibly due to the fact that these juices contain too much sugar, which reduces appetite, and very little protein.
+  
+  Excessive consumption of acidic juices erodes dental enamel and produces hypersensitivity of the dentine.
+</Response>
+
+</Intent>
+
+</Dialog>
+</Siml>

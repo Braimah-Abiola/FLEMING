@@ -1,0 +1,38 @@
+﻿<Siml>
+<Dialog Name="NutsAndSeeds" IntentAlias="beechnut">
+
+<Intent>
+<Expression Value="What is the botanical name of beechnut" />
+<Expression Value="What is the scientific name of beechnut" />
+
+<Response>
+Fagus silvatica
+</Response>
+
+</Intent>
+
+<Intent>
+<Expression Value="What family does the beechnut belong to" />
+
+<Response>
+Fagaceae
+</Response>
+
+</Intent>
+
+
+<Intent>
+<Expression Value="What are the uses of beechnut" />
+<Expression Value="What are the nutritional benefits of beechnut" />
+
+<Response>
+Beechnuts are very rich in iron and edicble oil can be extacted from beechnuts, however it must be heated before it can be consumed.
+
+Caution: Raw seeds or oil contain a toxic substance that causes headache and general indisposition. This toxic substance disappears with roasting or
+heating the oil.
+</Response>
+
+</Intent>
+
+</Dialog>
+</Siml>

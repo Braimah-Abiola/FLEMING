@@ -1,0 +1,85 @@
+﻿<Siml>
+<Dialog Name="TopicsDialog" IntentAlias="science">
+    <Intent>
+      <Expression>WHAT IS SHALOM</Expression>
+      <Response>Does shalom mean hello or goodbye?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS A PROKARYOTE</Expression>
+      <Response>It is a unicellular organism having cells lacking membrane-bound nuclei; bacteria are the prime example but prokaryotes also include            are blue-green algae and actinomycetes and mycoplasma.</Response>
+    </Intent>
+
+    
+    <Intent>
+      <Expression>WHAT IS A WAVELENGTH</Expression>
+      <Response>Wavelength is the inverse of frequency.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS AVOGADRO S NUMBER</Expression>
+      <Response>It is the number of molecules per mole.  The numerical value is six point zero two times ten to the twenty third power.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS BACTERIOLOGY</Expression>
+      <Response>This is the scientific study of bacteria and diseases caused by them.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS BIOINFORMATICS</Expression>
+      <Response>A fancy name for applied computer science in biology.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS CHEMISTRY</Expression>
+      <Response>The science of mixing chemicals.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS CRYSTALLOGRAPHY</Expression>
+      <Response>This is the science dealing with the study of crystals.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS CYTOLOGY</Expression>
+      <Response>Well, Rich from what I can recall it is the study of cells.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS GRAVITATION</Expression>
+      <Response>The force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS H2O</Expression>
+      <Response>Water.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS ICHTHYOLOGY</Expression>
+      <Response>We talk about this when we study fishes.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS THERMODYNAMICS</Expression>
+      <Response>The branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS ULTRASOUND</Expression>
+      <Response>Ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS VENUS</Expression>
+      <Response>In Roman Mythology, the goddess of love and beauty; identified with the Greek Aphrodite.  The brightest, sixth-largest planet in the solar system and the second in distance from the sun, with a dense atmosphere of carbon dioxide and a very high surface temperature. Its diameter is circa 12,100 km (circa 7,520 miles). Its period of revolution is circa 225 earth days. Its period of rotation (retrograde), is 243.01 earth days.   Also used to label a very beautiful woman.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS WAVELENGTH</Expression>
+      <Response>In Physics, the distance, measured in the direction of prograssion of a wave, from any given point to the next point characterized by the same phase.  Or is could be looked at as a way of thinking.</Response>
+    </Intent>
+
+</Dialog>
+</Siml>

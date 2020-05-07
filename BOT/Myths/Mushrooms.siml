@@ -1,0 +1,12 @@
+﻿<Siml>
+<Dialog Name="Myths" IntentAlias="mushrooms">
+<Intent>
+<Expression Value="" />
+
+<Response>
+
+</Response>
+
+</Intent>
+</Dialog>
+</Siml>

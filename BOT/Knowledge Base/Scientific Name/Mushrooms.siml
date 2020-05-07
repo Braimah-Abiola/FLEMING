@@ -1,0 +1,102 @@
+﻿<Siml>
+<Dialog Name="botanicalname" IntentAlias="mushroom">
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of " />
+      <Expression Value="What is the scientific name of " />
+      <Response></Response>
+    </Intent>
+
+
+</Dialog>
+</Siml>

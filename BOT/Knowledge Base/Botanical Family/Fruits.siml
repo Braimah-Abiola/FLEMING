@@ -1,0 +1,655 @@
+﻿<Siml>
+  <Dialog Name="BotanicalFamily" IntentAlias="fruits">
+    
+    <Intent>
+      <Expression Value="What is the botanical family of Kiwi" />
+      <Response>Actinidia chinensis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of gandaria" />
+      <Response>Bouea macrophylla</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of mango" />
+      <Response>Mangifera indica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of ambarella" />
+      <Response>Spondias cytherea</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of yellow nombin" />
+      <Response>Spondias mombin</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of red mombin" />
+      <Response>Spondias purpurea</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of imbu" />
+      <Response>Spondias tuberosa</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of cherimoya" />
+      <Response>Annona cherimola</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of soursop" />
+      <Response>Annona muricata</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of custard apple" />
+      <Response>Annona reticulata</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of sugar apple" />
+      <Response>Annona squamosa</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of pawpaw" />
+      <Response>Asimina triloba</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of karanda" />
+      <Response>Carissa carandas</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of barberry" />
+      <Response>Berberis vulgaris</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of baobab" />
+      <Response>Adansonia digitata</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of durian" />
+      <Response>Durio zibethinus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of columbian sapote" />
+      <Response>Matisia cordata</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of pineapple" />
+      <Response>Ananas comosus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of prickly pear" />
+      <Response>Opuntia ficus-indica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of night-blooming cereus" />
+      <Response>Selenicereus grandiflorus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of american elderberry" />
+      <Response>Sambucus canadensis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of elderberry" />
+      <Response>Sambucus canadensis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of papayuela" />
+      <Response>Sambucus nigra</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of papaya" />
+      <Response>Carica papaya</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of babaco" />
+      <Response>Carica pentagona</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of mountain papaya" />
+      <Response>Carica pubescens</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of watermelon" />
+      <Response>Citrullus lanatus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of melon" />
+      <Response>Cucumis melon</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of cantaloupe melon" />
+      <Response>Cucumis melon</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of kiwano" />
+      <Response>Cucumis metuliferus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of persimmon" />
+      <Response>Diospyros kaki</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of date plum" />
+      <Response>Diospyros lotus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of american persimmon" />
+      <Response>Diospyros virginiana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of arbutus berry" />
+      <Response>Arbutus unedo</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of blueberry" />
+      <Response>Vaccinium corymbosum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of cranberry " />
+      <Response>Vaccinium macrocarpon</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of bilberry " />
+      <Response>Vaccinium myrtillus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of european cranberry " />
+      <Response>Vaccinium oxycoccus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of cowberry " />
+      <Response>Vaccinium vitis-idaea</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of rambi fruit " />
+      <Response>Baccaurea motleyana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of otaheite gooseberry " />
+      <Response>Phyllanthus acidus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of garcinia " />
+      <Response>Garcinia combogia</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of mangosteen" />
+      <Response>Garcinia mangostana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of mamey " />
+      <Response>Mammea americana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of madrono " />
+      <Response>Rheedia acuminata</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of purging cassia" />
+      <Response>Cassia fistula</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of carob " />
+      <Response>Ceratonia siliqua</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of guama " />
+      <Response>Inga laurina</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of tamarind " />
+      <Response>Tamarindus indica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of acerola " />
+      <Response>Malpighia glabra</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of langsat " />
+      <Response>Lansium domesticum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of santol " />
+      <Response>Sandoricum koetjape</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of breadfruit " />
+      <Response>Artocarpus communis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of jackfruit " />
+      <Response>Artocarous heterophyllus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of fig " />
+      <Response>Ficus carica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of white mulberry " />
+      <Response>Morus alba</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of black mulberry " />
+      <Response>Morus nigra</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of banana" />
+      <Response>Musa paradisiaca</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of plantain " />
+      <Response>Musa paradisiaca</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of feioja " />
+      <Response>Feioja sellowiana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of para guava " />
+      <Response>psidium acutangulum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of wild guava  " />
+      <Response>Psidium friedrichsthalianum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of guava " />
+      <Response>Psidium guajaba</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of brazilian guava " />
+      <Response>Psidium guineense</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of water rose apple  " />
+      <Response>Syzygium aqueum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of rose apple  " />
+      <Response>Syzygium jambos</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of pitanga  " />
+      <Response>Syzygium malaccense</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of java apple " />
+      <Response>Syzygium samarangense</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of bilimbi  " />
+      <Response>Averrhoa bilimbi</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of carambola  " />
+      <Response>Averrhoa carambola</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of peach palm " />
+      <Response>Bactris gasipaes</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of beach palm " />
+      <Response>Bactris major</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of palmyra palm" />
+      <Response>Borassus flabellifer</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of date" />
+      <Response>Phoenix dactylifera</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of salak" />
+      <Response>Salacca edulis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of passion fruit" />
+      <Response>Passiflora edulis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of curuba" />
+      <Response>Passiflora mollissima</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of giant granadilla" />
+      <Response>Passiflora quadrangularis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of pomegranate" />
+      <Response>Punica granatum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of jujube" />
+      <Response>Ziziphus jujuba</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of cocoplum" />
+      <Response>Chrysobalanus icaco</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of  azarole" />
+      <Response>Crataegus azarolus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of quince" />
+      <Response>Cydonia oblonga</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of loquat" />
+      <Response>Eriobotrya japonica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of strawberry" />
+      <Response>Fragaria vesca</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of medlar" />
+      <Response>Mespilus germanica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of pear" />
+      <Response>Pirus communis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of apple" />
+      <Response>Pirus malus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of  apricot" />
+      <Response>Prunus armeniaca</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of cherry" />
+      <Response>Prunus avium</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of sour cherry" />
+      <Response>Prunus cerasus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of plum" />
+      <Response>Prunus domestica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of peach" />
+      <Response>Prunus persica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of sloeberry" />
+      <Response>Prunus spinosa</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of brier hip" />
+      <Response>Rosa Canina</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of blackberry" />
+      <Response>Rubus fructicosus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of  andes berry" />
+      <Response>Rubus glaucus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of  raspberry" />
+      <Response>Rubus idaeus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of  loganberry" />
+      <Response>Rubus x loganobaccus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of  serviceberry" />
+      <Response>Sorbus domestica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of indian mulberry" />
+      <Response>Morinda citrifolia</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of white sapote" />
+      <Response>Casimiroa edulis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of lime" />
+      <Response>Citrus aurantiifolia</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of seville orange" />
+      <Response>Citrus aurantium</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of bergamot orange" />
+      <Response>Citrus bergamia</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of sweet lime" />
+      <Response>Citrus limetta</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of lemon" />
+      <Response>Citrus limon</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of citron" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of calamondin" />
+      <Response>Citrus mitis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of grapefruit" />
+      <Response>Citrus paradisi</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of tangerine" />
+      <Response>Citrus reticulata</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of orange" />
+      <Response>Citrus sinensis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of kumquat" />
+      <Response>Fortunella margarita</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of akee" />
+      <Response>Blighia sapida</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of longan" />
+      <Response>Dimocarpus longan</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of litchi" />
+      <Response>Litchi chinensis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of genipa" />
+      <Response>Melicoccus bijugatus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of rambutan" />
+      <Response>Nephelium lappaceum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of sapote" />
+      <Response>Calocarpum sapota</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of caimito" />
+      <Response>Chrysophyllum cainito</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of chicosapote" />
+      <Response>Manilkara zapota</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of lucmo" />
+      <Response>Pouteria lucuma</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of black currant" />
+      <Response>Ribes nigrum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of red currant" />
+      <Response>Ribes rubrum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of gooseberry" />
+      <Response>Ribes uva-crispa</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of tamarillo" />
+      <Response>Cyphomandra betacea</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of winter cherry" />
+      <Response>Physalis alkekengi</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of cape gooseberry" />
+      <Response>Physalis peruviana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of pepino" />
+      <Response>Solanum muricatum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of grape" />
+      <Response>Vitis vinifera</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

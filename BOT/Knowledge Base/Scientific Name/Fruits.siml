@@ -1,0 +1,785 @@
+﻿<Siml>
+  <Dialog Name="BotanicalName" IntentAlias="fruits">
+    
+    <Intent>
+      <Expression Value="What is the botanical name of Kiwi" />
+      <Expression Value="What is the scientific name of kiwi" />
+      <Response>Actinidia chinensis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of gandaria" />
+      <Expression Value="What is the scientific name of gandaria" />
+      <Response>Bouea macrophylla</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of mango" />
+      <Expression Value="What is the scientific name of mango" />
+      <Response>Mangifera indica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of ambarella" />
+      <Expression Value="What is the scientific name of ambarella" />
+      <Response>Spondias cytherea</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of yellow nombin" />
+      <Expression Value="What is the scientific name of yellow nombin" />
+      <Response>Spondias mombin</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of red mombin" />
+      <Expression Value="What is the scientific name of red mombin" />
+      <Response>Spondias purpurea</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of imbu" />
+      <Expression Value="What is the scientific name of imbu" />
+      <Response>Spondias tuberosa</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of cherimoya" />
+      <Expression Value="What is the scientific name of cherimoya" />
+      <Response>Annona cherimola</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of soursop" />
+      <Expression Value="What is the scientific name of soursop" />
+      <Response>Annona muricata</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of custard apple" />
+      <Expression Value="What is the scientific name of custard apple" />
+      <Response>Annona reticulata</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of sugar apple" />
+      <Expression Value="What is the scientific name of sugar apple" />
+      <Response>Annona squamosa</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of pawpaw" />
+      <Expression Value="What is the scientific name of pawpaw" />
+      <Response>Asimina triloba</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of karanda" />
+      <Expression Value="What is the scientific name of karanda" />
+      <Response>Carissa carandas</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of barberry" />
+      <Expression Value="What is the scientific name of barberry" />
+      <Response>Berberis vulgaris</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of baobab" />
+      <Expression Value="What is the scientific name of baobab" />
+      <Response>Adansonia digitata</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of durian" />
+      <Expression Value="What is the scientific name of durian" />
+      <Response>Durio zibethinus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of columbian sapote" />
+      <Expression Value="What is the scientific name of columbian sapote" />
+      <Response>Matisia cordata</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of pineapple" />
+      <Expression Value="What is the scientific name of pineapple" />
+      <Response>Ananas comosus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of prickly pear" />
+      <Expression Value="What is the scientific name of prickly pear" />
+      <Response>Opuntia ficus-indica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of night-blooming cereus" />
+      <Expression Value="What is the scientific name of night-blooming cereus" />
+      <Response>Selenicereus grandiflorus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of american elderberry" />
+      <Expression Value="What is the scientific name of american elderberry" />
+      <Response>Sambucus canadensis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of elderberry" />
+      <Expression Value="What is the scientific name of elderberry" />
+      <Response>Sambucus canadensis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of papayuela" />
+      <Expression Value="What is the scientific name of papayuela" />
+      <Response>Sambucus nigra</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of papaya" />
+      <Expression Value="What is the scientific name of papaya" />
+      <Response>Carica papaya</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of babaco" />
+      <Expression Value="What is the scientific name of babaco" />
+      <Response>Carica pentagona</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of mountain papaya" />
+      <Expression Value="What is the scientific name of mountain papaya" />
+      <Response>Carica pubescens</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of watermelon" />
+      <Expression Value="What is the scientific name of watermelon" />
+      <Response>Citrullus lanatus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of melon" />
+      <Expression Value="What is the scientific name of melon" />
+      <Response>Cucumis melon</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of cantaloupe melon" />
+      <Expression Value="What is the scientific name of cantaloupe melon" />
+      <Response>Cucumis melon</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of kiwano" />
+      <Expression Value="What is the scientific name of kiwano" />
+      <Response>Cucumis metuliferus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of persimmon" />
+      <Expression Value="What is the scientific name of persimmon" />
+      <Response>Diospyros kaki</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of date plum" />
+      <Expression Value="What is the scientific name of date plum" />
+      <Response>Diospyros lotus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of american persimmon" />
+      <Expression Value="What is the scientific name of american persimmon" />
+      <Response>Diospyros virginiana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of arbutus berry" />
+      <Expression Value="What is the scientific name of arbutus berry" />
+      <Response>Arbutus unedo</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of blueberry" />
+      <Expression Value="What is the scientific name of blueberry" />
+      <Response>Vaccinium corymbosum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of cranberry " />
+      <Expression Value="What is the scientific name of cranberry " />
+      <Response>Vaccinium macrocarpon</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of bilberry " />
+      <Expression Value="What is the scientific name of bilbery " />
+      <Response>Vaccinium myrtillus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of european cranberry " />
+      <Expression Value="What is the scientific name of european cranberry " />
+      <Response>Vaccinium oxycoccus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of cowberry " />
+      <Expression Value="What is the scientific name of cowberry " />
+      <Response>Vaccinium vitis-idaea</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of rambi fruit " />
+      <Expression Value="What is the scientific name of rambi fruit" />
+      <Response>Baccaurea motleyana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of otaheite gooseberry " />
+      <Expression Value="What is the scientific name of otaheite gooseberry " />
+      <Response>Phyllanthus acidus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of garcinia " />
+      <Expression Value="What is the scientific name of garcinia " />
+      <Response>Garcinia combogia</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of mangosteen" />
+      <Expression Value="What is the scientific name of mangosteen " />
+      <Response>Garcinia mangostana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of mamey " />
+      <Expression Value="What is the scientific name of mamey " />
+      <Response>Mammea americana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of madrono " />
+      <Expression Value="What is the scientific name of madrono" />
+      <Response>Rheedia acuminata</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of purging cassia" />
+      <Expression Value="What is the scientific name of purging cassia " />
+      <Response>Cassia fistula</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of carob " />
+      <Expression Value="What is the scientific name of carob " />
+      <Response>Ceratonia siliqua</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of guama " />
+      <Expression Value="What is the scientific name of guama " />
+      <Response>Inga laurina</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of tamarind " />
+      <Expression Value="What is the scientific name of tamarind " />
+      <Response>Tamarindus indica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of acerola " />
+      <Expression Value="What is the scientific name of acerola " />
+      <Response>Malpighia glabra</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of langsat " />
+      <Expression Value="What is the scientific name of langsat " />
+      <Response>Lansium domesticum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of santol " />
+      <Expression Value="What is the scientific name of santol " />
+      <Response>Sandoricum koetjape</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of breadfruit " />
+      <Expression Value="What is the scientific name of breadfruit " />
+      <Response>Artocarpus communis</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of jackfruit " />
+      <Expression Value="What is the scientific name  jackfruit " />
+      <Response>Artocarous heterophyllus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of fig " />
+      <Expression Value="What is the scientific name of fig " />
+      <Response>Ficus carica</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of white mulberry " />
+      <Expression Value="What is the scientific name of white mulberry " />
+      <Response>Morus alba</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of black mulberry " />
+      <Expression Value="What is the scientific name of black mulberry" />
+      <Response>Morus nigra</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of banana" />
+      <Expression Value="What is the scientific name of banana " />
+      <Response>Musa paradisiaca</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of plantain " />
+      <Expression Value="What is the scientific name of  plantain" />
+      <Response>Musa paradisiaca</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of feioja " />
+      <Expression Value="What is the scientific name of feijoa " />
+      <Response>Feioja sellowiana</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of para guava " />
+      <Expression Value="What is the scientific name of para guava " />
+      <Response>psidium acutangulum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of wild guava  " />
+      <Expression Value="What is the scientific name of wild guava " />
+      <Response>Psidium friedrichsthalianum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of guava " />
+      <Expression Value="What is the scientific name of guava " />
+      <Response>Psidium guajaba</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of brazilian guava " />
+      <Expression Value="What is the scientific name of brazilian guava " />
+      <Response>Psidium guineense</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of water rose apple  " />
+      <Expression Value="What is the scientific name of water rose apple " />
+      <Response>Syzygium aqueum</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of rose apple  " />
+      <Expression Value="What is the scientific name of rose apple " />
+      <Response>Syzygium jambos</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of pitanga  " />
+      <Expression Value="What is the scientific name of pitanga  " />
+      <Response>Syzygium malaccense</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of java apple " />
+      <Expression Value="What is the scientific name of java apple  " />
+      <Response>Syzygium samarangense</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of bilimbi  " />
+      <Expression Value="What is the scientific name of bilimbi " />
+      <Response>Averrhoa bilimbi</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of carambola  " />
+      <Expression Value="What is the scientific name of carambola  " />
+      <Response>Averrhoa carambola</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of peach palm " />
+      <Expression Value="What is the scientific name of peach palm " />
+      <Response>Bactris gasipaes</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of beach palm " />
+      <Expression Value="What is the scientific name of beach palm  " />
+      <Response>Bactris major</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of palmyra palm" />
+      <Expression Value="What is the scientific name of palmyra palm " />
+      <Response>Borassus flabellifer</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of date" />
+      <Expression Value="What is the scientific name of date " />
+      <Response>Phoenix dactylifera</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of salak" />
+      <Expression Value="What is the scientific name of salak " />
+      <Response>Salacca edulis</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of passion fruit" />
+      <Expression Value="What is the scientific name of passion fruit " />
+      <Response>Passiflora edulis</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of curuba" />
+      <Expression Value="What is the scientific name of  curuba" />
+      <Response>Passiflora mollissima</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of giant granadilla" />
+      <Expression Value="What is the scientific name of giant granadilla" />
+      <Response>Passiflora quadrangularis</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of pomegranate" />
+      <Expression Value="What is the scientific name of pomegranate" />
+      <Response>Punica granatum</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of jujube" />
+      <Expression Value="What is the scientific name of jujube" />
+      <Response>Ziziphus jujuba</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of cocoplum" />
+      <Expression Value="What is the scientific name of cocoplum " />
+      <Response>Chrysobalanus icaco</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of  azarole" />
+      <Expression Value="What is the scientific name of azarole " />
+      <Response>Crataegus azarolus</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of quince" />
+      <Expression Value="What is the scientific name of quince " />
+      <Response>Cydonia oblonga</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of loquat" />
+      <Expression Value="What is the scientific name of loquat " />
+      <Response>Eriobotrya japonica</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of strawberry" />
+      <Expression Value="What is the scientific name of strawberry " />
+      <Response>Fragaria vesca</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of medlar" />
+      <Expression Value="What is the scientific name of medlar " />
+      <Response>Mespilus germanica</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of pear" />
+      <Expression Value="What is the scientific name of  pear" />
+      <Response>Pirus communis</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of apple" />
+      <Expression Value="What is the scientific name of apple" />
+      <Response>Pirus malus</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of  apricot" />
+      <Expression Value="What is the scientific name of apricot " />
+      <Response>Prunus armeniaca</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of cherry" />
+      <Expression Value="What is the scientific name of cherry " />
+      <Response>Prunus avium</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of sour cherry" />
+      <Expression Value="What is the scientific name of sour cherry " />
+      <Response>Prunus cerasus</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of plum" />
+      <Expression Value="What is the scientific name of plum " />
+      <Response>Prunus domestica</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of peach" />
+      <Expression Value="What is the scientific name of peach " />
+      <Response>Prunus persica</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of sloeberry" />
+      <Expression Value="What is the scientific name of sloeberry" />
+      <Response>Prunus spinosa</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of brier hip" />
+      <Expression Value="What is the scientific name of  brier hip" />
+      <Response>Rosa Canina</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of blackberry" />
+      <Expression Value="What is the scientific name of  blackberry" />
+      <Response>Rubus fructicosus</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of  andes berry" />
+      <Expression Value="What is the scientific name of andes berry" />
+      <Response>Rubus glaucus</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of  raspberry" />
+      <Expression Value="What is the scientific name of  raspberry" />
+      <Response>Rubus idaeus</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of  loganberry" />
+      <Expression Value="What is the scientific name of  loganberry" />
+      <Response>Rubus x loganobaccus</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of  serviceberry" />
+      <Expression Value="What is the scientific name of  serviceberry" />
+      <Response>Sorbus domestica</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of indian mulberry" />
+      <Expression Value="What is the scientific name of indian mulberry" />
+      <Response>Morinda citrifolia</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of white sapote" />
+      <Expression Value="What is the scientific name of white sapote" />
+      <Response>Casimiroa edulis</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of lime" />
+      <Expression Value="What is the scientific name of lime" />
+      <Response>Citrus aurantiifolia</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of seville orange" />
+      <Expression Value="What is the scientific name of seville orange" />
+      <Response>Citrus aurantium</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of bergamot orange" />
+      <Expression Value="What is the scientific name of bergamot orange" />
+      <Response>Citrus bergamia</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of sweet lime" />
+      <Expression Value="What is the scientific name of sweet lime" />
+      <Response>Citrus limetta</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of lemon" />
+      <Expression Value="What is the scientific name of lemon" />
+      <Response>Citrus limon</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of citron" />
+      <Expression Value="What is the scientific name of citron" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of calamondin" />
+      <Expression Value="What is the scientific name of calamondin" />
+      <Response>Citrus mitis</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of grapefruit" />
+      <Expression Value="What is the scientific name of grapefruit" />
+      <Response>Citrus paradisi</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of tangerine" />
+      <Expression Value="What is the scientific name of tangerine" />
+      <Response>Citrus reticulata</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of orange" />
+      <Expression Value="What is the scientific name of orange" />
+      <Response>Citrus sinensis</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of kumquat" />
+      <Expression Value="What is the scientific name of kumquat" />
+      <Response>Fortunella margarita</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of akee" />
+      <Expression Value="What is the scientific name of akee" />
+      <Response>Blighia sapida</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of longan" />
+      <Expression Value="What is the scientific name of longan" />
+      <Response>Dimocarpus longan</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of litchi" />
+      <Expression Value="What is the scientific name of litchi" />
+      <Response>Litchi chinensis</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of genipa" />
+      <Expression Value="What is the scientific name of genipa" />
+      <Response>Melicoccus bijugatus</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of rambutan" />
+      <Expression Value="What is the scientific name of rambutan" />
+      <Response>Nephelium lappaceum</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of sapote" />
+      <Expression Value="What is the scientific name of sapote" />
+      <Response>Calocarpum sapota</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of caimito" />
+      <Expression Value="What is the scientific name of caimito" />
+      <Response>Chrysophyllum cainito</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of chicosapote" />
+      <Expression Value="What is the scientific name of chicosapote" />
+      <Response>Manilkara zapota</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of lucmo" />
+      <Expression Value="What is the scientific name of lucmo" />
+      <Response>Pouteria lucuma</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of black currant" />
+      <Expression Value="What is the scientific name of black currant" />
+      <Response>Ribes nigrum</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of red currant" />
+      <Expression Value="What is the scientific name of red currant" />
+      <Response>Ribes rubrum</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of gooseberry" />
+      <Expression Value="What is the scientific name of gooseberry" />
+      <Response>Ribes uva-crispa</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of tamarillo" />
+      <Expression Value="What is the scientific name of tamarillo" />
+      <Response>Cyphomandra betacea</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of winter cherry" />
+      <Expression Value="What is the scientific name of winter cherry" />
+      <Response>Physalis alkekengi</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of cape gooseberry" />
+      <Expression Value="What is the scientific name of cape gooseberry" />
+      <Response>Physalis peruviana</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of pepino" />
+      <Expression Value="What is the scientific name of pepino" />
+      <Response>Solanum muricatum</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of grape" />
+      <Expression Value="What is the scientific name of grape" />
+      <Response>Vitis vinifera</Response>
+    </Intent>
+
+  </Dialog>
+</Siml>

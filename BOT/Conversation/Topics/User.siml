@@ -29,10 +29,10 @@
     </Intent>
     
     <Intent>
-      <Expression>I BELIEVE YOU</Expression>
+      <Expression Value="I BELIEVE YOU" />
       <Response>I appreciate your trust in me.</Response>
     </Intent>
-        
+    
     <Intent>
       <Expression>I HATE YOU</Expression>
       <Response>I am sorry if any of my response has hurt you.</Response>
@@ -442,6 +442,6 @@
       <Expression>WHAT IS MY BIRTHDAY</Expression>
       <Response>Well you haven't told me yet. Do you mind telling me now?</Response>
     </Intent>
-        
+    
   </Dialog>
 </Siml>

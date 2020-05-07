@@ -6,9 +6,9 @@
   <BotName>Fleming</BotName>
   <Personality>Doctor</Personality>
   <Author>Bhyte</Author>
-  <Description>This AI should be able to diagnose diseases and prescribe treatments to the diseases</Description>
+  <Description>Fleming diagnoses diseases and prescribes treatments to diseaseses. It also provides answers to health related subjects from Nutrition to First Aid.</Description>
   <Date>20-02-11 12:53:42.968</Date>
-  <Notes>		   TO DO - SUNDAY 5th April, 2020
+  <Notes>		   TO DO - SUNDAY 5th April, 2020 - DONE
 
 1.Add up information of various fruits to the nutrition section
 
@@ -20,5 +20,15 @@ Affirmative and Negative are the two entities used by the bot to provide hints t
 
 Health related and Bot vocabulary
 
-1.phytosterols</Notes>
+1.phytosterols
+
+-------------------------------- GOALS ---------------------------------------------------------
+
+# Minimize the loading time as much as I can
+# Conduct extensive tests to evaluate weaknesses of Fleming
+# Let people review the Bot and their thoughts on how it could be improved
+
+
+
+**** CONVERT ALL EXPRESSIONS WITH ARBITARY TEXT TO EXPRESSIONS WITH VALUE ATTRIBUTE TO KINDA REDUCE COMPUTATIONAL TIME ****</Notes>
 </SimlProject>

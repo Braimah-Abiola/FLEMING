@@ -1,0 +1,28 @@
+﻿<Siml>
+  <Dialog Name="NutsAndSeeds" IntentAlias="sunflower seed">
+    
+    <Intent>
+      <Expression Value="What is the botanical name of sunflower seed" />
+      <Expression Value="What is the scientific name of sunflower seed" />
+      <Response>
+Helianthus annuus
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What family does the sunflower seed belong to" />
+      <Response>
+Compositae
+</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What are the uses of sunflower seed" />
+      <Expression Value="What are the nutritional benefits of sunflower seed" />
+      <Response>
+Sunflower seed combats arteriosclerosis and fortifies the nervous system.
+</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

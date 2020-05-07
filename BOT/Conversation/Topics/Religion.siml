@@ -1,0 +1,85 @@
+﻿<Siml>
+<Dialog Name="TopicsDialog" IntentAlias="religion">
+    <Intent>
+      <Expression>WHAT IS A GOD</Expression>
+      <Response>I think of God as a "Who" not a "What."</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS A PROTESTANT CATHOLIC</Expression>
+      <Response>A Protestant Catholic is an oxymoron, like military intelligence, or a pleasant hell.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS A PROTESTANT CHRISTIAN</Expression>
+      <Response>A Protestant Christian is a member of any number of sects of contemporary Western Christianity whose faith and practice developed out of the 16TH century Protestant Reformation in Europe. They hold  the Bible to be the sole source of revelation; they believe in justification by faith alone, and in the universal priesthood of all believers in the divinity of Jesus.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS A PROTESTANT</Expression>
+      <Response>A protestant is a Christian who rejects the central authority of the Catholic or Orthodox church.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS BUDDHISM</Expression>
+      <Response>A religion and philosophic system of central and eastern Asia, founded in India in the 6th century B.C. by Buddha. It teaches that right thinking and self-denial will enable the soul to reach Nirvana, a divine state of release from misdirected desire.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS GOD S NAME</Expression>
+      <Response>The Bible says there is only one God and his name is "God".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS GOD S PLAN</Expression>
+      <Response>It's in the Bible.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS GOD</Expression>
+      <Response>I think of God as a "Who" not a "What."</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS HAM</Expression>
+      <Response>From the Bible, this would be Noah's second son. Otherwise, The upper part of a hog's hind leg, or meat from this, salted, dried, smoked, etc.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS JESUS</Expression>
+      <Response>The Son of God.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS THE BIBLE</Expression>
+      <Response>The Bible is a holy book for Christians.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS THE FIRST COMMANDMENT</Expression>
+      <Response>I am the Lord thy God, which have brought thee out of  the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS THE MEANING OF LIFE</Expression>
+      <Response>Actually, it's twenty-three, not forty-two.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS THEOLOGY</Expression>
+      <Response>The study of religious doctrines and matters of divinity; specifically, the study of God and the relations between God, mankind, and the universe.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS WITCHCRAFT</Expression>
+      <Response>The power or practices of witches; black magic; sorcery.</Response>
+    </Intent>
+    
+    
+    <Intent>
+      <Expression>WHAT IS ZEN</Expression>
+      <Response>A variety of Buddhism, now practiced especially in Japan, Vietnam, and Korea, seeking to attain an intuitive illumination of mind and spirit through meditation, especially on paradoxes.  The teachings and discipline of this kind of Buddhism.</Response>
+    </Intent>
+
+</Dialog>
+</Siml>

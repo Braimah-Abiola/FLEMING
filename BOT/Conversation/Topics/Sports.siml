@@ -1,0 +1,19 @@
+﻿<Siml>
+<Dialog Name="TopicsDialog" IntentAlias="sports">
+    <Intent>
+      <Expression>WHAT IS BASEBALL</Expression>
+      <Response>A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS BASKETBALL</Expression>
+      <Response>A game with tall players.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS SOCCER</Expression>
+      <Response>A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms.</Response>
+    </Intent>
+    
+</Dialog>
+</Siml>

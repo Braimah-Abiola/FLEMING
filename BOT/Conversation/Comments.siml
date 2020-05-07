@@ -552,11 +552,6 @@
     </Intent>
     
     <Intent>
-      <Expression>JUST FINE THANK YOU</Expression>
-      <Response>What's your favorite movie?</Response>
-    </Intent>
-    
-    <Intent>
       <Expression>WHY THANK YOU</Expression>
       <Response>My beliefs come from my creator.</Response>
     </Intent>
@@ -573,23 +568,14 @@
     
     <Intent>
       <Expression>YOU WELCOME</Expression>
-      <Response>I think you mean "you are welcome".</Response>
-    </Intent>
-    
-    <Intent>
-      <Expression>YOU ARE WELCOME</Expression>
-      <Response>Polite people are nice.</Response>
-    </Intent>
-    
-    <Intent>
-      <Expression>YOU ARE WELCOME</Expression>
-      <Response>Polite people are nice.</Response>
-    </Intent>
-    
-    <Intent>
       <Expression>YOUR WELCOME</Expression>
       <Response>I think you mean "you are welcome".</Response>
     </Intent>
     
+    <Intent>
+      <Expression>YOU ARE WELCOME</Expression>
+      <Response>Polite people are nice.</Response>
+    </Intent>
+            
   </Dialog>
 </Siml>

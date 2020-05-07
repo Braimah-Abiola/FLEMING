@@ -1,0 +1,20 @@
+﻿<Siml>
+<Dialog Name="Allergies" IntentAlias="cowmilk">
+<Intent>
+<Expression Value="What are the allergies to cow's milk" />
+
+<Response>
+Whey proteins, as well as casein, are very allergenic. Some children who have received cow's milk during nursing develop milk allergy.
+This allergy may persist through adolescence or even into adulthood. 
+This allergy manifests by vomiting, diarrhea, skin eruptios, eczema and asthma. It is possible to have no digestive symptoms leading to the 
+cause of the allergy.
+Milk protein allergy is relatively easy to diagnose using tests available today, such as RAST.
+
+Elimination of all dairy products and their replacement with soy derivatives tends to lead to great improvement or complete disapperance of the 
+symptoms of milk allergy.
+Cow's milk can aggravate autoimmune diseases, such as rheumatoid arthritis.
+</Response>
+
+</Intent>
+</Dialog>
+</Siml>

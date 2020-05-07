@@ -1,0 +1,520 @@
+﻿<Siml>
+  <Dialog Name="BotanicalName" IntentAlias="vegetables">
+    
+    <Intent>
+      <Expression Value="What is the botanical name of amaranth" />
+      <Expression Value="What is the scientific name of amaranth" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of taro" />
+      <Expression Value="What is the scientific name of taro" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of malanga" />
+      <Expression Value="What is the scientific name of malanga" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of borage" />
+      <Expression Value="What is the scientific name of borage" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of chard" />
+      <Expression Value="What is the scientific name of chard" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of red beet" />
+      <Expression Value="What is the scientific name of red beet" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of marsh samphire" />
+      <Expression Value="What is the scientific name of marsh samphire" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of spinach" />
+      <Expression Value="What is the scientific name of spinach" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of sea aster" />
+      <Expression Value="What is the scientific name of sea aster" />
+      <Response></Response>
+    </Intent>
+    <Intent>
+      <Expression Value="What is the botanical name of endive" />
+      <Expression Value="What is the scientific name of endive" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of belgian endive" />
+      <Expression Value="What is the scientific name of belgian endive" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of radicchio" />
+      <Expression Value="What is the scientific name of radicchio" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of chicory" />
+      <Expression Value="What is the scientific name of chicory" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of cardoon" />
+      <Expression Value="What is the scientific name of cardoon" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of artichoke" />
+      <Expression Value="What is the scientific name of artichoke" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of jerusalem artichoke" />
+      <Expression Value="What is the scientific name of jerusalem artichoke" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of lettuce" />
+      <Expression Value="What is the scientific name of lettuce" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of scorzonera" />
+      <Expression Value="What is the scientific name of scorzonera" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of salsify" />
+      <Expression Value="What is the scientific name of salsify" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of jicama" />
+      <Expression Value="What is the scientific name of jicama" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of sweet potato" />
+      <Expression Value="What is the scientific name of sweet potato" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of cabbage" />
+      <Expression Value="What is the scientific name of cabbage" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of brussels sprouts" />
+      <Expression Value="What is the scientific name of brussels sprouts" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of cauliflower" />
+      <Expression Value="What is the scientific name of cauliflower" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of kohlrabi" />
+      <Expression Value="What is the scientific name of kohlrabi" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of broccoli" />
+      <Expression Value="What is the scientific name of broccoli" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of romanesca cauliflower" />
+      <Expression Value="What is the scientific name of romanesca cauliflower" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of chinese cabbage" />
+      <Expression Value="What is the scientific name of chinese cabbage" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of turnip" />
+      <Expression Value="What is the scientific name of turnip" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of scurvy grass" />
+      <Expression Value="What is the scientific name of scurvy grass" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of arugula" />
+      <Expression Value="What is the scientific name of arugula" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of watercress" />
+      <Expression Value="What is the scientific name of watercress" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of radish" />
+      <Expression Value="What is the scientific name of radish" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of cucumber" />
+      <Expression Value="What is the scientific name of cucumber" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of squash" />
+      <Expression Value="What is the scientific name of squash" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of zucchini" />
+      <Expression Value="What is the scientific name of zucchini" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of squash blossoms" />
+      <Expression Value="What is the scientific name of squash blossoms" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of bottle gourd" />
+      <Expression Value="What is the scientific name of bottle gourd" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of luffa" />
+      <Expression Value="What is the scientific name of luffa" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of sponge gourd" />
+      <Expression Value="What is the scientific name of sponge gourd" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of bitter melon" />
+      <Expression Value="What is the scientific name of bitter melon" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of chayote" />
+      <Expression Value="What is the scientific name of chayote" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of tiger nut" />
+      <Expression Value="What is the scientific name of tiger nut" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of chinese water-chestnut" />
+      <Expression Value="What is the scientific name of chinese water-chestnut" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of yam" />
+      <Expression Value="What is the scientific name of yam" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of sweet yam" />
+      <Expression Value="What is the scientific name of sweet yam" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of cassava" />
+      <Expression Value="What is the scientific name of cassava" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of sweet cassava" />
+      <Expression Value="What is the scientific name of sweet cassava" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of bamboo shoots" />
+      <Expression Value="What is the scientific name of bamboo shoots" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of sugarcane" />
+      <Expression Value="What is the scientific name of sugarcane" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of chinese artichoke" />
+      <Expression Value="What is the scientific name of chinese artichoke" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of avocado" />
+      <Expression Value="What is the scientific name of avocado" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of green bean" />
+      <Expression Value="What is the scientific name of green bean" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of pea" />
+      <Expression Value="What is the scientific name of pea" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of snow pea" />
+      <Expression Value="What is the scientific name of snow pea" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of fava bean" />
+      <Expression Value="What is the scientific name of fava bean" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of shallot" />
+      <Expression Value="What is the scientific name of shallot" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of onion" />
+      <Expression Value="What is the scientific name of onion" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of welsh onion" />
+      <Expression Value="What is the scientific name of welsh onion" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of leek" />
+      <Expression Value="What is the scientific name of leek" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of garlic" />
+      <Expression Value="What is the scientific name of garlic" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of chive" />
+      <Expression Value="What is the scientific name of chive" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of bears garlic" />
+      <Expression Value="What is the scientific name of bears garlic" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of asparagus" />
+      <Expression Value="What is the scientific name of asparagus" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of okra" />
+      <Expression Value="What is the scientific name of okra" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of arrowroot" />
+      <Expression Value="What is the scientific name of arrowroot" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of benoil tree" />
+      <Expression Value="What is the scientific name of benoil tree" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of lucky clover" />
+      <Expression Value="What is the scientific name of lucky clover" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of oca" />
+      <Expression Value="What is the scientific name of oca" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of dwarf palm" />
+      <Expression Value="What is the scientific name of dwarf palm" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of heart of palm" />
+      <Expression Value="What is the scientific name of heart of palm" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of rhubarb" />
+      <Expression Value="What is the scientific name of rhubarb" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of sorrel" />
+      <Expression Value="What is the scientific name of sorrel" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of water purslane" />
+      <Expression Value="What is the scientific name of water purslane" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of purslane" />
+      <Expression Value="What is the scientific name of purslane" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of pepper" />
+      <Expression Value="What is the scientific name of pepper" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of tomato" />
+      <Expression Value="What is the scientific name of tomato" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of eggplant" />
+      <Expression Value="What is the scientific name of eggplant" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of potato" />
+      <Expression Value="What is the scientific name of potato" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of celery" />
+      <Expression Value="What is the scientific name of celery" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of peruvian parsnip" />
+      <Expression Value="What is the scientific name of peruvian parsnip" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of turnip-rooted chervil" />
+      <Expression Value="What is the scientific name of turnip-rooted chervil" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of carrot" />
+      <Expression Value="What is the scientific name of carrot" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical name of fennel" />
+      <Expression Value="What is the scientific name of fennel" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of parsnip" />
+      <Expression Value="What is the scientific name of parsnip" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical name of lambs lettuce" />
+      <Expression Value="What is the scientific name of lambs lettuce" />
+      <Response></Response>
+    </Intent>
+
+  </Dialog>
+</Siml>

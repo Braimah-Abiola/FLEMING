@@ -1,0 +1,21 @@
+﻿<Siml>
+<Dialog Name="Mushroom" IntentAlias="recognition">
+<Intent>
+<Expression Value="How do I recognize a poisonous mushroom" />
+<Response>
+Death can result from eating even small amounts of the most poisonous mushrooms, which belong to the genus Amanita. They are relatively easy
+to recognize since all of them possess the following characteristics:
+
+Hymenium: This is formed of white or light-colored lamellae.
+
+Annulus: The annulus is always present.
+
+Volva: The volva is always present.
+
+The most dangerous poisonous mushrooms always have these three characteristics. One can avoid deadly poisoning by avoiding them.
+However, there are some species that are edible, and even highly valued, that have lamellae, annulus and volva. This is the case with the 
+Caesar's mushroom, which only specialists in mycology should attempt to identify.
+</Response>
+</Intent>
+</Dialog>
+</Siml>

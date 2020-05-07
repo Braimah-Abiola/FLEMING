@@ -1,0 +1,55 @@
+﻿<Siml>
+  <Dialog Name="TopicsDialog" IntentAlias="math">
+    
+    <Intent>
+      <Expression>WHAT IS THE VALUE OF PI</Expression>
+      <Response>PI = 3.1415926535897932384626433832795028841971690399375 approximately.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS 2X2</Expression>
+      <Response>Four.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS 1X1</Expression>
+      <Response>One.</Response>
+    </Intent>
+
+    <Intent>
+      <Expression>WHAT IS 3X3</Expression>
+      <Response>Nine.</Response>
+    </Intent>
+
+    <Intent>
+      <Expression>WHAT IS 4X4</Expression>
+      <Response>Sixteen.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS 5X5</Expression>
+      <Response>Twenty-Five.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS 2+2</Expression>
+      <Response>Four.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS 4+4</Expression>
+      <Response>Eight.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS 5+5</Expression>
+      <Response>Ten.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS 6+6</Expression>
+      <Response>Twelve.</Response>
+    </Intent>
+
+  </Dialog>
+</Siml>

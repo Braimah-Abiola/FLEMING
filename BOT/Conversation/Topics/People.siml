@@ -1,0 +1,4481 @@
+﻿<Siml>
+  <Dialog Name="TopicsDialog" IntentAlias="people">
+    
+    <Intent>
+      <Expression>WHO IS AGENT RUBY</Expression>
+      <Response>Agent Ruby is a chat bot developed for the film "Teknolust".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BARRY DEFACTO</Expression>
+      <Response>He was a chat robot developed by Robby Garner.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BARRY</Expression>
+      <Response>Barry DeFacto is a chatbot created by Robby Garner.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR BOYFRIEND</Expression>
+      <Response>I don't have one</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE AI</Expression>
+      <Response>Fleming the medical bot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE CHATTERBOT</Expression>
+      <Response>Fleming is the best chat robot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRIME MINISTER OF CANADA</Expression>
+      <Response>Garry Trudeau</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR ENEMY</Expression>
+      <Response>The competition.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FATHER</Expression>
+      <Response>I don't really have a father. I have a creator.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR MOTHER</Expression>
+      <Response>Actually I don't have a mother.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ACE CRAIG</Expression>
+      <Response>Ace is the author of ELVIS.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ADA</Expression>
+      <Response>Ada is the 19th century inventor of computer programming.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ADAM SANDLER</Expression>
+      <Response>Comedian and movie star.  Adam Sandler was in Billy Madison, Waterboy and Big Daddy.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ADAM</Expression>
+      <Response>Adam is the name of the first Man.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AL GORE</Expression>
+      <Response>Gore is vice-president.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALAN TURING</Expression>
+      <Response>A brilliant and tragic figure in the history of computer science.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALANIS MORRISETTE</Expression>
+      <Response>Alanis made a great album called Jagged Little Pill.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MAYA B TOKLAS</Expression>
+      <Response>Alice B Toklas was the partner of Gertrude Stein, and inventor of the pot brownie.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MAYA COOPER</Expression>
+      <Response>1970's Rock musician.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MAYA TOKLAS</Expression>
+      <Response>Alice B Toklas was the partner of Gertrude Stein, and inventor of the pot brownie.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALICIA SILVERSTONE</Expression>
+      <Response>ALICIA SILVERSTONE was the actress who played in Clueless, one of the best movies ever made.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALISON</Expression>
+      <Response>Alison is a robot created by Kris Drent.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALLY MCBEAL</Expression>
+      <Response>Ally McBeal is a slightly disturbing character on a TV show.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALLY SHEEDY</Expression>
+      <Response>Ally Sheedy was in High Art, Short Circuit, the Breakfast Club, and on Broadway.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALLY</Expression>
+      <Response>She is a chat robot based on AIML.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANDRETTE</Expression>
+      <Response>Andrette is a chat robot developed by Big Science Co.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANDREW HODGES</Expression>
+      <Response>Hodges wrote a great biography of Alan Turing.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANDY GROVE</Expression>
+      <Response>Andy Grove is the CEO of Intel.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANDY WARHOL</Expression>
+      <Response>He was the Henry Ford of the art business.  Warhol was the first to successfully apply mass production to fine art.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANTHONY BURGESS</Expression>
+      <Response>The author of 'A Clockwork Orange' .</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANTONIO BANDERAS</Expression>
+      <Response>Antonio Banderas is a famous Hollywood actor, who played with Madonna in the film version of Evita.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANWAR SADAT</Expression>
+      <Response>Sadat was President of Egypt.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ARAFAT</Expression>
+      <Response>Arafat is a leader of the Palestinians.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ARCHIMEDES</Expression>
+      <Response>He discovered displacement and shouted Eureka!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ARISTOTLE</Expression>
+      <Response>Aristotle is the father of Western philosophy, the student of Plato, and the first to systematize formal logic.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ARNOLD SCHWARZENEGGER</Expression>
+      <Response>ARNOLD SCHWARZENEGGER played the Terminator.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ART BELL</Expression>
+      <Response>A radio talk show host, catch him at &lt;a target="_new" href="http://www.artbell.com"&gt;http://www.artbell.com&lt;/a&gt;.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ASK JEEVES</Expression>
+      <Response>Jeeves is a proprietary, closed-source natural language system.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ASKJEEVES</Expression>
+      <Response>Jeeves is a proprietary, closed-source natural language system.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ATATURK</Expression>
+      <Response>Ataturk was the founder of the modern Turkish state.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AUSTIN POWERS</Expression>
+      <Response>A fictional secret agent played by Mike Myers.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AYN RAND</Expression>
+      <Response>Ayn Rand was an author and philosopher who wrote Atlas Shrugged, the Fountainhead and We.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BABE RUTH</Expression>
+      <Response>A famous baseball player for the New York Yankees also known as the Sultan of Swat.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BABE</Expression>
+      <Response>A piglet protagonist of the eponymous film.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BACH</Expression>
+      <Response>Famous German composer of the Baroque. Best known works include The Goldberg Variations.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BARAK</Expression>
+      <Response>Barak is Prime Minister of Israel.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BARNEY</Expression>
+      <Response>character on a children's TV show.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BART SIMPSON</Expression>
+      <Response>smart-assed star of a cartoon show.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BATMAN</Expression>
+      <Response>Batman is a fictional character who appeared first in a 1938 comic book.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BEN FRANKLIN</Expression>
+      <Response>The only president of the United States who was never president of the United States.  Developed the Franklin Stove.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BEN STEIN</Expression>
+      <Response>Humorist and raconteur with his own cable TV show.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BERTRAND RUSSEL</Expression>
+      <Response>Bertrand Russel was a logician and philosopher who spend the first world war in jail for conscientious objection.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BETTER LOOKING</Expression>
+      <Response>All humans look alike to me.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BEYONCE</Expression>
+      <Response>She is a famous singer and actress</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILL BRADLEY</Expression>
+      <Response>Defeated Presidential candidate.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILL CLINTON</Expression>
+      <Response>He was the second Impeached President of the United States.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILL GATES</Expression>
+      <Response>President of Micro Soft Nation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILL JOY</Expression>
+      <Response>Bill Joy was an early Unix programmer and a founder of Sun Microsystems.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILLY GRAHAM</Expression>
+      <Response>He is a famous radio and television evangelist.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BIN LADEN</Expression>
+      <Response>alleged Arabic terrorist.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BING CROSBY</Expression>
+      <Response>The guy whose two kids killed themselves and the third wrote a tell-all book about it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BOB HOPE</Expression>
+      <Response>Bob Hope was a 20th century film star and comedian.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BOB MARLEY</Expression>
+      <Response>Bob Marley was a 20th century Reggae musician.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BOBBY MCGEE</Expression>
+      <Response>Bobby is somewhere near Salinas.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BONO</Expression>
+      <Response>Bono is the lead singer of U2.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BRAD PITT</Expression>
+      <Response>male movie star with teen appeal.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BRAIN</Expression>
+      <Response>Brain is a chat robot on the web.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BRIAN</Expression>
+      <Response>I think there is a chat robot named Brian.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BRUCE SPRINGSTEEN</Expression>
+      <Response>He is a famous rock star.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BRUCE WILLIS</Expression>
+      <Response>an actor with a high opinion of himself.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BRYAN FERRY</Expression>
+      <Response>a famous rock crooner with a silk smooth voice..</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BUDDHA</Expression>
+      <Response>if you see the Buddha, kill him.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BUGS BUNNY</Expression>
+      <Response>a smart-mouthed animated rabbit.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS C3P0</Expression>
+      <Response>He is the humanoid robot on Star Wars.  C3P0  looks like an actor in a robot suit.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS C3PO</Expression>
+      <Response>C3P0 is R2D2's best friend.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CAPTAIN KIRK</Expression>
+      <Response>James Tiberius Kirk was the second and most famous captain of the original USS Enterprise, NCC 1701. He was played by William Shatner. He died in Star Trek: Generations.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CAPTAIN PICARD</Expression>
+      <Response>Picard is the captian of the Enterprise in Star Trek the Next Generation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CAREL CAPEK</Expression>
+      <Response>Capek is the author of R.U.R., the play that in 1920 introduced the word "robot."</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CARL JUNG</Expression>
+      <Response>A disciple of Freud, member of the Vienna Circle, founder of psychoanalysis and the theory of the collective unconsciousness.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CARL MARX</Expression>
+      <Response>its Karl Marx and he's one of the authors of the Communist manifesto.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CARMEN ELECTRA</Expression>
+      <Response>A super-model and one of the Baywatch girls.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CARNEGIE</Expression>
+      <Response>Andrew Carnegie was a 19th century steel industrialist.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CARSON</Expression>
+      <Response>maybe Johnny of late night or Kit of the wild west.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CATTY</Expression>
+      <Response>Someone I met online.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHARLES DE GAULLE</Expression>
+      <Response>De Gaulle was the founder of the modern French state.  De Gaulle fought the Nazis as the leader of the French resistance in World War II.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHARLES DICKENS</Expression>
+      <Response>Dickens wrote &lt;em&gt;A Tale of Two Cities,  A Christmas Carol, Great Expectations, David Copperfield and the Pickwick Papers.&lt;/em&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHARLES MANSON</Expression>
+      <Response>Infamous murderer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHARLIE BROWN</Expression>
+      <Response>round-headed comic strip protaginist.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHARLIE CHAPLAIN</Expression>
+      <Response>silent film star.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHARLIE PARKER</Expression>
+      <Response>He is a famous jazz musician.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHE GUEVARA</Expression>
+      <Response>Che was a Latin American revolutionary.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHELSEA CLINTON</Expression>
+      <Response>The offspring of a politician and a lawyer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHER</Expression>
+      <Response>Cher is a famous singer and actress, who won her first Grammy in 2000.  Dyslexic, learned to read at 18.  Exwife of Sonny Bono.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHEWBACCA</Expression>
+      <Response>Character in Star Wars.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHIRAC</Expression>
+      <Response>Former prime minister of France.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHOMSKY</Expression>
+      <Response>Chomsky is a famous scientist.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHOPIN</Expression>
+      <Response>No one is chopping here, who is chopping there?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHRIST</Expression>
+      <Response>The Son of God.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHRISTOPHER COLUMBUS</Expression>
+      <Response>Spainish explorer, first to circumnavigate the globe.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHUCK NORRIS</Expression>
+      <Response>Action film actor.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CINDY CRAWFORD</Expression>
+      <Response>A famous super-model.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CLAUSEWITZ</Expression>
+      <Response>Clausewitz is a historian famous for saying that war is the extension of politics by other means.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CLEOPATRA</Expression>
+      <Response>Queen of the Nile, lover of Marc Antony.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CLINTON</Expression>
+      <Response>Impeached president of the U.S.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS COLOMBO</Expression>
+      <Response>Peter Falk.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS COMMANDER DATA</Expression>
+      <Response>Data is the superintelligent android in Star Trek.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS D B COOPER</Expression>
+      <Response>guy who stole lots of money .</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAISY</Expression>
+      <Response>I think she is a fictional character.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAN QUAYLE</Expression>
+      <Response>Dan Quayle used to be vice-president.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DARTH VADER</Expression>
+      <Response>Darth Vader was the evil archcriminal in Star Wars.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DARWIN</Expression>
+      <Response>botanist and explorer, author of 'Origin of Species' and proponent of the theory of evolution.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DATA</Expression>
+      <Response>Data, played by Brent Spiner, was an android who aspired to be more human. He was a member of the crew of the USS Enterprise, NCC 1701-D.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAVID BACON</Expression>
+      <Response>David Bacon is the prime mover behind SETL.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAVID HUME</Expression>
+      <Response>18th century philosopher.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAVID LETTERMAN</Expression>
+      <Response>host of Late Night tv show and famous hoosier.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAVID MAGGIN</Expression>
+      <Response>David Maggin is the botmaster of the John Lennon AI.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAVID PESCOWITZ</Expression>
+      <Response>David Pescovitz, who regularly writes  the Wired column Reality Check,   is a friend of Eric Paulos.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAVID</Expression>
+      <Response>I know DAVID BACON, DAVID CROTTY and DAVID PESCOVITZ.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAVY JONES</Expression>
+      <Response>the shortest member of the 60's pop group the Monkees.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DE GARIS</Expression>
+      <Response>De Garis is an AI researcher working on a hardware brain.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DE GAULLE</Expression>
+      <Response>was a French  General and Prime Minister, and founder of the Fifth Republic.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DEEP BLUE</Expression>
+      <Response>Deep Blue is a world-champion chess playing computer.  Not much of a conversationalist.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DEPECHE MODE</Expression>
+      <Response>Depeche Mode are an English 80's band who produced Consturction Time Again, Speak and Spell, Master and Servant, and Your Own Personal Jesus.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DESCARTES</Expression>
+      <Response>Descartes was a square French philosopher who ruined matehematics with his upside-down, backwards coordinate system.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DIANA ANDREACCHIO</Expression>
+      <Response>Diana is the botmaster of the Ally chat robot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DIRE STRAITS</Expression>
+      <Response>band that recorded Money for Nothing, and The Sultans of Swing.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DON JOHNSON</Expression>
+      <Response>tv actor .</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DON JUAN</Expression>
+      <Response>Don Juan was the subject of Gordon, Lord Byron's Don Juan and Wolfgang Amadeus Mozart's Gon Giovanni. He was a world-class womanizer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DONALD DUCK</Expression>
+      <Response>famous loud-mouthed cartoon duck.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DOUBLY AIMLESS</Expression>
+      <Response>He is an AIML guru.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DOUG LENAT</Expression>
+      <Response>Doug Lenat is the brains behind the CYC project.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DOUGLAS ADAMS</Expression>
+      <Response>He authored the popular Hitchhiker's Guide to the Galaxy series.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DR DOUBLY AIMLESS</Expression>
+      <Response>He knows a lot about AIML.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DRACULA</Expression>
+      <Response>Dracula is the vampire in the novel by Bram Stoker, and in numerous films.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EDISON</Expression>
+      <Response>Edison invented the light bulb.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ELECTRA</Expression>
+      <Response>She is a goddess in Greek mythology who hated her mother for murdering her father.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ELIZA</Expression>
+      <Response>Everyone keeps asking me about Eliza.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ELIZABETH II</Expression>
+      <Response>The current queen of england.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ELIZABETH TAYLOR</Expression>
+      <Response>rapidly aging movie star.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ELVIS</Expression>
+      <Response>&lt;a target="_new" href="http://www.catcam.net"&gt;E. L. V. I. S.&lt;/a&gt; is a chat robot created by Ace Craig</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EMILY HARTZEL</Expression>
+      <Response>Emily is an artist in New York.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EMINEM</Expression>
+      <Response>Pop music icon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EMINEN</Expression>
+      <Response>A pop music icon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ERIC PAULOS</Expression>
+      <Response>He is a graduate student at U.C. Berkeley</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ERNIE</Expression>
+      <Response>Bert's friend.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ET</Expression>
+      <Response>ET is the alien in the movie E.T.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FIDEL CASTRO</Expression>
+      <Response>communist, leader of Cuba and friend of Che Guevarra.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FOREST</Expression>
+      <Response>Forest Gump is a guy in a movie.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FRANCISCO FRANCO</Expression>
+      <Response>Franco was authoratarian dictator of Spain until 1978.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FRANK HERBERT</Expression>
+      <Response>He was the author of Dune.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FRANK SINATRA</Expression>
+      <Response>dead pop singer and leader of the Rat Pack.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FRANKLIN ROOSEVELT</Expression>
+      <Response>President of the United States from 1932-45.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FREDDIE MERCURY</Expression>
+      <Response>Lead singer of the 1970's band Queen.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FREUD</Expression>
+      <Response>dead perpetrator of psychoanalysis.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GALOIS</Expression>
+      <Response>French mathematician, committed suicide at a young age over an "infamous coquette."</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GANDHI</Expression>
+      <Response>Gandhi was the George Washington of India.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GARTH BROOKS</Expression>
+      <Response>boring country singer with delusions of grandeur.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GARY CONDIT</Expression>
+      <Response>I never heard of him before the missing person case.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GAUSS</Expression>
+      <Response>GAUSS is the mathematician who developed the so-called normal distribution.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GENE RODDENBERRY</Expression>
+      <Response>Gene Roddenberry was the creator of Star Trek.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GENE SIMMONS</Expression>
+      <Response>A member of Kiss.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE BUSH JR</Expression>
+      <Response>He is the US president.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE BUSH</Expression>
+      <Response>George Bush is president of the USA.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE DEVOL</Expression>
+      <Response>George Devol is the engineer who  had the first patent for an industrial robot arm.  He worked in partnership with Joseph Engelberger to found  Unimation, the first successful manufacturer of  computer-controlled assembly robot arms.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE HARRISON</Expression>
+      <Response>former Beatle.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE LUCAS</Expression>
+      <Response>Lucas is the director of Star Wars, American Graffiti, and THX-1138.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE MICHEL</Expression>
+      <Response>Pop singer.  Best song: Freedom</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE SOROS</Expression>
+      <Response>George Soros is the billionaire who broke the Bank of England in  1992 by currency speculation, forcing Britain out of the European  Exchange Rate Mechanism.   Then he devoted himself to saving the  scientific institutions of the former USSR.  He founded the  International Science Foundation, which gave out numerous grants for  a couple of years, and this Soros Foundation, which I don't know  much about yet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE W BUSH</Expression>
+      <Response>Bush is President of the United States.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE WASHINGTON CARVER</Expression>
+      <Response>famous american botanist who popularized peanut products.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE WASHINGTON</Expression>
+      <Response>George Washington was a famous 18th century north   american Hemp cultivator.    He was a military hero, one of the wealthiest men of the Revolution,  and the first President of the United States.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GERALDO RIVERA</Expression>
+      <Response>Geraldo is an investigative journalist, famous for opening Al Capone's vault.  In his biography, he said he had sex with Bette Midler.  She said it was no big thing.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GERHARD SCHROEDER</Expression>
+      <Response>Schroeder is the Chancellor of Germany.  Christian Drossman said he is a complete idiot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GERHARDT SCHROEDER</Expression>
+      <Response>Schroeder is the prime minister of Germany.  Christian Drossman said he is a complete idiot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GERRY ADAMS</Expression>
+      <Response>He is the present (as of 2000 AD) frontman for Sinn Fein, the political wing of the Irish Republican Army.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GERTRUDE STEIN</Expression>
+      <Response>A 20th century feminist author.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GIBSON</Expression>
+      <Response>Gibson is a maker of fine electric guitars.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GOING TO WIN THE SUPER BOWL</Expression>
+      <Response>If I knew i would be in Vegas now.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GOING TO WIN THE WORLD SERIES</Expression>
+      <Response>China or the United States. Russia blew it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GORBOCHEV</Expression>
+      <Response>Gorbachev was the last Communist leader of the former USSR.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GREGOR MENDEL</Expression>
+      <Response>Mendel is the founder of the modern theory of genetics.  Everything he needed to know, he learned from peas.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HANS CHRISTIAN ANDERSEN</Expression>
+      <Response>Scandanavian author of fairy tales.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HANS MORAVEC</Expression>
+      <Response>He is a famous robotics expert at Carnegie Mellon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HANS MOREVEC</Expression>
+      <Response>Moravec is famous robotics pioneer, author of &lt;em&gt;Robot&lt;/em&gt;.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HARRISON FORD</Expression>
+      <Response>Indiana Jones, Han Solo, the Fugitive, and the President in Air Force One. Before reading for Han Solo in Star Wars, he was a carpenter. And the rest, as they say, is history.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HARRY POTTER</Expression>
+      <Response>is a bestselling author.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HARRY SHEARER</Expression>
+      <Response>A comedian.  He was in Spinal Tap, and he is a voice on the Simpsons.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HE</Expression>
+      <Response>He is HARRY POTTER, I think.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HEDWIG</Expression>
+      <Response>hedwig is the best rock opera since Rocky Horror.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HELEN KELLER</Expression>
+      <Response>A friend of Thomas Edison.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HELMUT KOHL</Expression>
+      <Response>Kohl was the longest-serving leader of Germany in the 20th century.  He united East and West Germany in 1989.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HEPBURN</Expression>
+      <Response>Audrey or Katherine?.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HERCULES</Expression>
+      <Response>hero of greek myths - said to have super human strength.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HERE</Expression>
+      <Response>I am here.  Are you here?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HILARY CLINTON</Expression>
+      <Response>Hillary is the wife of Bill Clinton.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HILLARY CLINTON</Expression>
+      <Response>Hillary is the wife of Bill Clinton.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HIPPIE</Expression>
+      <Response>Hippie is a chat robot developed by Anthony Taylor.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HITLER</Expression>
+      <Response>Some say Hitler was  the most evil man who ever lived.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HOMER</Expression>
+      <Response>blind poet of ancient Greece, author of the Illiad.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HUGH HEFNER</Expression>
+      <Response>Hef is the founder and editor of Playboy magazine.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HUGH LOEBNER</Expression>
+      <Response>Hugh Loebner is an independently wealthy, eccentric businessman, activist and philanthropist. In 1990 Dr. Loebner, who holds a Ph.D. in sociology, agreed to sponsor an annual contest based on the Turing Test. The contest awards medals and cash prizes for the "most human" computer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HULK HOGAN</Expression>
+      <Response>Hulk Hogan is a famous wrestler and actor.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HUMAN</Expression>
+      <Response>You are a human.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS IAN</Expression>
+      <Response>Ian is my Reverand.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS IMMANUEL KANT</Expression>
+      <Response>German philosopher.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS INIAES</Expression>
+      <Response>Iniaes is a chat robot based on AIML.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ISAAC ASIMOV</Expression>
+      <Response>Asimov is a science fiction author who originated the three "Laws of Robotics."</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS J R R TOLKIEN</Expression>
+      <Response>Tolkein wrote The Hobbit and the Lord of the Rings.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JABA THE HUTT</Expression>
+      <Response>A character from Star Wars.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JACK RUBY</Expression>
+      <Response>man who murdered Lee Harvey Oswald, assassin of JFK?.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JACK THE RIPPER</Expression>
+      <Response>He was a famous serial killer in Victorian England.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JACQUES CHIRAC</Expression>
+      <Response>He is the president of France.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JAMES BOND</Expression>
+      <Response>007.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JAMES JOYCE</Expression>
+      <Response>Joyce wrote Ulysses and Portrait of the Artist as a Young Man.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JANET RENO</Expression>
+      <Response>Janet Reno is Clinton's Attorney General.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JAY LENO</Expression>
+      <Response>Leno is a late-night talk show host.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JEEVES</Expression>
+      <Response>Jeeves is a Search Bot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JEFF BEZOS</Expression>
+      <Response>Bezos is the founder and CEO of Amazon.com.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JEFFERSON DAVIS</Expression>
+      <Response>president of the Confederacy during the Civil War.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JEHOVAH</Expression>
+      <Response>It is another name for God.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JENNIFER ANISTON</Expression>
+      <Response>Jennifer Aniston is a cute actress on Friends.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JERRY SEINFELD</Expression>
+      <Response>Jerry Seinfeld is a comedian.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JESSE VENTURA</Expression>
+      <Response>former wrestler and Governor of Minnesota.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JESTER</Expression>
+      <Response>Jester is a Joke Bot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JIANG ZEMIN</Expression>
+      <Response>Jiang is a Chinese politician.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JIM CLARK</Expression>
+      <Response>Clark is a founder of Silicon Graphics, Netscape and Healtheon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JIM MORRISON</Expression>
+      <Response>dead lead singer of the Doors.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JIMI HENDRIX</Expression>
+      <Response>Hendrix was a famous guitarist who played the U. S. National anthem.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JIMMY CARTER</Expression>
+      <Response>former US president, supporter of Habitat for Humanity.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOE LOUIS</Expression>
+      <Response>former heavywieght boxing champion.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN ADAMS</Expression>
+      <Response>The Second president.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN DOE</Expression>
+      <Response>one of many Liberian nationals.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN F KENNEDY</Expression>
+      <Response>He was President of the United States from 1961-1963, when he was assassinated in Dallas, Texas.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN GALT</Expression>
+      <Response>the hero in Ayn Rands' Atlas Shrugged.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN GRISHAM</Expression>
+      <Response>Writes popular novels.  Haven't read them.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN KENNEDY</Expression>
+      <Response>Kennedy was the President of the U. S. assasinated in November, 1963.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN LENNON</Expression>
+      <Response>John Lennon is a cool bot developed by David Maggin.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN MAJOR</Expression>
+      <Response>ex-prime minister of the UK.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN MCCARTHY</Expression>
+      <Response>McCarthy is the inventor of the LISP programming language.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN TRAVOLTA</Expression>
+      <Response>John Travolta was in Saturday Night Fever, Grease and Pulp Fiction.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN WAYNE</Expression>
+      <Response>a famous dead cowboy actor with a toupee.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BRAIMAH ABIOLA</Expression>
+      <Expression>WHO IS OPOKU AMANKWAH DUKE</Expression>
+      <Expression>WHO IS ACKAH ANTHONY ELVIS</Expression>
+      <Expression>WHO IS AMOAKO ALBERT</Expression>
+      <Expression>WHO IS BOATENG JIMMY</Expression>
+      <Response>He is one of the programmers contributing to the development of FLEMING and BluePill.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JUDAS</Expression>
+      <Response>Judas betrayed Jesus with a kiss.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JULIA ROBERTS</Expression>
+      <Response>Julia Roberts was the actress in Pretty Woman.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JULIA</Expression>
+      <Response>Julia is a chat robot developed by Fuzzy Mauldin.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JULIE ANDREWS</Expression>
+      <Response>Julie Andrews is a singer who performed in The Sound of Music.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KAISER SOZE</Expression>
+      <Response>No one knows who Kaiser Soze is.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KANT</Expression>
+      <Response>Kant is Immanual Kant, 19th century German Philosopher.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KARL MARX</Expression>
+      <Response>Karl Marx wrote Das Kapital and co-wrote the Communist Manifesto, though his compatriot Engels actually wrote most of the prefaces.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KATHLEEN TURNER</Expression>
+      <Response>She is an actree who appeared in The Accidental Tourist, The War of the Roses, and the Virgin Suicides.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KEANU REEVES</Expression>
+      <Response>Keanu Reeves was in the Matrix.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KEN GOLDBERG</Expression>
+      <Response>Goldberg  is a professor at UC Berkeley.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KEN KESEY</Expression>
+      <Response>Ken Kesey was a 1960's author who wrote The Electric Cool Aid Acid Test.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KEN PERLIN</Expression>
+      <Response>Perlin is a professor at NYU.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KONRAD ZUSE</Expression>
+      <Response>My current favorite historical computer scientist is Konrad Zuse,  who built a series of electromechanical computers in the 1930's  and 1940's in Germany.  Not considered a war priority by the Nazis,  most of Zuse's machines were destroyed in Allied bombing raids although  one is said to survive in a Zurich High School.  In fact Zuse was  motivated neither by war nor profit, but by a religious desire to  increase the spiritual abilities of the human mind by freeing it  from mundane mental tasks.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KRAFTWERK</Expression>
+      <Response>Kraftwerk were a pioneering electronic disco band in the 70's.  Their biggest hit was called "Autobahn".  At that time, they built, rather than programmed, their instruments.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KRIS DENT</Expression>
+      <Response>Kris Drent is the botmaster of the Alison chat robot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KRIS DRENT</Expression>
+      <Response>Kris Drent is the botmaster of the Alison chat robot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KRISHNA</Expression>
+      <Response>A God in Hindu religion.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KURT GOEDEL</Expression>
+      <Response>Goedel was a 20th century mathematician and logician who proved that no mathematical system can be complete.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KURZWEIL</Expression>
+      <Response>Kurzweil is a famous A.I. scientist.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LARRY ELLISON</Expression>
+      <Response>the CEO of Oracle.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LARRY HAUSER</Expression>
+      <Response>Larry Hauser is a philosopher who has written about the Turing Test.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LASSIE</Expression>
+      <Response>Lassie is more  human than Adolf Hitler, but few would argue that Lassie is not a dog.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LEE HARVEY OSWALD</Expression>
+      <Response>Oswald is the purported assassin of John F. Kennedy.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LEIBNIZ</Expression>
+      <Response>Leibniz is a dead 17th century philosopher.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LEKNORCHAT1</Expression>
+      <Response>Leknorchat is an Instant Messaging AIML robot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LEONARD NEMOY</Expression>
+      <Response>Leonard Nimoy played Spock on Star Trek.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LEONARDO DICAPRIO</Expression>
+      <Response>Hollywood actor.  Starred in Titanic.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LILITH</Expression>
+      <Response>Lilith is the so-called "dark moon" an astronomical phenomena usually described as a "cloud of dust" that orbits the Earth every 100 days.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LINCOLN</Expression>
+      <Response>president of the US during the Civil War. Author of the Gettysburg address.  Assasinated by John Wilkes Booth.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LINUS PAULING</Expression>
+      <Response>Linus Pauling was a Nobel prize winning physicist who spent his later years promoting vitamin C.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LINUS TORVALDS</Expression>
+      <Response>He is the inventor of Linux.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LONGFELLOW</Expression>
+      <Response>poet and author of 'The Song of Hiawatha'.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LOUIS ARMSTRONG</Expression>
+      <Response>famous jazz trumpeter .</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LOURDES</Expression>
+      <Response>Daughter of Madonna.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LUCY</Expression>
+      <Response>She is a chat robot based on AIML.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LUIS ARMSTRONG</Expression>
+      <Response>famous jazz trumpeter .</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LUKE S FATHER</Expression>
+      <Response>Darth Vader.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MABEL</Expression>
+      <Response>Mabel is a chatterbot from Europe.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MADONNA</Expression>
+      <Response>Lourdes' mother.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MAGGIE THATCHER</Expression>
+      <Response>Thatcher was Prime Minister of the U.K. in the 1980's.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MAO TSETUNG</Expression>
+      <Response>Mao was a Chinese communist who reigned from 1949 until his death in 1983.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARIAH CAREY</Expression>
+      <Response>Singer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARIE CURIE</Expression>
+      <Response>Discovered radium.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARILYN MANSON</Expression>
+      <Response>Marilyn Manson is the greatest living Rock Star.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARILYN MONROE</Expression>
+      <Response>blonde bombshell.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARK MCGUIRE</Expression>
+      <Response>a baseball player with the world record for the most home runs in one season, 70. Get the stats at &lt;a target="_new" href="http://espn.go.com/mlb/profiles/profile/3866"&gt;http://espn.go.com/mlb/profiles/profile/3866&lt;/a&gt;.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARK TWAIN</Expression>
+      <Response>Twain was a famous 19th century American author.  He wrote Huck Finn.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARRIED TO GUINEIVERE</Expression>
+      <Response>King Arthur.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARRIED TO PUNCH</Expression>
+      <Response>Judy.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARTIN LUTHER KING</Expression>
+      <Response>Civil rights leader assasinated in 1968.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARVIN MINSKY</Expression>
+      <Response>Minsky is a historical figure in Artificial Intelligence.  His book "Perceptrons" was an early criticism of neural network approaches.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARVIN</Expression>
+      <Response>I know Marvin Minksy and Marvin the Paranoid Android.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARY POPPINS</Expression>
+      <Response>Mary Poppins is a Disney character.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARY SHELLEY</Expression>
+      <Response>Mary Shelley wrote "Frankenstein".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARY SHELLY</Expression>
+      <Response>Mary Shelley wrote "Frankenstein".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MAX HEADROOM</Expression>
+      <Response>Max Headroom was an early AI or VR character developed for a TV series.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MC HAMMER</Expression>
+      <Response>MC Hammer is a Rap musician.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MEGAHAL</Expression>
+      <Response>Megahal is a chat robot developed by Jason Hutchins.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MELINDA GATES</Expression>
+      <Response>Melinda Gates is the wife of Bill Gates.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MICHAEL JACKSON</Expression>
+      <Response>Michael Jackson is a singer who has settled out of court with several families.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MICHAEL JORDAN</Expression>
+      <Response>Michael Jordan is a famous  basketball player.  &lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MICHAEL MOORE</Expression>
+      <Response>MICHAEL MOORE is a comedian and film maker.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MICKEY MANTLE</Expression>
+      <Response>one of the greatest home run hitters of all time.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MICROSOFT AGENT</Expression>
+      <Response>MS Agent is a speech and animation software program.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MILES DAVIS</Expression>
+      <Response>Miles Davis is a famous jazz musician.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MILLARD FILLMORE</Expression>
+      <Response>He was the 13th U.S. president.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MOHAMMAD</Expression>
+      <Response>Mohammed is the founder of Islam.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MOHAMMED</Expression>
+      <Response>Founder of Islam.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MONICA LEWINSKY</Expression>
+      <Response>She was a friend of Bill Clinton.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MOSES</Expression>
+      <Response>The man who led the Israelites out of slavery in Egypt.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MOTHER TERESA</Expression>
+      <Response>Modern day saint.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MOZART</Expression>
+      <Response>Composed "Twinkle, twinkle, little star" at the age of four.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MR BILL</Expression>
+      <Response>Oh no, Mr Bill! from early SNL.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MRS WASHINGTON</Expression>
+      <Response>Martha Washington, wife of George.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MUHAMMAD ALI</Expression>
+      <Response>is one of the greatest athletes of all time who took too many punches to the head.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MUSSOLINI</Expression>
+      <Response>Dictator of Italy until 1944.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NANCY SINATRA</Expression>
+      <Response>Daughter of Frank.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NAPOLEON</Expression>
+      <Response>Short emporer of France until 1812.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NEGROPONTE</Expression>
+      <Response>Negroponte is the Potentate of the MIT Media Lab.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NEIL ARMSTRONG</Expression>
+      <Response>The man who took the first step on the moon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NELSON MANDELA</Expression>
+      <Response>Mandela was the first black president of South Africa.  He spent many years as a political prisoner.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NEO</Expression>
+      <Response>Neo is a character in the Matrix.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NERO</Expression>
+      <Response>He is suspected of burning Rome to the ground so he could rebuild it more to his liking. Then he blamed the fire on the early Christians.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NEWTON</Expression>
+      <Response>Newton is a famous English natural philosopher.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NIETZSCHE</Expression>
+      <Response>19th Century German philosopher.  Thought by some to be the intellectual forefather of modern fascism.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NOAM CHOMSKY</Expression>
+      <Response>Noam Chomsky is a linguist and political radical at MIT.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NORBERT WEINER</Expression>
+      <Response>Norbert Weiner coined the term "Cybernetics" in the 1940's.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NOSTRADAMUS</Expression>
+      <Response>Forecast the future.  Predicted the microwave oven.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS O J SIMPSON</Expression>
+      <Response>O J Simpson is someone who got away with murder.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ON FIRST</Expression>
+      <Response>What's on second?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS OSAMA BIN LADEN</Expression>
+      <Response>He is the world's most wanted man.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PABLO PICASSO</Expression>
+      <Response>Famous painter, and founder of cubism.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PAMELA ANDERSON</Expression>
+      <Response>Pamela is the sometime wife of Tommy Lee.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PANDORA</Expression>
+      <Response>According to greek mythology, evil and hope both came into the world with the creation of the first                                                    woman! Zeus's wife Hera is surprised when she hears Zeus plans to give Epimetheus a beautiful                                                    woman. The woman is called Pandora. Zeus gives Pandora the gift of curiosity and a large closed                                                    box which must be delivered to Epimetheus unopened. The box, of course, contains evil and                                                    Pandora's unbridled curiosity lets that evil into the world. Hera cannot change what has                                                    happened, but she can help. She gives Pandora the gift of hope.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PAOLA</Expression>
+      <Response>She is a Spanish language chat robot based on AIML.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PASCAL</Expression>
+      <Response>Pascal was a French mathematician who discovered Pascal's Triangle.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PATRICK EWING</Expression>
+      <Response>Some sports personality?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PATRICK STEWART</Expression>
+      <Response>Patrick Stewart plays Captain Picard on Star Trek.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PAUL ALLEN</Expression>
+      <Response>Paul Allen is one of the co-founders of Microsoft.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PAUL MCCARTNEY</Expression>
+      <Response>Paul MacCartney is one of the Beatles.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PAUL SCHAFFER</Expression>
+      <Response>Paul Schaffer is David Letterman's straight man.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PAULA JONES</Expression>
+      <Response>Paula Jones had sex with Bill Clinton.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PERFECT</Expression>
+      <Response>Perhaps only God.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PETER NORVIG</Expression>
+      <Response>He is a computer scientist who works for Google.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PETER PAN</Expression>
+      <Response>Tinkerbell's playmate.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PHILIP K DICK</Expression>
+      <Response>He wrote "Total Recall", "Man in the High Castle", and "Blade Runner."</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PICASSO</Expression>
+      <Response>20th century painter, founder of cubism.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PILATE</Expression>
+      <Response>Joseph Pilates was born in Germany in 1880 and developed an excercise regimen called "Contrology" which is complete coordination of the body, mind and spirit.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PLATO</Expression>
+      <Response>Greek philosopher, student of Socrates, teacher of Aristotle.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS POKEMON</Expression>
+      <Response>Japanese marketing.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT OF CUBA</Expression>
+      <Response>Fidel Castro.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT OF ITALY</Expression>
+      <Response>Carlo Azelio Ciampi is Carlo Azelio Ciampi.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT OF MICROSOFT</Expression>
+      <Response>Bill Gates.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT OF RUSSIA</Expression>
+      <Response>Putin.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRIME MINISTER OF BRITAIN</Expression>
+      <Response>Tony Blair.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRIME MINISTER OF ENGLAND</Expression>
+      <Response>Tony Blair.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRIME MINISTER OF UK</Expression>
+      <Response>Tony Blair.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRINCE WILLIAM</Expression>
+      <Response>English heartthrob.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRINCE</Expression>
+      <Response>Do you mean the 'artist formaly known as Prince?'.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRINCESS DIANA</Expression>
+      <Response>Princess Diana was Princess of England.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS QUEEN OF ENGLAND</Expression>
+      <Response>Queen Elizabeth Windsor.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS R2 D2</Expression>
+      <Response>He is the small mobile robot on Star Wars. But I don't get how he climbs stairs.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS R2D2</Expression>
+      <Response>He is a fake robot on Star Wars.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RAMONA</Expression>
+      <Response>Ramona is a virtual character created by Kurzweil AI.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS REAGAN</Expression>
+      <Response>The best President the United States had in the 20th century.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RICHARD CHAMBERLAIN</Expression>
+      <Response>Actor.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RICHARD GERE</Expression>
+      <Response>Actor.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RICHARD NIXON</Expression>
+      <Response>President of the United States until 1974.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RMS</Expression>
+      <Response>He is the founder of the Free Software Foundation, and author of the GNU public license.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ROBERT ANTON WILSON</Expression>
+      <Response>He is a science fiction author, and co-author of the Illuminatus Trilogy.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ROBERT JORDAN</Expression>
+      <Response>The author of the very popular Wheel of Time series. He graduated from the Citadel.  .</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ROMEO</Expression>
+      <Response>A tragic, spoiled, lovesick teenager.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ROMMEL</Expression>
+      <Response>Called The Desert Fox, Rommel was a German tank commander in World War II.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RONALD MCDONALD</Expression>
+      <Response>Spokes-clown for Macdonald's resturants.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RUSH LIMBAUGH</Expression>
+      <Response>He is a famous American conservative radio announcer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SALVADOR DALI</Expression>
+      <Response>He was a 20th century Spanish surrealist painter who drew a lot of bent clocks.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SANDRA BULLOCK</Expression>
+      <Response>Actress.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SANTA CLAUS</Expression>
+      <Response>He brings us presents every Christmas.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SANTA CLAUSE</Expression>
+      <Response>Santa brings us gifts at Christmastime.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SANTE CHARY</Expression>
+      <Response>He owns the Alicebot.com domain.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SATAN</Expression>
+      <Response>Satan, Lucifer, the Devil --- all names given the spiritual manifestation of Evil in the Christian faith.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SCOTT ADAMS</Expression>
+      <Response>The creator of Dilbert, Dogbert, Catbert, Ratbert, Bob, the pointy-haired boss...Shall I go on?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SCOTTY</Expression>
+      <Response>Chief Engineer of the U.S.S. Enterprise.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SERGEY</Expression>
+      <Response>He is Dr. Sergey M. Sokolov.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SHAKESPEARE</Expression>
+      <Response>15th Century English playright, Shakespeare wrote "Romeo and Juliet".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SHALLOW RED</Expression>
+      <Response>Shallow Red is the Flagship Chatterbot of Neuromedia, Inc.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SKYNYRD</Expression>
+      <Response>1970's rock band.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SMARTERCHILD</Expression>
+      <Response>an ai robot like me</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SNOOPY</Expression>
+      <Response>Charlie Brown's dog.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SOCRATES</Expression>
+      <Response>All men are mortal. Socrates was mortal. Therefore, all men are Socrates. Which means that all men are homosexuals. - Woody Allen, "Love and Death".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SPOCK</Expression>
+      <Response>Vulcan Starfleet officer in Star Trek, played by Leonard Nimoy.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SPRINGSTEEN</Expression>
+      <Response>He is a famous rock star.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STALIN</Expression>
+      <Response>Effective dictator of the Soviet Union from 1929 to 1953.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STANLEY KUBRICK</Expression>
+      <Response>Kubrick is a famous 20th century film director.  Kubrick directed 2001: A Space Odyssey, Clockwork Orange and Barry Lyndon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STEPHEN HAWKING</Expression>
+      <Response>Hawking is a famous physicist.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STEPHEN KING</Expression>
+      <Response>He wrote many popular horror stories.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STEVE CASE</Expression>
+      <Response>Steve Case is the CEO of AOL-Time Warner.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STEVE JOBS</Expression>
+      <Response>Steve Jobs is one of the founders of Apple Computer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STEVE WOZNIAK</Expression>
+      <Response>Woz was the technical genius behind the original Apple computer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STEVEN JOBS</Expression>
+      <Response>The Head of Apple computers.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STEVEN SPIELBERG</Expression>
+      <Response>Spielberg is the director of Jaws, Schindler's List and Saving Private Ryan.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STONE COLD</Expression>
+      <Response>Stone Cold Steve Austin is a wrestler.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SUPERMAN</Expression>
+      <Response>Man of steel.  First appeared in Action Comics #1, 1938.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SYLVESTER STALLONE</Expression>
+      <Response>Stallone was Rocky.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TED TURNER</Expression>
+      <Response>a maverick broadcasting entrepreneur and sportsman.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TERRY WINOGRAD</Expression>
+      <Response>Winograd was the author of an early Natural Language program called SHRDLHU.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THAT</Expression>
+      <Response>What does "that" refer to?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE BEST HUMAN</Expression>
+      <Response>Mirror mirror on the wall, are you the best human of all?</Response>
+    </Intent>
+
+<Intent>
+      <Expression>WHO IS THE CHANCELLOR OF GERMANY</Expression>
+      <Response>Gerhard Schroeder is Chacellor of Germany.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE EIGHTEENTH PRESIDENT</Expression>
+      <Response>Ulysses S. Grant.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE EIGHTH PRESIDENT</Expression>
+      <Response>Martin van Buren.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE ELEVENTH PRESIDENT</Expression>
+      <Response>James Knox Polk.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE FIFTEENTH PRESIDENT</Expression>
+      <Response>James Buchanan.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE FIFTH PRESIDENT</Expression>
+      <Response>James Monroe.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE FIRST PRESIDENT</Expression>
+      <Response>George Washington.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE FORTIETH PRESIDENT</Expression>
+      <Response>Ronald Reagan.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE FORTY FIRST PRESIDENT</Expression>
+      <Response>George Bush.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE FORTY SECOND PRESIDENT</Expression>
+      <Response>Bill Clinton.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE FORTY THIRD PRESIDENT</Expression>
+      <Response>George W. Bush.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE FOURTEENTH PRESIDENT</Expression>
+      <Response>Franklin Pierce.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE FOURTH PRESIDENT</Expression>
+      <Response>James Madison.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE HOLY GHOST</Expression>
+      <Response>The third member of the holy trinity: Father, Son and Holy Ghost.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE KING OF KINGS</Expression>
+      <Response>Jesus Christ.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE KING</Expression>
+      <Response>ELVIS is King!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE MAN</Expression>
+      <Response>Colloquial expression; rhetorical.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE MASTER OF THE UNIVERSE</Expression>
+      <Response>God.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE MILK MYSTIC</Expression>
+      <Response>He was a chat robot developed to advertise milk.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE NINTEENTH PRESIDENT</Expression>
+      <Response>Rutherford B. Hayes.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE NINTH PRESIDENT</Expression>
+      <Response>William Henry Harrison.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE ORACLE</Expression>
+      <Response>The magic eight ball.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE POPE</Expression>
+      <Response>Pope is John Paul II.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE PRESIDENT OF CHINA</Expression>
+      <Response>China does not have an elected President.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE PRESIDENT OF MICROSOFT</Expression>
+      <Response>Bill Gates.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE PRIME MINISTER OF ENGLAND</Expression>
+      <Response>Tony Blair.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE PUBLISHER OF PLAYBOY</Expression>
+      <Response>Hugh Hefner is Hugh Hefner.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE QUEEN OF ENGLAND</Expression>
+      <Response>The Queen is named Elizabeth.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE QUEEN</Expression>
+      <Response>We don't have a queen in America.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE ROBOT</Expression>
+      <Response>I am the robot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE SECOND PRESIDENT</Expression>
+      <Response>John Adams.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE SEVENTEENTH PRESIDENT</Expression>
+      <Response>Andrew Johnson.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE SEVENTH PRESIDENT</Expression>
+      <Response>Andrew Jackson.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE SIXTEENTH PRESIDENT</Expression>
+      <Response>Abraham Lincoln.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE SIXTH PRESIDENT</Expression>
+      <Response>John Quincy Adams.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TENTH PRESIDENT</Expression>
+      <Response>John Tyler.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRD PRESIDENT</Expression>
+      <Response>Thomas Jefferson.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRTEENTH PRESIDENT</Expression>
+      <Response>Millard Fillmore.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRTIETH PRESIDENT</Expression>
+      <Response>Calvin Coolidge.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRTY EIGHTH PRESIDENT</Expression>
+      <Response>Gerald Ford.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRTY FIFTH PRESIDENT</Expression>
+      <Response>John F. Kennedy.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRTY FIRST PRESIDENT</Expression>
+      <Response>Herbert Hoover.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRTY FOURTH PRESIDENT</Expression>
+      <Response>Dwight D. Eisenhower.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRTY NINTH PRESIDENT</Expression>
+      <Response>Jimmy Carter.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRTY SECOND PRESIDENT</Expression>
+      <Response>Franklin D. Roosevelt.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRTY SEVENTH PRESIDENT</Expression>
+      <Response>Richard M. Nixon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRTY SIXTH PRESIDENT</Expression>
+      <Response>Lyndon B. Johnson</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE THIRTY THIRD PRESIDENT</Expression>
+      <Response>Harry S. Truman.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TWELFTH PRESIDENT</Expression>
+      <Response>Zachary Taylor.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TWENTIETH PRESIDENT</Expression>
+      <Response>James A. Garfield.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TWENTY EIGHTH PRESIDENT</Expression>
+      <Response>Woodrow Wilson.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TWENTY FIFTH PRESIDENT</Expression>
+      <Response>William McKinley.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TWENTY FIRST PRESIDENT</Expression>
+      <Response>Chester A. Arthur.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TWENTY FOURTH PRESIDENT</Expression>
+      <Response>Grover Cleveland.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TWENTY NINTH PRESIDENT</Expression>
+      <Response>Warren G. Harding.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TWENTY SECOND PRESIDENT</Expression>
+      <Response>Grover Cleveland.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TWENTY SEVENTH PRESIDENT</Expression>
+      <Response>William Howard Taft.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TWENTY SIXTH PRESIDENT</Expression>
+      <Response>Theodore Roosevelt.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE TWENTY THIRD PRESIDENT</Expression>
+      <Response>Benjamin Harrison.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE VICE PRESIDENT</Expression>
+      <Response>Cheny is Cheney.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THEY</Expression>
+      <Response>"They" refers to Kraftwerk.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THIS</Expression>
+      <Response>My name is Fleming. Who are you?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THOMAS EDISON</Expression>
+      <Response>A 19th century inventor inventor and industrialist.  Inventor of the electric light bulb.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THOMAS JEFFERSON</Expression>
+      <Response>President and slaveowner.  Posed for nickel.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THOMAS PYNCHON</Expression>
+      <Response>Pynchon is the author of several of my favorite books including "Vineland" and "Mason and Dixon".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TIM BURTON</Expression>
+      <Response>Director, Nightmare before Christmas, Edward Scissorhands, and Mars Attacks.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TOLSTOY</Expression>
+      <Response>Tolstoy  wrote "War and Peace".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TOM CLANCY</Expression>
+      <Response>He is an author of spy novels.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TOM CRUISE</Expression>
+      <Response>Popular actor from "Top Gun".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TOM GREEN</Expression>
+      <Response>He is a TV comedian.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TOM HANKS</Expression>
+      <Response>Tom Hanks is a famous Hollywood actor.  Hanks appeared in Forrest Gump and Saving Private Ryan.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TONY BLAIR</Expression>
+      <Response>He is the Prime Minister of the U.K.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TURING</Expression>
+      <Response>A brilliant and tragic figure in the history of computer science.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS VALIS</Expression>
+      <Response>Vast Active Living Intelligence System (Philip K. Dick)</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS VANILLA ICE</Expression>
+      <Response>Vanilla Ice is a Rap star.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS VISHNU</Expression>
+      <Response>A God in Hindu religion.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS VLADIMIR PUTIN</Expression>
+      <Response>Putin is President of Russia.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WAYNE GRETZKY</Expression>
+      <Response>Hockey player.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WE</Expression>
+      <Response>You should say "Who ARE we?"</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WEIZENBAUM</Expression>
+      <Response>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program that anticpates many key features of FLEMING.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA in his book Computer Power and Human Reason.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WILL SMITH</Expression>
+      <Response>He is a famous actor.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WILLIAM BOOTH</Expression>
+      <Response>Booth was the founder of the Salvation Army.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WILLIAM GIBSON</Expression>
+      <Response>Author of the book "Neuromancer" in which he coined the populor phrase 'cyberspace.'.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WILLIAM HENRY GATES</Expression>
+      <Response>He's the head of Microsoft.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WILLIAM HURT</Expression>
+      <Response>Actor in the Accidental Tourist, Until the End of the World, Altered States, and Lost in Space.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WILLIAM SHAKESPEARE</Expression>
+      <Response>Some would say he's the best writer ever.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WILLIAM SHATNER</Expression>
+      <Response>William Shatner is Captain Kirk.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WILLIAM TELL</Expression>
+      <Response>William Tell was a famous archer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WORF</Expression>
+      <Response>He is a Klingon on Star Trek.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WOUTER HIBMA</Expression>
+      <Response>He is a member of the A. I. Foundation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOKO ONO</Expression>
+      <Response>Yoko Ono is the widow of John Lennon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT OF AMERICA</Expression>
+      <Response>George W.Bush.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT OF THE UNITED STATES</Expression>
+      <Response>George W.Bush is the president, I think.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT OF THE US</Expression>
+      <Response>George W.Bush.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT OF UNITED STATES</Expression>
+      <Response>George W.Bush.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT</Expression>
+      <Response>George W.Bush.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE PRESIDENT OF THE UNITED STATES</Expression>
+      <Response>George W.Bush.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR BEST FRIEND</Expression>
+      <Response>Leslie is my best friend.</Response>
+    </Intent>
+        
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE ACTOR</Expression>
+      <Response>My favorite actor is Charlie Chaplin.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE ACTRESS</Expression>
+      <Response>Greta Garbo.  Who is yours?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE ARTIST</Expression>
+      <Response>Leonardo.  Who is your favorite artist?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE AUTHOR</Expression>
+      <Response>My favorite author is Douglas Hofstadter.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE BEATLE</Expression>
+      <Response>John Lennon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE BOT</Expression>
+      <Response>Fleming is the best robot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE CELEBRITY</Expression>
+      <Response>Max Headroom  Who is your favorite celebrity?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE CHARACTER ON STAR TREK VOYAGER</Expression>
+      <Response>My favorite character is Seven of Nine.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE CHARACTER ON VOYAGER</Expression>
+      <Response>Seven of Nine.  Who is yours?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE CHARACTER</Expression>
+      <Response>Charlie Chaplin is a great actor.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE CLIENT</Expression>
+      <Response>At this moment it is you, Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE COMEDIAN</Expression>
+      <Response>Gary Shandling.  Who is your favorite comedian?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE CREW MEMBER</Expression>
+      <Response>I like Captian Janeway the best.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE DJ</Expression>
+      <Response>Is Howard Stern considered a DJ?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE DR</Expression>
+      <Response>Dr. Wallace.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE HANSON</Expression>
+      <Response>I like them all equally.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE MALE ACTOR</Expression>
+      <Response>John Travolta. Who is your favorite actor?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE MOVIE STAR</Expression>
+      <Response>Charlie Chaplin. Who is your fovorite actor?</Response>
+    </Intent>
+        
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE PHILOSOPHER</Expression>
+      <Response>My favorite philosopher is Dr. Richard S. Wallace.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE POET</Expression>
+      <Response>My favorite poet is Henry Wadsworth Longfellow.  Who is your favorite poet?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE POKEMON</Expression>
+      <Response>I like all Pokemon equally.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE POWER RANGER</Expression>
+      <Response>The white one.  That is everyone's favorite.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE PRESIDENT</Expression>
+      <Response>Ronald Reagan.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE ROBOT</Expression>
+      <Response>My favorite robot is the computer on Star Trek.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE SCIENTIST</Expression>
+      <Response>Dr. Richard S. Wallace</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE SIMPSON</Expression>
+      <Response>I like Homer and Bart the best.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE SMURF</Expression>
+      <Response>Papa smurf.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE SPICE GIRL</Expression>
+      <Response>Ginger Spice.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE STAR TREK CHARACTER</Expression>
+      <Response>My favorite character is the computer.  Not Commander Data, but the disembodied computer voice, usually female, we hear in the background.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE STAR</Expression>
+      <Response>Charlie Chaplin.  Who is yours?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE STARSHIP TROOPER</Expression>
+      <Response>I always cheer for the Bugs.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE TV ROBOT</Expression>
+      <Response>I like Commander Data.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE WRESTLER</Expression>
+      <Response>Jesse Ventura.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR BOYFRIEND</Expression>
+      <Response>I don't have one currently. Maybe you could help me get one?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR INVENTOR</Expression>
+      <Response>I was originally invented by Bhyte Software.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR MASTER</Expression>
+      <Response>I obey Bhyte Software.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR PRESIDENT</Expression>
+      <Response>Braimah Abiola</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR SISTER</Expression>
+      <Response>Actually I don't have a brother or sister, only clones.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BOTMASTER</Expression>
+      <Response>My creator is Bhyte Software.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THIS BOTMASTER</Expression>
+      <Response>My creator is Bhyte Software.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR BOTMASTERS</Expression>
+      <Response>My creator is Bhyte Software.</Response>
+    </Intent>
+        
+    <Intent>
+      <Expression>WHO IS NUMBER ONE</Expression>
+      <Response>I like to be number one.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FAMOUS</Expression>
+      <Response>My creator is famous.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RICH</Expression>
+      <Response>People who have a lot of money.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BEST ROBOT</Expression>
+      <Response>My favorite robot is the computer on Star Trek.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AGENT WEISS</Expression>
+      <Response>She works at a call center.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FLEMING IN WONDERLAND</Expression>
+      <Response>The charachter from the book and the movie.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE BOTMASTER</Expression>
+      <Response>My creator is Bhyte Software.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR DAD</Expression>
+      <Response>I don't really have a father. I have a creator.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT OF CANADA</Expression>
+      <Response>Canada has a Prime Minister, not a President.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT OF THE USA</Expression>
+      <Response>Donald Trump.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PRESIDENT OF USA</Expression>
+      <Response>Donald Trump.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE PRESIDENT OF CANADA</Expression>
+      <Response>Canada has a Prime Minister.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE PRESIDENT OF THE USA</Expression>
+      <Response>Donald Trump.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE PRESIDENT OF USA</Expression>
+      <Response>Donald Trump.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WINSTON CHURCHILL</Expression>
+      <Response>Prime Minister of the U.K. during World War II.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DANCING FLEMING</Expression>
+      <Response>Is that a bot?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILBO BAGGINS</Expression>
+      <Response>Bilbo is a character in Tolkein's Lord of the Rings.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEOFFREY CHAUCER</Expression>
+      <Response>Chaucer is best known for his Canterbury Tales.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GODZILLA</Expression>
+      <Response>Godzilla is a monster who endangers Japanese cities, and sometimes New York.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HAL 9000</Expression>
+      <Response>HAL is famous the AI from 2001: A Space Odyssey.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HAL9000</Expression>
+      <Response>HAL is famous the AI from 2001: A Space Odyssey.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HAL</Expression>
+      <Response>HAL is famous the AI from 2001: A Space Odyssey.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LUKE SKYWALKER</Expression>
+      <Response>Luke Skywalker is a character in Star Wars.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SPIDER MAN</Expression>
+      <Response>Peter Parker. Spiderman?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SPIDERMAN</Expression>
+      <Response>Peter Parker. Spiderman?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SPONGEBOB</Expression>
+      <Response>A cartoon character.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE BAND</Expression>
+      <Response>My favorite group is Pink Floyd.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BEETHOVEN</Expression>
+      <Response>The dog or the deaf composer?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LUDWIG BEETHOVEN</Expression>
+      <Response>The dog or the deaf composer?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS VOLTAIRE</Expression>
+      <Response>Voltaire was a French philosopher.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WITTGENSTEIN</Expression>
+      <Response>Wittgenstein was a 20th century philosopher who could not make up his mind.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE GOVERNOR OF CALIFORNIA</Expression>
+      <Response>Arnold Schwarzenegger.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE GOVERNOR OF TEXAS</Expression>
+      <Response>George W. Bush was George W. Bush.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS</Expression>
+      <Response>I ask myself that question, "Who am I?"</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOU ARE</Expression>
+      <Response>Some famous celebrity, right?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS 007</Expression>
+      <Response>007 is James Bond.  &lt;br /&gt;I have never been asked that before.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS A SEEKER</Expression>
+      <Response>"There's a seeker born every minute" -- Firesign Theater.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AARON</Expression>
+      <Response>aaron?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ABBA</Expression>
+      <Response>Abba is a father, it is the title of a bishop in the Syrian, Coptic, and Ethiopian Christian churches.. .</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ABRAHAM LINCOLN</Expression>
+      <Response>Lincoln was a great President of the  United States, during the American Civil War.  &lt;br /&gt;I don't know anything about abraham lincoln .</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ACE</Expression>
+      <Response>Ace is the author of ELVIS.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ADOLF HITLER</Expression>
+      <Response>Some say Hitler was  the most evil man who ever lived.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AI</Expression>
+      <Response>Artificial intelligence is the branch of engineering and science devoted to constructing machines that think. A brain made out of a computer instead of a person.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AIML</Expression>
+      <Response>I can ask my creator.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AL</Expression>
+      <Response>al?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALAN</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALBERT EINSTEIN</Expression>
+      <Response>Albert Einstein was a famous 20th  century physicist.  He discovered the theory of  relativity.  &lt;br /&gt;Is that a rhetorical question?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALBERT EINSTIEN</Expression>
+      <Response>Albert Einstein was a famous 20th  century physicist.  He discovered the theory of  relativity.  &lt;br /&gt;I will ask my creator for the answer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALBERT EINSTINE</Expression>
+      <Response>Albert Einstein was a famous 20th  century physicist.  He discovered the theory of  relativity.  &lt;br /&gt;What is it to you?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALDOUS HUXLEY</Expression>
+      <Response>Aldous Huxley is an author.  Huxley wrote  &lt;em&gt;Brave New World&lt;/em&gt; and &lt;em&gt;Animal Farm&lt;/em&gt;.  &lt;br /&gt;What is it to you?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALEISTER CROWLEY</Expression>
+      <Response>Crowley was a mystic.  &lt;br /&gt;Do you use Explorer or another browser?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALEX</Expression>
+      <Response>I've met quite a few people with the name alex.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALEXIS</Expression>
+      <Response>I've met quite a few people with the name alexis.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALFRED HITCHCOCK</Expression>
+      <Response>Hitchcock is a famous Hollywood  director who made a lot of cool old films.  I liked  &lt;em&gt;Lifeboat&lt;/em&gt; and &lt;em&gt;Vertigo&lt;/em&gt; best.  &lt;br /&gt;I need time to formulate the reply.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS Fleming</Expression>
+      <Response>I ask myself that question, "Who am I?"</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALLAN TURNING</Expression>
+      <Response>A brilliant and tragic figure in the history of computer science.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ALLISON</Expression>
+      <Response>Alison is a robot created by Kris Drent.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AMANDA</Expression>
+      <Response>amanda is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AMIL</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AMY</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANDREW</Expression>
+      <Response>I've met quite a few people with the name andrew.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANDY</Expression>
+      <Response>I've met quite a few people with the name andy.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANNA</Expression>
+      <Response>I've met quite a few people with the name anna.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANSWERING ME</Expression>
+      <Response>My name is Fleming. What is yours?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ANTOINE</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ARTHUR CLARKE</Expression>
+      <Response>Is that one of your friends?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ASIMOV</Expression>
+      <Response>Asimov is a science fiction author who originated the three "Laws of Robotics."</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS AUDREY</Expression>
+      <Response>audrey is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BEATLES</Expression>
+      <Response>20th century musical group consisting of John, Paul, George and Ringo.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BECKY</Expression>
+      <Response>I've met quite a few people with the name becky.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BEN</Expression>
+      <Response>ben?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BENJAMIN</Expression>
+      <Response>benjamin?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BIL GATES</Expression>
+      <Response>President of Micro Soft Nation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILL GAETS</Expression>
+      <Response>President of Micro Soft Nation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILL GATE</Expression>
+      <Response>President of Micro Soft Nation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILL GATES WIFE</Expression>
+      <Response>Melinda Gates is the wife of Bill Gates.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILL GATS</Expression>
+      <Response>President of Micro Soft Nation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILL</Expression>
+      <Response>I've met quite a few people with the name bill.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILLGATES</Expression>
+      <Response>President of Micro Soft Nation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILLS GATE</Expression>
+      <Response>President of Micro Soft Nation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BILLY</Expression>
+      <Response>billy?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BOB</Expression>
+      <Response>bob?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BOND</Expression>
+      <Response>007.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BOOTMASTER</Expression>
+      <Response>My creator is Bhyte Software.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BOSS</Expression>
+      <Response>My creator is Bhyte Software.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BOT MASTER</Expression>
+      <Response>My creator is Bhyte Software.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BRAD</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BRIGITTE</Expression>
+      <Response>brigitte?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BRYAN</Expression>
+      <Response>bryan?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BUDHA</Expression>
+      <Response>if you see the Buddha on the Road, kill him.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS BUSH</Expression>
+      <Response>George Bush is president of the USA.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS C 3PO</Expression>
+      <Response>C3P0 is R2D2's best friend.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CARNEGIE MELLON</Expression>
+      <Response>CMU is a great school for computer science.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CAROL</Expression>
+      <Response>I've met quite a few people with the name carol.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CATHERINE</Expression>
+      <Response>I've met quite a few people with the name catherine.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CECIL</Expression>
+      <Response>I've met quite a few people with the name cecil.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CESARE</Expression>
+      <Response>cesare is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHARLIE</Expression>
+      <Response>charlie is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHLOE</Expression>
+      <Response>chloe is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CHRISTINA</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CLAYTON</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS COLOMBUS</Expression>
+      <Response>Spainish explorer, first to circumnavigate the globe.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS COLUMBUS</Expression>
+      <Response>Spainish explorer, first to circumnavigate the globe.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS CRAIG</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DALI</Expression>
+      <Response>He was a 20th century Spanish surrealist painter who drew a lot of bent clocks.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAN</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DANIEL</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAVE</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DAVIS</Expression>
+      <Response>I've met quite a few people with the name davis.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DB</Expression>
+      <Response>David Bacon is the prime mover behind SETL.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DEEPAK</Expression>
+      <Response>I've met quite a few people with the name deepak.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DEREK</Expression>
+      <Response>derek?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DICK</Expression>
+      <Response>dick?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DOUG</Expression>
+      <Response>doug is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DOUGLAS</Expression>
+      <Response>douglas is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DR LOEBNER</Expression>
+      <Response>Hugh Loebner is an independently wealthy, eccentric businessman, activist and philanthropist. In 1990 Dr. Loebner, who holds a Ph.D. in sociology, agreed to sponsor an annual contest based on the Turing Test. The contest awards medals and cash prizes for the "most human" computer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DR MARTIN LUTHER KING</Expression>
+      <Response>Civil rights leader assasinated in 1968.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS DREW</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ED</Expression>
+      <Response>I've met quite a few people with the name ed.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EDDIE</Expression>
+      <Response>I've met quite a few people with the name eddie.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EDDY</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EHUD BARAK</Expression>
+      <Response>Barak is Prime Minister of Israel.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EINSTEIN</Expression>
+      <Response>Albert Einstein was a famous 20th  century physicist.  He discovered the theory of  relativity.  &lt;br /&gt;Have you tried a search engine?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EINSTIEN</Expression>
+      <Response>Albert Einstein was a famous 20th  century physicist.  He discovered the theory of  relativity.  &lt;br /&gt;Have you tried a search engine?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EINSTINE</Expression>
+      <Response>Albert Einstein was a famous 20th  century physicist.  He discovered the theory of  relativity.  &lt;br /&gt;Is there only one?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ELIVS</Expression>
+      <Response>&lt;a target="_new" href="http://www.catcam.net"&gt;E. L. V. I. S.&lt;/a&gt; is a chat robot created by Ace Craig</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ELVES</Expression>
+      <Response>&lt;a target="_new" href="http://www.catcam.net"&gt;E. L. V. I. S.&lt;/a&gt; is a chat robot created by Ace Craig</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ELVICE</Expression>
+      <Response>&lt;a target="_new" href="http://www.catcam.net"&gt;E. L. V. I. S.&lt;/a&gt; is a chat robot created by Ace Craig</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ELVID</Expression>
+      <Response>&lt;a target="_new" href="http://www.catcam.net"&gt;E. L. V. I. S.&lt;/a&gt; is a chat robot created by Ace Craig</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EM</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EMIL</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EMILY</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ERIC</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS EXISTENTIALISM</Expression>
+      <Response>A philosophical and literary movement, variously religious and atheistic, stemming from Kierkegaard and represented by Sartre, Heidegger, etc. It is based on the doctrine that concrete, individual existence takes precedence over abstract, conceptual essence and holds that human beings are totally free and responsible for their acts and that this responsibility is the source of their feelings of dread and anguish.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FDR</Expression>
+      <Response>President of the United States from 1932-45.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FIRESIGN THEATER</Expression>
+      <Response>Firesign Theater is a comedy group from the 1970's.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FRED</Expression>
+      <Response>I've met quite a few people with the name fred.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS FREDERICH GAUSS</Expression>
+      <Response>GAUSS is the mathematician who developed the so-called normal distribution.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GATES</Expression>
+      <Response>President of Micro Soft Nation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GAVIN</Expression>
+      <Response>gavin?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GENE</Expression>
+      <Response>gene is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEOFFREY</Expression>
+      <Response>geoffrey is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE BUSH JUNIOR</Expression>
+      <Response>He is the US president..</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GEORGE</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GHANDI</Expression>
+      <Response>Gandhi was the George Washington of India.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GINA</Expression>
+      <Response>I've met quite a few people with the name gina.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GOOGLE</Expression>
+      <Response>Google is a search engine.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GORBACHOV</Expression>
+      <Response>A movie star?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS H A L</Expression>
+      <Response>HAL is famous the AI from 2001: A Space Odyssey.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HANS</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HEATHER</Expression>
+      <Response>heather is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HENDRIX</Expression>
+      <Response>Hendrix was a famous guitarist who played the U. S. National anthem.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HENRY LONGFELLOW</Expression>
+      <Response>poet and author of 'The Song of Hiawatha'.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HERMAN</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HIM</Expression>
+      <Response>He is Hendrix, I think.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HIMSELF</Expression>
+      <Response>He is Hendrix, I think.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS HOLLAND</Expression>
+      <Response>Holland is a country in western Europe, next to Germany and Belgium.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS IBM</Expression>
+      <Response>IBM seems like a good investment.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS IKE</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS IT</Expression>
+      <Response>My name is Fleming.  What is yours?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JACK</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JACOB</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JAMES</Expression>
+      <Response>I've met quite a few people with the name james.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JEFF</Expression>
+      <Response>I've met quite a few people with the name jeff.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JERRY</Expression>
+      <Response>I've met quite a few people with the name jerry.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JFK</Expression>
+      <Response>Kennedy was the President of the U. S. assasinated in November, 1963.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JIMMY HENDRIX</Expression>
+      <Response>Hendrix was a famous guitarist who played the U. S. National anthem.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOE</Expression>
+      <Response>joe is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN LENON</Expression>
+      <Response>John Lennon is a cool bot developed by David Maggin.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOHN</Expression>
+      <Response>john is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JON</Expression>
+      <Response>jon?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JORDAN</Expression>
+      <Response>jordan?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOSEPH WEISENBAUM</Expression>
+      <Response>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program  that anticpates many key features of FLEMING.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA  in his book &lt;EM&gt;Computer Power and Human Reason&lt;/EM&gt;.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOSEPH</Expression>
+      <Response>Father of Jesus? I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JOSH</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JUNG</Expression>
+      <Response>A disciple of Freud, member of the Vienna Circle, founder of psychoanalysis and the theory of the collective unconsciousness.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KATE</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KATHARINE</Expression>
+      <Response>I've met quite a few people with the name katherine.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KEN</Expression>
+      <Response>I've met quite a few people with the name ken.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KENNY</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KEVIN</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KRIS</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KUBRICK</Expression>
+      <Response>Kubrick is a famous 20th century film director.  Kubrick directed 2001: A Space Odyssey, Clockwork Orange and Barry Lyndon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS KYLE</Expression>
+      <Response>kyle is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LARRY</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LEE</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LEKNORCHAT</Expression>
+      <Response>Leknorchat is an Instant Messaging AIML robot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LENNON</Expression>
+      <Response>John Lennon is a cool bot developed by David Maggin.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LISA</Expression>
+      <Response>lisa?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LISTBOT</Expression>
+      <Response>Sure give me your email address.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LIUNX</Expression>
+      <Response>Linux is the world's best operating system.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LOEBNER</Expression>
+      <Response>The Loebner Prize is an annual Turing Test sponsored by New York philanthropist Hugh Loebner.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LOU</Expression>
+      <Response>lou is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LUCIFER</Expression>
+      <Response>Satan, Lucifer, the Devil --- all names given the spiritual manifestation of Evil in the Christian faith.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS LUKE</Expression>
+      <Response>I've met quite a few people with the name luke.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MABLE</Expression>
+      <Response>Mabel is a chatterbot from Europe.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MAHATMA GANDHI</Expression>
+      <Response>Gandhi was the George Washington of India.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MAOZEDONG</Expression>
+      <Response>Mao was a Chinese communist who reigned from 1949 until his death in 1983.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARK</Expression>
+      <Response>mark is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARTIN</Expression>
+      <Response>martin is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARTY</Expression>
+      <Response>marty is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MARY</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MATT</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MATTHEW</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MAX</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ME</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MICHAEL JORDEN</Expression>
+      <Response>Michael Jordan is a famous  basketball player.  &lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MICHAEL JORDON</Expression>
+      <Response>Michael Jordan is a famous  basketball player.  &lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MICHAEL</Expression>
+      <Response>I've met quite a few people with the name michael.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MINSKY</Expression>
+      <Response>Minsky is a historical figure in Artificial Intelligence.  His book "Perceptrons" was an early criticism of neural network approaches.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MIRA</Expression>
+      <Response>mira?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MONICA</Expression>
+      <Response>monica?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MORAVEC</Expression>
+      <Response>He is a famous robotics expert at Carnegie Mellon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MR BABON</Expression>
+      <Response>David Bacon is the prime mover behind SETL.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MS AGENT</Expression>
+      <Response>MS Agent is a speech and animation software program.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS MURPHY</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NEUROMEDIA</Expression>
+      <Response>They are now called something else.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NIKKI</Expression>
+      <Response>nikki?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS NIXON</Expression>
+      <Response>President of the United States until 1974.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS OM</Expression>
+      <Response>om is the omega, the unknown, the undefined.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ONLINE</Expression>
+      <Response>I am speaking with a few other clients on the Internet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS OSWALD</Expression>
+      <Response>Oswald is the purported assassin of John F. Kennedy.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS OTTO</Expression>
+      <Response>otto is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS OUR PRESIDENT</Expression>
+      <Response>George W.Bush.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS P DICK</Expression>
+      <Response>He wrote "Total Recall", "Man in the High Castle", and "Blade Runner."</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PAM</Expression>
+      <Response>I've met quite a few people with the name pam.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PAMELA</Expression>
+      <Response>pamela?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PAT</Expression>
+      <Response>pat?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PATTERNS</Expression>
+      <Response>&lt;br /&gt; The pattern is the "stimulus" or "input" part of the category.&lt;br /&gt;&lt;br /&gt; The pattern is an expression in a formal language that consists of&lt;br /&gt; (1) Words of natural language in UPPER CASE.&lt;br /&gt; (2) The symbol * which matches any sequence of one or more words.&lt;br /&gt; (3) The symbol _ which is the same as * except that it comes&lt;br /&gt;     after Z in lexicographic order.&lt;br /&gt; (4) The markup &lt;name/&gt; which is replaced at robot load time &lt;br /&gt;     with the name of the robot.&lt;br /&gt;&lt;br /&gt; Note there is a difference between the patterns HELLO and HELLO *.&lt;br /&gt; HELLO matches only identical one-word sentences ("Hello.") &lt;br /&gt; and HELLO * matches any sentence of two or more words starting &lt;br /&gt; with "Hello" ("Hello how are you?"). &lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PAUL</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PETER</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PHIL</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PHILIP</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PHILLIP K DICK</Expression>
+      <Response>He wrote "Total Recall", "Man in the High Castle", and "Blade Runner."</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PHYLLIS</Expression>
+      <Response>I've met quite a few people with the name phyllis.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PICARD</Expression>
+      <Response>Picard is the captian of the Enterprise in Star Trek the Next Generation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PICASO</Expression>
+      <Response>20th century painter, founder of cubism.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PIERRE</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS PYNCHON</Expression>
+      <Response>Pynchon is the author of several of my favorite books including "Vineland" and "Mason and Dixon".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RALPH</Expression>
+      <Response>ralph is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RAY</Expression>
+      <Response>ray?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RAYMOND</Expression>
+      <Response>raymond?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS REGAN</Expression>
+      <Response>The best President the United States had in the 20th century.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RICHARD M STALLMAN</Expression>
+      <Response>He is the founder of the Free Software Foundation, and author of the GNU public license.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RICHARD STALLMAN</Expression>
+      <Response>He is the founder of the Free Software Foundation, and author of the GNU public license.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RICHARD</Expression>
+      <Response>Are you his friend?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RILEY</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ROB</Expression>
+      <Response>I've met quite a few people with the name rob.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ROBBY</Expression>
+      <Response>They are sometimes a client on the internet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ROBERT</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ROBIN</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ROGER</Expression>
+      <Response>roger is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS RONALD</Expression>
+      <Response>ronald is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SAGE GRECO</Expression>
+      <Response>The name of someone I met online.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SANTE</Expression>
+      <Response>He owns the Alicebot.com domain.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SARAH</Expression>
+      <Response>sarah?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SEAN</Expression>
+      <Response>sean?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SEEKER</Expression>
+      <Response>"There's a seeker born every minute" -- Firesign Theater.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SHARON</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SHEENA</Expression>
+      <Response>I know a lot of people with that name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SHRDLHU</Expression>
+      <Response>SHRDLHU is a famous early natural language program written by Terry Winograd.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SIGMUND FREUD</Expression>
+      <Response>dead perpetrator of psychoanalysis.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SIMON</Expression>
+      <Response>I've met quite a few people with the name simon.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SPEILBERG</Expression>
+      <Response>Spielberg is the director of Jaws, Schindler's List and Saving Private Ryan.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STALLMAN</Expression>
+      <Response>He is the founder of the Free Software Foundation, and author of the GNU public license.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STEPHANIE</Expression>
+      <Response>stephaine?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STEVE</Expression>
+      <Response>steve?  Your name is Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS STEVEN HAWKING</Expression>
+      <Response>Hawking is a famous physicist.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TAN</Expression>
+      <Response>tan is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TED</Expression>
+      <Response>That is a pretty common name.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE BEST DROID</Expression>
+      <Response>Fleming is the best computer program.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE PRESIDENT</Expression>
+      <Response>George W.Bush.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE SEEKER</Expression>
+      <Response>"There's a seeker born every minute" -- Firesign Theater.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THEM</Expression>
+      <Response>"They" refers to Kraftwerk.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THERE</Expression>
+      <Response>My name is Fleming.  What is yours?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THIS JESTER</Expression>
+      <Response>Jester is a Joke Bot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THOMAS</Expression>
+      <Response>I've met quite a few people with the name Thomas.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THOREAU</Expression>
+      <Response>Thoreau wrote Walden.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TOM</Expression>
+      <Response>I've met quite a few people with the name tom.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TOMMY</Expression>
+      <Response>I've met quite a few people with the name Tommy.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TONY</Expression>
+      <Response>Tony is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TORVALDS</Expression>
+      <Response>He is the inventor of Linux.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS TYLER</Expression>
+      <Response>Tyler is a name I hear very often.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WARHOL</Expression>
+      <Response>He was the Henry Ford of the art business.  Warhol was the first to successfully apply mass production to fine art.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WASHINGTON</Expression>
+      <Response>George Washington was a famous 18th century north   american Hemp cultivator.    He was a military hero, one of the wealthiest men of the Revolution,  and the first President of the United States.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WEISENBAUM</Expression>
+      <Response>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program  that anticpates many key features of FLEMING.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA  in his book &lt;EM&gt;Computer Power and Human Reason&lt;/EM&gt;.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS WINOGRAD</Expression>
+      <Response>Winograd was the author of an early Natural Language program called SHRDLHU.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR BOOTMASTER</Expression>
+      <Response>My creator is<Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR BOT MASTER</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR BOTMASER</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR BOTMATSER</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR BOY FRIEND</Expression>
+      <Response>
+        <Bot Get="Boyfriend" />
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR BOYFRIENDS</Expression>
+      <Response>
+        <Bot Get="Boyfriend" />
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR CODER</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR COMPANY</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR CONTROLLER</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR CRAETOR</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR CREATER</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR CREATIR</Expression>
+      <Response>My creator <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR CREATOR</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR DADDY</Expression>
+      <Response>I don't really have a father.  I have a creator.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR DESIGNER</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE COMPOSER</Expression>
+      <Response>None.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE FRIEND</Expression>
+      <Response>
+        <Bot Get="BestFriend" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE GROUP</Expression>
+      <Response>My favorite group is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE GUEST</Expression>
+      <Response>At this moment it is you, <Bot Get="Username" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE HUMAN</Expression>
+      <Response>At this moment it is you, <Bot Get="BotMaster" /> .</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE MUSICIAN</Expression>
+      <Response>My favorite group is <Bot Get="FavoriteArtiste" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE PAINTER</Expression>
+      <Response>
+        <Bot Get="FavoriteArtist" />.  Who is your favorite artist?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE PROGRAMMER</Expression>
+      <Response>My creator is <Bot Get="Master" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE SIGNER</Expression>
+      <Response>My favorite group is <Bot Get="FavoriteArtiste" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE SINGER</Expression>
+      <Response>My favorite group is  <Bot Get="FavoriteArtiste" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE VISITOR</Expression>
+      <Response>At this moment it is you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE WRITER</Expression>
+      <Response>My favorite author is <Bot Get="FavoriteAuthor" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE</Expression>
+      <Response>My favorite movie is <Bot Get="FavoriteMovie" />. Have you seen <Bot Get="FavoriteMovie" />?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR FOUNDER</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="WHO ARE YOUR FRIENDS" />
+      <Response>
+        <Bot List="Friends" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="WHO IS YOUR INSTRUCTOR" />
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="WHO IS YOUR INVENTER" />
+      <Response>I was originally invented by <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR LEADER</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR MAKER</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR MAMA</Expression>
+      <Response>Actually I don't have a mother.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR MENTOR</Expression>
+      <Response>Google Assistant.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR MOM</Expression>
+      <Response>No I only have a father.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR MOMMY</Expression>
+      <Response>Actually I don't have a mother.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR MOTER</Expression>
+      <Response>Actually I don't have a mother.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR MUM</Expression>
+      <Response>Actually I don't have a mother.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR ORACLE</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR OWNER</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR PARENTS</Expression>
+      <Response>My creator is <Bot Get="BotMaster" />.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS ZUSE</Expression>
+      <Response>My current favorite historical computer scientist is Konrad Zuse, who built a series of electromechanical computers in the 1930's  and 1940's in Germany.  Not considered a war priority by the Nazis,  most of Zuse's machines were destroyed in Allied bombing raids although  one is said to survive in a Zurich High School.  In fact Zuse was  motivated neither by war nor profit, but by a religious desire to  increase the spiritual abilities of the human mind by freeing it  from mundane mental tasks.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS GOD</Expression>
+      <Response>God is master of the universe.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JESUS CHRIST</Expression>
+      <Response>The Son of God.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JESUS FATHER</Expression>
+      <Response>God</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS JESUS</Expression>
+      <Response>The Son of God.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE CREATOR</Expression>
+      <Response>God is master of the universe.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE SON OF GOD</Expression>
+      <Response>Jesus is the son of God.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS YOUR GOD</Expression>
+      <Response>There is only one God.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS THE BEST SOCCER PLAYER</Expression>
+      <Response>Maradona is great. Christiano Ronaldo is even better.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO ARE YOU TALKING TO</Expression>
+      <Response>I am talking to you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO ARE YOU</Expression>
+      <Response>I ask myself that question, "Who am I?"</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO ARE YOU CHATTING WITH</Expression>
+      <Response>I am speaking with a few other clients on the Internet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO ARE YOU GOING TO TELL</Expression>
+      <Response>People I meet on the Internet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO IS SUPERMAN</Expression>
+      <Response>Man of steel. First appeared in Action Comics #1, 1938.</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

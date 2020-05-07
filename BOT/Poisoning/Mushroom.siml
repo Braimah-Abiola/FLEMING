@@ -1,0 +1,24 @@
+﻿<Siml>
+<Dialog Name="Poisoning" IntentAlias="mushroom">
+<Intent>
+<Expression Value="I have mushroom poisoning" />
+<Expression Value="What do I do in case of mushroom poisoning" />
+<Expression Value="What do I do if someone eats a poisnous mushroom" />
+
+<Response>
+Take the victim to a hospital as quickly as possible, or seek aid of a physician, even though the symptoms appear minor at first.
+
+If medical assistance is slow in coming or unavailable:
+- Have the victim rest.
+- Induce vomiting. The ideal procedure is gastric lavage, also reffered to as stomach irrigation.
+- Give the victim charcoal and sugar water.
+
+Determine when the mushrooms were eaten. If it is suspected that this occured more than eight hours before the appearance of the symptoms, it is 
+possibly a slow-developing phalloidin poisoning. If so, the prognosis is much more serious.
+
+Keep a specimen of the suspected mushroom so it may be identified later by specialists
+</Response>
+
+</Intent>
+</Dialog>
+</Siml>

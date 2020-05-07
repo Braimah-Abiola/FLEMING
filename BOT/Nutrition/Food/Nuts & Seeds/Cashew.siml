@@ -1,0 +1,35 @@
+﻿<Siml>
+<Dialog Name="NutsAndSeeds" IntentAlias="cashew">
+
+<Intent>
+<Expression Value="What is the botanical name of cashew" />
+<Expression Value="What is the scientific name of cashew" />
+
+<Response>
+Anacardium occidentale
+</Response>
+
+</Intent>
+
+<Intent>
+<Expression Value="What family does the cashew belong to" />
+
+<Response>
+Anacardiaceae
+</Response>
+
+</Intent>
+
+
+<Intent>
+<Expression Value="What are the uses of cashew" />
+<Expression Value="What are the nutritional benefits of cashew" />
+
+<Response>
+Cashew seeds are roasted before eating and are very rich in magnesium.
+</Response>
+
+</Intent>
+
+</Dialog>
+</Siml>

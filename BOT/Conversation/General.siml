@@ -1,0 +1,10 @@
+﻿<Siml>
+  <Dialog Name="TopicsDialog" IntentAlias="general">
+    
+    <Intent>
+      <Expression Value="" />
+      <Response></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

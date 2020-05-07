@@ -1,0 +1,39 @@
+﻿<Siml>
+  <Dialog Name="Myths" IntentAlias="meat">
+   
+    <Intent>
+      <Expression Value="What are the myths associated with meat" />
+      <Expression Value="What are the scientific facts behind myths of meat" />
+      <Response>
+      1. Meat is necessary for blood formation. In other words, meat produces blood.
+      
+      Scientific Fact: It is true that the iron in meat and fish is in a chemical form called heme easily absorbed by the body. However, the iron in
+      plant foods, eggs and diary products is also absorbed, particularly in the presence of vitamin C.
+      Meat is not essential as a source of dietetic iron. In fact, the iron from vegetable sources is just as useful in the formation of red blood
+      cells as that from meat. Blood hemoglobin cannot distinguish whether its iron atoms are from a beefsteak or from a bowl of lentils.
+      Anemia is as frequent among omnivores as it is among vegetarians. But it is much more prevalent among those whose diet is based on meat.
+      This has been proved with native Alaskans, who frequently suffer from anemia due to lack of iron in addition to other chronic diseases, as a 
+      consequence of their typical canivorous diet.
+      
+      2. Meat protein is necessary for tissue production during growth periods. In other words, meat makes meat. This myth is analogous to that of 
+      certain primitive tribes believing that by eating the meat of a strong animal they acquire the same strength.
+     
+      Scientific Fact: Protein, whether of animal or vegetable origin, is made up of long chains of amino acids that are the same in either case. The
+      only difference between animal and plant proteins is the proportion of their amino acids.
+      Digestive enzymes break down proteins and free their component amino acids. These amino acids are absorbed into the bloodstream and distributed
+      to the cells where they are used to synthesize the own body proteins.
+      The body needs amino acids, not specific proteins. The source of these amino acids, whether from beef, legumes, grains or other vegetable, is not
+      important.
+      The content of essential amino acids in meat protein is quite balanced, but not ideal. It is possible to achieve an equal or better amino acid
+      balance than those of meat by combining the proteins of a variety of plant-based foods.
+      Meat protein does not provide any amino acid that is not available from vegetable sources. In fact, herbivorous animals, whose muscles form 
+      what is known as meat, obtain essential amino acids from the plant foods that they eat.
+      
+      3. Meat provides essential nutrients that are unavailable from any other source
+      
+      Scientific Fact:
+      </Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

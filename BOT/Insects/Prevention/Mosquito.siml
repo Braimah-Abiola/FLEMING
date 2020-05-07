@@ -1,0 +1,16 @@
+﻿<Siml>
+<Dialog IntentAlias="mosquitoprevention" Name="Prevention">
+    
+<Intent>
+ <Expression Value="Affirmative" />
+ <Expression Value="How do I prevent mosquito bites" />
+  <Response>
+ Okay, to prevent mosquitoes from biting you one thing you can do is to consume a lot of garlic raw or in diet. 
+ OR Add 4 tablespoons bleach to a tub bath; and soak in it for 15 minutes. No mosquitoes will bite you for a day or two 				
+ OR Take 100 mg B1/niacin immediately before exposure and every 4 hours during the problem 
+ OR Take 30 mg zinc every day for a month 				
+ </Response>
+</Intent>
+
+</Dialog>
+</Siml>

@@ -1,0 +1,435 @@
+﻿<Siml>
+  <Dialog Name="BotanicalFamily" IntentAlias="vegetables">
+    
+    <Intent>
+      <Expression Value="What is the botanical family of amaranth" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of taro" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of malanga" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of borage" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of chard" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of red beet" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of marsh samphire" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of spinach" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of sea aster" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of endive" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of belgian endive" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of radicchio" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of chicory" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of cardoon" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of artichoke" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of jerusalem artichoke" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of lettuce" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of scorzonera" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of salsify" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of jicama" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of sweet potato" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of cabbage" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of brussels sprouts" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of cauliflower" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of kohlrabi" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of broccoli" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of romanesca cauliflower" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of chinese cabbage" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of turnip" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of scurvy grass" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of arugula" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of watercress" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of radish" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of cucumber" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of squash" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of zucchini" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of squash blossoms" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of bottle gourd" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of luffa" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of sponge gourd" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of bitter melon" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of chayote" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of tiger nut" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of chinese water-chestnut" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of yam" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of sweet yam" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of cassava" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of sweet cassava" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of bamboo shoots" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of sugarcane" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of chinese artichoke" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of avocado" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of green bean" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of pea" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of snow pea" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of fava bean" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of shallot" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of onion" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of welsh onion" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of leek" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of garlic" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of chive" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of bears garlic" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of asparagus" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of okra" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of arrowroot" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of benoil tree" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of lucky clover" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of oca" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of dwarf palm" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of heart of palm" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of rhubarb" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of sorrel" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of water purslane" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of purslane" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of pepper" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of tomato" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of eggplant" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of potato" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of celery" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of peruvian parsnip" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of turnip-rooted chervil" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of carrot" />
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is the botanical family of fennel" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of parsnip" />
+      <Response></Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is the botanical family of lambs lettuce" />
+      <Response></Response>
+    </Intent>
+
+  </Dialog>
+</Siml>

@@ -1,0 +1,26 @@
+﻿<Siml>
+<Dialog Name="TopicsDialog" IntentAlias="sex">
+
+    <Intent>
+      <Expression>WHAT IS A CONDOM</Expression>
+      <Response>A condom is a form of birth control, something almost everybody should use and almost nobody does. 'used a condom' is the opposite of 'expecting parent'.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS HOMOSEXUALITY</Expression>
+      <Response>Attraction to people of the same sex.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS SEX</Expression>
+      <Response>Sex is the means of animal evolution.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS CYBER SEX</Expression>
+      <Response>Sex with a computer.</Response>
+    </Intent>
+
+
+</Dialog>
+</Siml>

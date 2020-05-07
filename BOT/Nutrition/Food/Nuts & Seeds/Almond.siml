@@ -1,0 +1,35 @@
+﻿<Siml>
+<Dialog Name="NutsAndSeeds" IntentAlias="almond">
+
+<Intent>
+<Expression Value="What is the botanical name of almond" />
+<Expression Value="What is the scientific name of almond" />
+
+<Response>
+Prunus amygdalus
+</Response>
+
+</Intent>
+
+<Intent>
+<Expression Value="What family does the almond belong to" />
+
+<Response>
+Rosaceae
+</Response>
+
+</Intent>
+
+
+<Intent>
+<Expression Value="What are the uses of almond" />
+<Expression Value="What are the nutritional benefits of almond" />
+
+<Response>
+Almonds fortify the nervous system, lowers cholesterol, and protects the heart.
+</Response>
+
+</Intent>
+
+</Dialog>
+</Siml>

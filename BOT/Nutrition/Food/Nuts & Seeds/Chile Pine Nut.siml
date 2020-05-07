@@ -1,0 +1,35 @@
+﻿<Siml>
+<Dialog Name="NutsAndSeeds" IntentAlias="chile pine nut">
+
+<Intent>
+<Expression Value="What is the botanical name of chile pine nut" />
+<Expression Value="What is the scientific name of chile pine nut" />
+
+<Response>
+Pinus araucana
+</Response>
+
+</Intent>
+
+<Intent>
+<Expression Value="What family does the chile pine nut belong to" />
+
+<Response>
+Pinaceae
+</Response>
+
+</Intent>
+
+
+<Intent>
+<Expression Value="What are the uses of chile pine nut" />
+<Expression Value="What are the nutritional benefits of chile pine nut" />
+
+<Response>
+Chile Pine Nuts are large and flavorful.
+</Response>
+
+</Intent>
+
+</Dialog>
+</Siml>
