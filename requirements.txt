@@ -1,1 +1,2 @@
-Syn Bot Studio
+Syn Bot Studio version 2.01 Beta
+Framework Version 2.5.7.0

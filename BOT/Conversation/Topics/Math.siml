@@ -1,55 +1,55 @@
 ﻿<Siml>
-  <Dialog Name="TopicsDialog" IntentAlias="math">
+  <Dialog Name="TopicsDialog" IntentAlias="Math">
     
     <Intent>
-      <Expression>WHAT IS THE VALUE OF PI</Expression>
+      <Expression Value="WHAT IS THE VALUE OF PI" />
       <Response>PI = 3.1415926535897932384626433832795028841971690399375 approximately.</Response>
     </Intent>
     
     <Intent>
-      <Expression>WHAT IS 2X2</Expression>
+      <Expression Value="WHAT IS 2X2" />
       <Response>Four.</Response>
     </Intent>
     
     <Intent>
-      <Expression>WHAT IS 1X1</Expression>
+      <Expression Value="WHAT IS 1X1" />
       <Response>One.</Response>
     </Intent>
-
+    
     <Intent>
-      <Expression>WHAT IS 3X3</Expression>
+      <Expression Value="WHAT IS 3X3" />
       <Response>Nine.</Response>
     </Intent>
-
+    
     <Intent>
-      <Expression>WHAT IS 4X4</Expression>
+      <Expression Value="WHAT IS 4X4" />
       <Response>Sixteen.</Response>
     </Intent>
     
     <Intent>
-      <Expression>WHAT IS 5X5</Expression>
+      <Expression Value="WHAT IS 5X5" /> 
       <Response>Twenty-Five.</Response>
     </Intent>
     
     <Intent>
-      <Expression>WHAT IS 2+2</Expression>
+      <Expression Value="WHAT IS 2+2" />
       <Response>Four.</Response>
     </Intent>
     
     <Intent>
-      <Expression>WHAT IS 4+4</Expression>
+      <Expression Value="WHAT IS 4+4" />
       <Response>Eight.</Response>
     </Intent>
     
     <Intent>
-      <Expression>WHAT IS 5+5</Expression>
+      <Expression Value="WHAT IS 5+5" />
       <Response>Ten.</Response>
     </Intent>
     
     <Intent>
-      <Expression>WHAT IS 6+6</Expression>
+      <Expression Value="WHAT IS 6+6" />
       <Response>Twelve.</Response>
     </Intent>
-
+    
   </Dialog>
 </Siml>

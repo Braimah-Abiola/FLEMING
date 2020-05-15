@@ -2,7 +2,7 @@
 ## SIML BOT (Synthetic Intelligence Markup Language)
 
 ### This project is a medical chatbot called **Fleming** that is able to diagnose and prescribe possible treatments in the form of natural remedies and nutrition
-__
+___
 #### FEATURES OF FLEMING
 1. Nutritional advice (ADI, RDA, Allergies etc)
 1. Small Talk
@@ -16,7 +16,7 @@ __
 1. Natural Remedies
 1. Disease Diagnosis
 1. Prescribing Treatment
-__
+___
 #### TASKS
 * [x] Nutritional advice (ADI, RDA, Allergies etc)
 * [x] Small Talk
@@ -30,6 +30,8 @@ __
 * [ ] Natural Remedies
 * [ ] Disease Diagnosis
 * [ ] Prescribing Treatment
-
+___
+##### Optimization - In Development
+___
 
 ###### Written by Braimah Abiola
